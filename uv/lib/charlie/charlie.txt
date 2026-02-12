@@ -5573,7 +5573,7 @@ contentful
 catalinite
 catalyse
 craterellus
-copr
+copr 1
 censused
 cofactor
 catalyses
