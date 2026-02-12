@@ -3965,7 +3965,7 @@ chattelize
 caecilian
 cruster
 carburometer
-chinee
+chinee 1
 carcajou
 carcajous
 carcake
