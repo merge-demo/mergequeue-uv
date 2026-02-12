@@ -9403,7 +9403,7 @@ amenorrhea
 antipoetic
 aerobated
 assessments
-accumulates
+accumulates 1
 alraun
 already
 alreadiness
