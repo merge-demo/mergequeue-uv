@@ -5099,7 +5099,7 @@ dedimus
 dispone
 dissipated
 dissimulates
-disterr
+disterr 1
 destitute
 deperition
 ductings
