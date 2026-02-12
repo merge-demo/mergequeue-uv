@@ -8285,7 +8285,7 @@ chalder
 coholder
 chaleh
 chalybeate
-chalybes
+chalybes 1
 chalybite
 chalice
 chancelry
