@@ -5874,7 +5874,7 @@ bucconasal
 bluer
 blackman
 begaudy
-bellweed
+bellweed 1
 beggardom
 bretons
 butterbur
