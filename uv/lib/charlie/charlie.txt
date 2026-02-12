@@ -28874,7 +28874,7 @@ crumblement
 catharization
 crevet
 crevette
-creviced
+creviced 1
 chorus
 cussers
 crevices
