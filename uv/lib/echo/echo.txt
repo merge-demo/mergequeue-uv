@@ -11613,7 +11613,7 @@ empires
 ewes
 engraphia
 eucalypt
-envenomous
+envenomous 1
 everywhereness
 expatiation
 encephalitis
