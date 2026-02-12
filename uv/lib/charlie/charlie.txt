@@ -9782,7 +9782,7 @@ ceylon
 caudate
 cheliform
 crajuru
-curua
+curua 1
 chelingas
 cheliped
 chelys
