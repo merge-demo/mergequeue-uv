@@ -16080,7 +16080,7 @@ decontaminate
 dactylographer
 demigoddessship
 dogbolt
-dunger
+dunger 1
 doughhead
 doughy
 derabbinize
