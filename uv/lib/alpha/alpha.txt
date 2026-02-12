@@ -1163,7 +1163,7 @@ allocrotonic
 allethrin
 ammoniacal
 azimuths
-advancing
+advancing 1
 acana
 antilopine
 anemophily
