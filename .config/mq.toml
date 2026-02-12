@@ -16,16 +16,16 @@ sleep_for = "10m"
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 10          # target number of pull requests per hour
-run_generate_for = "30 minutes"
+requests_per_hour = 20          # target number of pull requests per hour
+run_generate_for = "40 minutes"
 change_code_path = "uv/lib"
 
 # how to distribute changes of impacted deps
-# 75% - 1 dep change
-# 15% - 2 dep change
+# 65% - 1 dep change
+# 25% - 2 dep change
 # 9%  - 3 deps
 # 1% - ALL will be specified
-deps_distribution = "0.75x1,0.15x2,0.09x3,0.01xALL"
+deps_distribution = "0.65x1,0.25x2,0.09x3,0.01xALL"
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
