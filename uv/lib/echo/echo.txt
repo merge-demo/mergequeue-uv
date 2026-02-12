@@ -6744,7 +6744,7 @@ enthelminthic
 exungulate
 effume
 ectosomal
-extratarsal
+extratarsal 1
 esthesioneurosis
 exsuperate
 exhilarate

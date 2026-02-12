@@ -785,7 +785,7 @@ abitibi
 abridgement
 abridger
 anapeiratic
-acurative
+acurative 1
 afternote
 argles
 abridging
