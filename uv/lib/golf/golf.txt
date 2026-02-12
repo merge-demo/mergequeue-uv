@@ -9481,7 +9481,7 @@ glossographical
 gleeishly
 gauffering
 grilled
-gossamery
+gossamery 1
 gae
 glaciaria
 gonyaulax
