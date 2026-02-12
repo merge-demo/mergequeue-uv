@@ -19076,7 +19076,7 @@ cabalism
 clarencieux
 cardiasthma
 chloridizing
-collimated
+collimated 1
 collimates
 collimation
 collimator
