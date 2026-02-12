@@ -10426,7 +10426,7 @@ fumous
 fetterer
 forfex
 feetage
-finnesko
+finnesko 1
 fillagree
 feta
 fescue
