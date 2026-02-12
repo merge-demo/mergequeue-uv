@@ -2651,7 +2651,7 @@ acrasias
 aking
 acrawl
 amygdalic
-acre
+acre 1
 amount
 afoam
 aquamarine
