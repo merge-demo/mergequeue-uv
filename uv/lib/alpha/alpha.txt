@@ -22795,7 +22795,7 @@ audibility
 atlantite
 arthrodic
 arrowheaded
-antigenically
+antigenically 1
 ammodytes
 antipopulationist
 autokrator
