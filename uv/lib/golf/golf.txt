@@ -181,7 +181,7 @@ gradgrind
 golfer
 goaled
 gabarit
-gammacism
+gammacism 1
 groschen
 gavage
 gelled
