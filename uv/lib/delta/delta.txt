@@ -2836,7 +2836,7 @@ decries
 decrying
 depolarizers
 danegelt
-dielectrically
+dielectrically 1
 demonic
 decriminalization
 disequalization
