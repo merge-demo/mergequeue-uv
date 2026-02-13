@@ -14329,7 +14329,7 @@ crambid
 crystalwort
 calorific
 cointers
-corniness
+corniness 1
 cystorrhagia
 circumspheral
 circumsphere
