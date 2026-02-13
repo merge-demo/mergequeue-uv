@@ -7174,7 +7174,7 @@ centraxonial
 centre
 clinoaxis
 centreboard
-centred
+centred 1
 centref
 centreless
 centrepiece
