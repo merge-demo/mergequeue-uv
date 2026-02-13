@@ -14912,7 +14912,7 @@ cordites
 creaks
 chupak
 cytostomal
-camouflaged
+camouflaged 1
 cordwood
 cytostromatic
 compromised
