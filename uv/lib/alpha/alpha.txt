@@ -13389,7 +13389,7 @@ ankylopodia
 alamiqui
 acridest
 ankyloses
-accoll
+accoll 1
 antihumbuggist
 archmarshal
 assafetida
