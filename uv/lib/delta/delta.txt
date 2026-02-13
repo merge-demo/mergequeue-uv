@@ -3996,7 +3996,7 @@ disintensify
 duplex
 devitalise
 deputized
-distune
+distune 1
 delectating
 damnously
 distritbutes
