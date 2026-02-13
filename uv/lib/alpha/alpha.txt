@@ -9585,7 +9585,7 @@ alimentary
 autoharp
 accountableness
 alture
-altus
+altus 1
 algivorous
 alpaca
 amazia
