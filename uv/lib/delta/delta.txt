@@ -2340,7 +2340,7 @@ deceptively
 dermatologic
 disloign
 deceptiveness
-dinichthyid
+dinichthyid 1
 deafnesses
 dextrotropic
 decerebrate
