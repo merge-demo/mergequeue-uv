@@ -178,7 +178,7 @@ goniometry
 gluteoperineal
 guesting
 gradgrind
-golfer
+golfer 1
 goaled
 gabarit
 gammacism 1

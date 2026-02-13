@@ -11543,7 +11543,7 @@ evangeline
 emprize 1
 endosteitis
 edital
-evocating
+evocating 1
 ensign
 enkerchief
 esterlin
