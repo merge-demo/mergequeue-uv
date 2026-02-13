@@ -18365,7 +18365,7 @@ desecrating
 duodenoenterostomy
 dreamish
 dorse
-demulcent
+demulcent 1
 denudative
 duodenojejunostomies
 dillue
