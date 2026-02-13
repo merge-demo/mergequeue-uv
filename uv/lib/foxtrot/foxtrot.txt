@@ -6325,7 +6325,7 @@ fiddlery
 fumatories
 fissipeda
 frags
-fluidity
+fluidity 1
 fuzzy
 flack
 futural
