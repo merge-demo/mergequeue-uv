@@ -876,7 +876,7 @@ gameness
 galvanizes
 gallowsward
 geegaw
-gadis
+gadis 1
 galactan
 glove
 guily
