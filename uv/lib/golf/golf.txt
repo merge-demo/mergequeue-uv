@@ -5136,7 +5136,7 @@ gregarinous
 glali 1
 gnatflower
 gaumed
-gallweed
+gallweed 1
 glomera
 goblinesque
 gutturine
