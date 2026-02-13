@@ -6788,7 +6788,7 @@ gaffsail
 galiot
 gavyuti
 ganglioside
-gossiping
+gossiping 1
 geront
 gymnogyps
 gentilitial
