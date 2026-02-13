@@ -17596,7 +17596,7 @@ burgeons
 blepharodiastasis
 burgers
 becurtained
-bivalency
+bivalency 1
 bacteriostatically
 baseballs
 burggrave
