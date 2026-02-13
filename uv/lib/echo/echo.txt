@@ -912,7 +912,7 @@ excommunicators
 endosporous
 eriodictyon
 ectotoxin
-exampled
+exampled 1
 exegesist
 epilogistic
 enteritidis
