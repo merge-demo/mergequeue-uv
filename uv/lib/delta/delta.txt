@@ -11713,7 +11713,7 @@ disclaim
 declinator
 disprobabilization
 dashy
-discourteousness
+discourteousness 1
 discoach
 discoverable
 distilland
