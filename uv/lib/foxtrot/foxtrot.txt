@@ -10859,7 +10859,7 @@ flaite
 functionally
 fantasizing
 footholds
-fallings
+fallings 1
 fossors
 flavor
 frowardly
