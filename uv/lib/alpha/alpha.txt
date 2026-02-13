@@ -15585,7 +15585,7 @@ ailurophile
 aquage
 altrose
 approves
-assumpt
+assumpt 1
 antimoralistic
 accrescence
 antimorality
