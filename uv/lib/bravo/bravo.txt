@@ -2684,7 +2684,7 @@ barnaby
 bluebreast
 besnivel
 burnettizing
-birefractive
+birefractive 1
 blowoffs
 birdland
 boraxes
