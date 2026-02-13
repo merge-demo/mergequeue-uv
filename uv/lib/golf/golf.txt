@@ -4861,7 +4861,7 @@ gigantize
 greenings
 goiterogenic
 gladfulness
-galaxian
+galaxian 1
 geck
 glaciates
 gladiator
