@@ -7201,7 +7201,7 @@ denarcotization
 diaphorase
 diemaking
 dotting
-detaches
+detaches 1
 dicast
 dynamis
 demijohns
