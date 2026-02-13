@@ -762,7 +762,7 @@ goutwort
 groupings
 gladsomer
 gawkily
-geometrically
+geometrically 1
 graywether
 galvanotherapy
 geomorphic
