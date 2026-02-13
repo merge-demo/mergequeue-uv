@@ -774,7 +774,7 @@ euomphalid
 egger
 ecrase
 enclitic
-escort
+escort 1
 extense
 eremophilous
 experimental
