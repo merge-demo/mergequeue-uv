@@ -10268,7 +10268,7 @@ frolicking
 frillies
 flagitiousness
 ferricyanhydric
-frolicsome
+frolicsome 1
 fishful
 fratched
 frammit
