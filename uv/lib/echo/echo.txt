@@ -10327,7 +10327,7 @@ exaggerative
 ethonomics
 ethnocentric
 epeirogenic
-encyclopaedical
+encyclopaedical 1
 epipastic
 exporting
 eroticist
