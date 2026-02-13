@@ -237,106 +237,130 @@ wheels = [
 [[package]]
 name = "uv-alpha"
 version = "0.1.0"
-source = { editable = "uv/lib/alpha" }
+source = { editable = "uv/dict/alpha" }
 dependencies = [
     { name = "uv-common" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "uv-common", editable = "uv/lib/common" }]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
 
 [[package]]
 name = "uv-bravo"
 version = "0.1.0"
-source = { editable = "uv/lib/bravo" }
+source = { editable = "uv/dict/bravo" }
 dependencies = [
     { name = "uv-common" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "uv-common", editable = "uv/lib/common" }]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
 
 [[package]]
 name = "uv-charlie"
 version = "0.1.0"
-source = { editable = "uv/lib/charlie" }
+source = { editable = "uv/dict/charlie" }
 dependencies = [
     { name = "uv-common" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "uv-common", editable = "uv/lib/common" }]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
 
 [[package]]
 name = "uv-common"
 version = "0.1.0"
-source = { editable = "uv/lib/common" }
+source = { editable = "uv/dict/common" }
 
 [[package]]
 name = "uv-delta"
 version = "0.1.0"
-source = { editable = "uv/lib/delta" }
+source = { editable = "uv/dict/delta" }
 dependencies = [
     { name = "uv-common" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "uv-common", editable = "uv/lib/common" }]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
 
 [[package]]
 name = "uv-echo"
 version = "0.1.0"
-source = { editable = "uv/lib/echo" }
+source = { editable = "uv/dict/echo" }
 dependencies = [
     { name = "uv-common" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "uv-common", editable = "uv/lib/common" }]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
 
 [[package]]
 name = "uv-foxtrot"
 version = "0.1.0"
-source = { editable = "uv/lib/foxtrot" }
+source = { editable = "uv/dict/foxtrot" }
 dependencies = [
     { name = "uv-common" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "uv-common", editable = "uv/lib/common" }]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
 
 [[package]]
 name = "uv-golf"
 version = "0.1.0"
-source = { editable = "uv/lib/golf" }
+source = { editable = "uv/dict/golf" }
 dependencies = [
     { name = "uv-common" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "uv-common", editable = "uv/lib/common" }]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
+
+[[package]]
+name = "uv-hotel"
+version = "0.1.0"
+source = { editable = "uv/dict/hotel" }
+dependencies = [
+    { name = "uv-common" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
+
+[[package]]
+name = "uv-indigo"
+version = "0.1.0"
+source = { editable = "uv/dict/indigo" }
+dependencies = [
+    { name = "uv-common" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
+
+[[package]]
+name = "uv-juliet"
+version = "0.1.0"
+source = { editable = "uv/dict/juliet" }
+dependencies = [
+    { name = "uv-common" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
+
+[[package]]
+name = "uv-kilo"
+version = "0.1.0"
+source = { editable = "uv/dict/kilo" }
+dependencies = [
+    { name = "uv-common" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "uv-common", editable = "uv/dict/common" }]
 
 [[package]]
 name = "uv-wordcounter"
 version = "0.1.0"
 source = { editable = "uv/apps/wordcounter" }
-dependencies = [
-    { name = "uv-alpha" },
-    { name = "uv-bravo" },
-    { name = "uv-charlie" },
-    { name = "uv-delta" },
-    { name = "uv-echo" },
-    { name = "uv-foxtrot" },
-    { name = "uv-golf" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "uv-alpha", editable = "uv/lib/alpha" },
-    { name = "uv-bravo", editable = "uv/lib/bravo" },
-    { name = "uv-charlie", editable = "uv/lib/charlie" },
-    { name = "uv-delta", editable = "uv/lib/delta" },
-    { name = "uv-echo", editable = "uv/lib/echo" },
-    { name = "uv-foxtrot", editable = "uv/lib/foxtrot" },
-    { name = "uv-golf", editable = "uv/lib/golf" },
-]

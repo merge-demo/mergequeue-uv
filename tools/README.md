@@ -51,7 +51,7 @@ python3 tools/detect_impacted_uv_targets.py --base=main
 python3 tools/detect_impacted_uv_targets.py --uncommitted
 
 # Check affected packages for specific files
-python3 tools/detect_impacted_uv_targets.py --files="uv/lib/alpha/alpha.py,uv/lib/common/common.py"
+python3 tools/detect_impacted_uv_targets.py --files="uv/dict/alpha/alpha.py,uv/dict/common/common.py"
 
 # Custom output file
 python3 tools/detect_impacted_uv_targets.py --base=HEAD~1 -o uv_targets.json

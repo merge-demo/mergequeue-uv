@@ -137,7 +137,7 @@ def load_workspace_packages(
 
     Returns:
         (path_by_name, dependents)
-        path_by_name: e.g. {"uv-alpha": "uv/lib/alpha", ...}
+        path_by_name: e.g. {"uv-alpha": "uv/dict/alpha", ...}
         dependents: reverse graph, e.g. {"uv-common": ["uv-alpha", "uv-bravo", ...]}
     """
     lock_path = repo_root / "uv.lock"

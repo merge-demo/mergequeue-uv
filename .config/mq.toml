@@ -18,7 +18,7 @@ labels = ""                     # label to apply to pull request on creation (co
 comment = ""
 requests_per_hour = 20          # target number of pull requests per hour
 run_generate_for = "40 minutes"
-change_code_path = "uv/lib"
+change_code_path = "uv/dict"
 
 # how to distribute changes of impacted deps
 # 65% - 1 dep change

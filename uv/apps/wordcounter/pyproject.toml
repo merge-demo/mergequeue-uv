@@ -3,15 +3,7 @@ name = "uv-wordcounter"
 version = "0.1.0"
 description = "Word counter application"
 requires-python = ">=3.8"
-dependencies = [
-  "uv-alpha",
-  "uv-bravo",
-  "uv-charlie",
-  "uv-delta",
-  "uv-echo",
-  "uv-foxtrot",
-  "uv-golf",
-]
+dependencies = []
 
 [project.scripts]
 wordcounter = "wordcounter:main"
@@ -23,12 +15,3 @@ build-backend = "hatchling.build"
 [tool.hatch.build.targets.wheel]
 # Include files like lib packages do
 include = ["wordcounter.py"]
-
-[tool.uv.sources]
-uv-alpha = { workspace = true }
-uv-bravo = { workspace = true }
-uv-charlie = { workspace = true }
-uv-delta = { workspace = true }
-uv-echo = { workspace = true }
-uv-foxtrot = { workspace = true }
-uv-golf = { workspace = true }
