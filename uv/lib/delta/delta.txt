@@ -2182,7 +2182,7 @@ despotically
 decarboniser
 dobsonfly
 ditching
-destine
+destine 1
 decarboxylization
 decandently
 difda
