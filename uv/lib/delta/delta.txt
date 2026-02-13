@@ -3582,7 +3582,7 @@ dissociative
 degage
 degames
 deganglionate
-dystome
+dystome 1
 degasify
 duco
 deadlatch
