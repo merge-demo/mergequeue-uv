@@ -4213,7 +4213,7 @@ bowls
 boudoir
 beaucoup
 beaued
-biblicistic
+biblicistic 1
 bowdlerizing
 brl
 belittling
