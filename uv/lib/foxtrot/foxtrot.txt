@@ -7795,7 +7795,7 @@ fatelike
 footrail
 fleshier
 flung
-facingly
+facingly 1
 forjudges
 formosan
 fluorescigenic
