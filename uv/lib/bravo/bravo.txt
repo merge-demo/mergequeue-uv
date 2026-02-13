@@ -12371,7 +12371,7 @@ boombox
 beget
 bluishness
 bedizening
-bulgarian
+bulgarian 1
 bergeres
 beele 1
 boonk
