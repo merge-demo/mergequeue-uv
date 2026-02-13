@@ -10391,7 +10391,7 @@ ecclesiastical
 emperorship
 ethologists
 euphonical
-expediently
+expediently 1
 edulcorator
 eruct
 edmond

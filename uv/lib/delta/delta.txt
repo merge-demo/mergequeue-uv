@@ -16535,7 +16535,7 @@ dacryops
 disarchbishop
 draftsman
 drupaceous
-decamping
+decamping 1
 draftsmanship
 dynastidan
 dyspnoic
