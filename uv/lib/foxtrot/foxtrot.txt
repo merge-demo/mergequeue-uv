@@ -2269,7 +2269,7 @@ facaded
 florentinism
 flatulence
 firebombed
-fumaria
+fumaria 1
 forshape
 full
 flavones
