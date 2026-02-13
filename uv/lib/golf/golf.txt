@@ -7160,7 +7160,7 @@ gabbros
 glistering
 geometrise
 guans
-gaffs
+gaffs 1
 glycid
 gauming
 gross
