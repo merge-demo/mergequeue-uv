@@ -22726,7 +22726,7 @@ antispadix
 averruncation
 athletism
 athlothetes
-applauds
+applauds 1
 ascared
 annumerate
 abhorson
