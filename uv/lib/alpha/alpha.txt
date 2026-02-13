@@ -21111,7 +21111,7 @@ arkoses
 ascothoracica
 acritude
 aerographer
-ascribable
+ascribable 1
 ahum
 agrobiologically
 antidogmatical
