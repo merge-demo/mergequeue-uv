@@ -7308,7 +7308,7 @@ grossness
 griddlecake
 goyetian
 gambled
-ganglion
+ganglion 1
 gyrostatic
 genet
 gutturally
