@@ -870,7 +870,7 @@ aflatus
 amurcosity
 absentminded
 aerobics
-absentness
+absentness 1
 avicennism
 aiver
 abshenry
