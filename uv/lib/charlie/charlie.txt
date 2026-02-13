@@ -30528,7 +30528,7 @@ cubelium
 carsten
 cubera
 cardioptosis
-cure
+cure 1
 cubers
 cubes
 cognatical
