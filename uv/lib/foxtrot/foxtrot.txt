@@ -11276,7 +11276,7 @@ furlane
 fractionary
 friskets
 furbish
-functionalizing
+functionalizing 1
 flaxwife
 frigorify
 foregut
