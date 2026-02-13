@@ -5000,7 +5000,7 @@ fleetingness
 fettle
 flood
 faured
-flaneurs
+flaneurs 1
 flanked
 formulaically
 fledging
