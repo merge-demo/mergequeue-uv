@@ -9,6 +9,7 @@ propagates impact to dependents using the dependency graph from uv.lock.
 
 import argparse
 import json
+import re
 import subprocess  # noqa: B404  # bandit: git is a trusted control-plane tool
 import sys
 from pathlib import Path
@@ -128,22 +129,92 @@ def find_uv_workspace(repo_root: Path) -> Optional[Path]:
     return None
 
 
+def _discover_workspace_members_from_pyproject(repo_root: Path) -> Dict[str, str]:
+    """
+    Discover workspace member (name -> path) from root pyproject.toml [tool.uv.workspace]
+    by expanding member globs and reading each member's pyproject for name.
+    Use when uv.lock is stale and missing some members.
+    """
+    root_pyproject = repo_root / "pyproject.toml"
+    if not root_pyproject.exists():
+        return {}
+    text = root_pyproject.read_text(encoding="utf-8")
+    # Find [tool.uv.workspace] and members = [...]
+    in_workspace = False
+    in_members = False
+    members_raw: List[str] = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if stripped == "[tool.uv.workspace]":
+            in_workspace = True
+            continue
+        if in_workspace and stripped.startswith("["):
+            break
+        if in_workspace and "members" in line and "=" in line:
+            in_members = True
+            # Parse same line and following lines until ]
+            for part in re.findall(r'"([^"]+)"', line):
+                members_raw.append(part)
+            if "]" in line:
+                break
+            continue
+        if in_members:
+            for part in re.findall(r'"([^"]+)"', line):
+                members_raw.append(part)
+            if "]" in line:
+                break
+    # Expand globs to concrete paths (relative to repo_root)
+    member_paths: List[str] = []
+    for m in members_raw:
+        if "*" in m:
+            prefix = m.split("*")[0].rstrip("/")
+            dir_path = repo_root / prefix
+            if dir_path.is_dir():
+                for child in sorted(dir_path.iterdir()):
+                    if child.is_dir():
+                        rel = str(child.relative_to(repo_root)).replace("\\", "/")
+                        member_paths.append(rel)
+        else:
+            member_paths.append(m.replace("\\", "/"))
+    # Read project name from each member's pyproject.toml
+    path_by_name: Dict[str, str] = {}
+    name_re = re.compile(r'^\s*name\s*=\s*["\']([^"\']+)["\']', re.MULTILINE)
+    for rel_path in member_paths:
+        pyproject = repo_root / rel_path / "pyproject.toml"
+        if not pyproject.exists():
+            continue
+        try:
+            content = pyproject.read_text(encoding="utf-8")
+            match = name_re.search(content)
+            if match:
+                path_by_name[match.group(1)] = rel_path
+        except (IOError, OSError):
+            continue
+    return path_by_name
+
+
 def load_workspace_packages(
     repo_root: Path,
 ) -> tuple[Dict[str, str], Dict[str, List[str]]]:
     """
     Parse uv.lock for workspace members: package name -> editable path (relative to repo),
     and dependency graph: package name -> list of direct workspace dependency names.
-
-    Returns:
-        (path_by_name, dependents)
-        path_by_name: e.g. {"uv-alpha": "uv/lib/alpha", ...}
-        dependents: reverse graph, e.g. {"uv-common": ["uv-alpha", "uv-bravo", ...]}
+    Also discovers members from [tool.uv.workspace] so packages missing from the lock
+    (e.g. after adding a new lib without re-running uv sync) are still detected.
     """
     lock_path = repo_root / "uv.lock"
-    if not lock_path.exists():
-        return {}, {}
-    return _parse_uv_lock(lock_path)
+    path_by_name: Dict[str, str] = {}
+    dependents: Dict[str, List[str]] = {}
+    if lock_path.exists():
+        path_by_name, dependents = _parse_uv_lock(lock_path)
+    # Merge in any workspace members discovered from pyproject (covers stale lock)
+    discovered = _discover_workspace_members_from_pyproject(repo_root)
+    for name, pkg_dir in discovered.items():
+        if name not in path_by_name and pkg_dir:
+            path_by_name[name] = pkg_dir
+            if name not in dependents:
+                dependents[name] = []
+    return path_by_name, dependents
 
 
 def get_changed_files(
@@ -334,7 +405,10 @@ def main() -> None:
 
     path_by_name, dependents = load_workspace_packages(workspace_root)
     if not path_by_name:
-        print("Error: No workspace members found in uv.lock", file=sys.stderr)
+        print(
+            "Error: No workspace members found (check uv.lock and [tool.uv.workspace])",
+            file=sys.stderr,
+        )
         sys.exit(1)
 
     if not args.quiet:
