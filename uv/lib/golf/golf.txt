@@ -1019,7 +1019,7 @@ granitizing
 gnomons
 geophilous
 gymnure
-guttle
+guttle 1
 glanduliferous
 gully
 geognostic
