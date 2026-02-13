@@ -10566,7 +10566,7 @@ gunmaking
 gaun
 gerbo
 gesneraceae
-gyneocracy
+gyneocracy 1
 gallivanter
 grasset
 gunmetal
