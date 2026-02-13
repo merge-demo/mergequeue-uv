@@ -732,7 +732,7 @@ enormity
 economized
 enharmonical
 elucidated
-esthesises
+esthesises 1
 edifice
 extramolecular
 ensamples
