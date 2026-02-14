@@ -8125,7 +8125,7 @@ guidebooks
 glyoxalin
 gobs
 genically
-gorsedd
+gorsedd 1
 galactic
 grimed
 gibsons
