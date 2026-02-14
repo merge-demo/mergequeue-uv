@@ -30507,7 +30507,7 @@ corozos
 cubane
 cubangle
 cubanite
-cubatory
+cubatory 1
 contraclockwise
 counterweighed
 cubby
