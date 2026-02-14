@@ -5794,7 +5794,7 @@ goupin
 gnatworm
 genupectoral
 goniometer
-globoid
+globoid 1
 geobotanically
 garblers
 gosling
