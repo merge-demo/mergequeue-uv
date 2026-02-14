@@ -3455,7 +3455,7 @@ duelists
 dehumidifier
 damp
 discomfortably
-defluent
+defluent 1
 debyes
 disassociating
 doffed
