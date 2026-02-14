@@ -5478,7 +5478,7 @@ flensers
 fallation
 fidelities
 feignedness
-feus
+feus 1
 farouk
 foolscap
 furunculoid
