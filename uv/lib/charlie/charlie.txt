@@ -31631,7 +31631,7 @@ colling
 chlorohydrocarbon
 curvilinead
 carpingly
-curvimeter
+curvimeter 1
 curviness
 curving
 curviserial
