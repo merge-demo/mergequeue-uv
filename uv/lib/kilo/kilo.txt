@@ -3923,7 +3923,7 @@ keypdafs
 keypdjlitmgekj
 keypwhknumje
 keyq
-keyqrw
+keyqrw 1
 keyqxxbtrcrz
 keysc
 keysmyi
