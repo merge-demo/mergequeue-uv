@@ -6086,7 +6086,7 @@ dysphemized
 diencephala
 disarmers
 disgraded
-disannulling
+disannulling 1
 disintegrant
 diastasic
 dysmenorrhoea
