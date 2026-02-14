@@ -6961,7 +6961,7 @@ bearherd
 bedsite
 bestrid
 beslimes
-backsheesh
+backsheesh 1
 breme
 bepaid
 beslobber

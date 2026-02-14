@@ -4177,7 +4177,7 @@ faintness
 fluophosphate
 foreaccounting
 fumago
-frier
+frier 1
 forecloses
 franchisor
 fining
