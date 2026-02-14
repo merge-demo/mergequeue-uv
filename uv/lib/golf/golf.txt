@@ -6733,7 +6733,7 @@ genes
 gauges
 gyrostats
 glomerate
-globulimeter
+globulimeter 1
 geyseral
 gurdfish
 gruine
