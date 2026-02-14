@@ -1346,7 +1346,7 @@ daunted
 dhobies
 daunters
 decertified
-daffy
+daffy 1
 dipentine
 demissive
 diploid
