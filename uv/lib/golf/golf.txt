@@ -5791,7 +5791,7 @@ garrulously
 goony
 grunts
 goupin
-gnatworm
+gnatworm 1
 genupectoral
 goniometer
 globoid 1
