@@ -31397,7 +31397,7 @@ curios
 cheminee
 cartridges
 curiosa
-curiosi
+curiosi 1
 curiosities
 cremona
 curioso
