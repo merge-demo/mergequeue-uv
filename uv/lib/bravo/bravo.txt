@@ -6524,7 +6524,7 @@ buster
 bushelful
 blenniiformes
 blackheartedness
-bolar
+bolar 1
 browis
 berakah
 breadstuff
