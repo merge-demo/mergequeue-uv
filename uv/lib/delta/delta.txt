@@ -11798,7 +11798,7 @@ diplococcoid
 dollarleaf
 delabialize
 demot
-duny
+duny 1
 dosserets
 deinodon
 discriminating
