@@ -1866,7 +1866,7 @@ abiezer
 anadyomene
 anacoluthia
 athlothete
-acestes
+acestes 1
 acceleration
 adstrict
 anthropomorphological
