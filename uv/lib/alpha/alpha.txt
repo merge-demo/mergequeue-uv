@@ -792,7 +792,7 @@ abridging
 anourous
 abris
 abristle
-alabandine
+alabandine 1
 abroach
 airdock
 abrogate
