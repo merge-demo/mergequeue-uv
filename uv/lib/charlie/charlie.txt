@@ -12580,7 +12580,7 @@ chronograph
 chronographer
 chronography
 choreas
-crosslap
+crosslap 1
 cauterizing
 circumventable
 chronoisothermal
