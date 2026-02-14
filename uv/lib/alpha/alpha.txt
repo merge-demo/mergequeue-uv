@@ -16967,7 +16967,7 @@ alfione
 aplites
 amulet
 aplitic
-angering
+angering 1
 aplodontiidae
 aplomb
 amygdaliferous
