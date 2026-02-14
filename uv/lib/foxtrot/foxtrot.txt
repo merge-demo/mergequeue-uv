@@ -6410,7 +6410,7 @@ fossae
 fluoride
 fibromyositis
 frasera
-flyboat
+flyboat 1
 flisky
 fetches 2
 fitchet
