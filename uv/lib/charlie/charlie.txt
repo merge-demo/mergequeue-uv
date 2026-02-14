@@ -7829,7 +7829,7 @@ cervicoauricular
 chippable
 cervicobasilar
 cervicobregmatic
-cobitis
+cobitis 1
 cervicobuccal
 cervicodynia
 cervicolabial

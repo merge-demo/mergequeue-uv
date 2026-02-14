@@ -3106,7 +3106,7 @@ depleting
 describable
 dialecticize
 dinornithic
-defalcating
+defalcating 1
 dipteral
 deaths
 defamation

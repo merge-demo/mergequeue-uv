@@ -9067,7 +9067,7 @@ goloch
 gryllid
 galluptious
 geelbek
-glottogonic
+glottogonic 1
 greffotome
 glassworking
 glasser
