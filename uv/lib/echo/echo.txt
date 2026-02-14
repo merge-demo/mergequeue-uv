@@ -11483,7 +11483,7 @@ eucharis
 evidencing
 ethicophysical
 eonian
-enolized
+enolized 1
 ekistics
 eventuates
 epizooties
