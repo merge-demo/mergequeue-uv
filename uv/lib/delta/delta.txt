@@ -14387,7 +14387,7 @@ distributivity
 dysentery
 durian
 dehydrocorydaline
-desolative
+desolative 1
 detainable
 dephlogisticated
 dolicholus
