@@ -7844,7 +7844,7 @@ gurlet
 gasometric
 guttide
 grisoutine
-grovelled
+grovelled 1
 gtc
 geoglossaceae
 gun
