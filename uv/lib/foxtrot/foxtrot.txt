@@ -9876,7 +9876,7 @@ frickle
 ferrel
 frontager
 furilic
-frozenly
+frozenly 1
 fibropericarditis
 feverless
 filibusters
