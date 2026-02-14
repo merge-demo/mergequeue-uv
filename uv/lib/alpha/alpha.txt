@@ -15575,7 +15575,7 @@ acetabulum
 antimoniuretted
 antimonopolistic
 allantoidian
-ardure
+ardure 1
 aediculae
 antimoral
 antimoralism
