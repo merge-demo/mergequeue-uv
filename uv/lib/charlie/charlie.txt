@@ -28037,7 +28037,7 @@ crimine
 conicine
 cigarets
 cramasie
-cognoscible
+cognoscible 1
 chillo
 carnalizing
 crambe
