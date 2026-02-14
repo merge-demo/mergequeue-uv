@@ -9536,7 +9536,7 @@ kovnzval
 kovpp
 kovq
 kovqdfitl
-kovr
+kovr 1
 kovrijnutr
 kovrvzcupkfw
 kovrxdc
