@@ -26107,7 +26107,7 @@ chiefdoms
 conspiratorial
 cosmism
 cosmisms
-cosmist
+cosmist 1
 cotyledonous
 carolin
 cadgy
