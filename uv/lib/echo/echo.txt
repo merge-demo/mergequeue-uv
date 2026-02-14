@@ -9260,7 +9260,7 @@ erratas
 erratic
 erratically
 enantiomorphic
-elite
+elite 1
 eulogist
 endosmos
 electropism
