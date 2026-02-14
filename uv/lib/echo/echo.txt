@@ -918,7 +918,7 @@ epilogistic
 enteritidis
 echinoids
 extropical
-encapsulating
+encapsulating 1
 escalation
 electrotonic
 emplaces
