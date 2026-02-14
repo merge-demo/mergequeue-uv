@@ -7917,7 +7917,7 @@ epileny
 endopeptidase
 extensible
 exotospore
-entomeric
+entomeric 1
 exuccous
 exarchic
 eidola
