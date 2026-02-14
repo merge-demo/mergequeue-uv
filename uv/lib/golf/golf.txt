@@ -4230,7 +4230,7 @@ gynaecium
 gunned
 grovel
 goloka
-gois
+gois 1
 gaetuli
 gyromagnetic
 galvanomagnetism

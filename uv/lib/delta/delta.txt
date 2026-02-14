@@ -14516,7 +14516,7 @@ detruncated
 disintegratory
 divinability
 defiles
-diviner
+diviner 1
 divinesse
 decarburised
 disjointly
