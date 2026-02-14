@@ -3456,7 +3456,7 @@ gudrun
 gymkhanas
 gretel
 gehey
-geodes
+geodes 1
 gesseron
 gessoes
 gerrhosauridae
