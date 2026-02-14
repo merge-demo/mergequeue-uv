@@ -3342,7 +3342,7 @@ fameworthy
 fruggan
 fullmouthedly 1
 fandom
-fulcra
+fulcra 1
 flon
 forsung
 flench
