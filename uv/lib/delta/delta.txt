@@ -2857,7 +2857,7 @@ decubiti
 deculturate
 driverless
 decuman
-deperm
+deperm 1
 dihydronicotine
 desensitizations
 dramatizations
