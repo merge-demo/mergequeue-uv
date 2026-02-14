@@ -15297,7 +15297,7 @@ congous
 clamourous
 checkrow
 clamoursome
-clamped
+clamped 1
 cholestanol
 clamps
 coolibah
