@@ -7627,7 +7627,7 @@ doctrinally
 diathermaneity
 devel
 disassembling
-develing
+develing 1
 differentiations
 develop
 dehydroffroze
