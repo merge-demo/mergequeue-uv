@@ -290,7 +290,7 @@ gummier
 glossophora
 gaintwist
 giglot
-geobotany
+geobotany 1
 ganjas
 gynaecian
 gargoylism
