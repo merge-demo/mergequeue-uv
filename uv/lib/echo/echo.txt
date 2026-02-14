@@ -12477,7 +12477,7 @@ entomophthorous
 epigenetic
 exiguously
 exilarchate
-extemporariness
+extemporariness 1
 expiated
 ethicality
 exilement
