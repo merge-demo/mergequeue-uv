@@ -14231,7 +14231,7 @@ bombycinous
 briskets
 bradyseismical
 bradysphygmia
-badrans
+badrans 1
 bolsheviks
 bit
 butterer
