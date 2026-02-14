@@ -515,7 +515,7 @@ ectropometer
 ecgonin
 ecgonine
 evenhandedness
-echappe
+echappe 1
 examinator
 emphyteusis
 echelle
