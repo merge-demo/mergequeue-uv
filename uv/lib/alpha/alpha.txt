@@ -16793,7 +16793,7 @@ aphorismer
 aphorismical
 acanthopore
 artamus
-agnoete
+agnoete 1
 aphorismos
 avatars
 autopore
