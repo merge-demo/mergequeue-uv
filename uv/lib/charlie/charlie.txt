@@ -30734,7 +30734,7 @@ cufic
 contorno
 conspue
 cuiejo
-cuif
+cuif 1
 cuifs
 cuinage
 cuing
