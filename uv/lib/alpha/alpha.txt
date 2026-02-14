@@ -23099,7 +23099,7 @@ algicidal
 attargul
 antisplenetic
 armigers
-alluviation
+alluviation 1
 antephialtic 1
 attars
 anticommercialistic
