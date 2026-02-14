@@ -4038,7 +4038,7 @@ gutturals
 gerundive
 gushingly
 graybacks
-grossierete
+grossierete 1
 giliak
 gunating
 garter
