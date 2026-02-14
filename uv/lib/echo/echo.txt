@@ -8881,7 +8881,7 @@ exp
 epergnes
 evonymus
 estrangement
-ergative
+ergative 1
 elmier 1
 ergatocrat
 epiblast

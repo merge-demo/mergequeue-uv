@@ -6450,7 +6450,7 @@ feltman
 froisse
 footbaths
 feneration
-fluotantalic
+fluotantalic 1
 forweary
 flummery
 filth
@@ -10657,7 +10657,7 @@ fidicinal
 foodstuffs
 fruitiness
 fieldworker
-flagless
+flagless 1
 fist
 footler
 famish
