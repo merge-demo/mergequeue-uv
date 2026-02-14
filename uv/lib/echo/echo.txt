@@ -13996,7 +13996,7 @@ enfigure
 extrapolatory
 entemple
 extraposition
-electrolytic
+electrolytic 1
 extraprofessional
 extrapunitive
 equinity
