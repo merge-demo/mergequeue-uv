@@ -9268,7 +9268,7 @@ dedd
 dieses
 deforester
 diesters
-deflectable
+deflectable 1
 dearworth
 dromaeognathae
 diestock
