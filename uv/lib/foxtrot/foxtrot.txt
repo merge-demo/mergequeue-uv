@@ -11558,7 +11558,7 @@ friskful
 fusile
 flytier
 fulgurator
-fulmar
+fulmar 1
 futhermore
 fixature
 finnickiest
