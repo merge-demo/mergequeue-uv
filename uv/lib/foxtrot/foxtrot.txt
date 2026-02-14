@@ -838,7 +838,7 @@ faddishness
 finestill
 fractures
 freckened
-freedoot
+freedoot 1
 fervorous
 forebows
 free
