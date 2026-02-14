@@ -2890,7 +2890,7 @@ frouncing
 foaled
 flowstone
 fractioning
-fettlings
+fettlings 1
 farcin
 freighted
 fackins
