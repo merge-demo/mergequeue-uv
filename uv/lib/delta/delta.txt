@@ -8322,7 +8322,7 @@ diapausing
 dyakish
 dg
 dialcohol
-dialect
+dialect 1
 doomsman
 decolourized
 demoded
