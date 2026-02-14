@@ -12985,7 +12985,7 @@ evicke
 exposals
 emotion
 ensnarls
-entice
+entice 1
 expectorant
 espiglerie
 expectorated
