@@ -16115,7 +16115,7 @@ antisensitizing
 antiseptic
 acetylcarbazole
 actinomycese
-asseverate
+asseverate 1
 antiseptically
 avadavat
 acerates
