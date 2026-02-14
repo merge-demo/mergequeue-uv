@@ -14870,7 +14870,7 @@ documentations
 deoxidator
 divertive
 documentize
-dehortative
+dehortative 1
 doucepere
 disazo
 downbear
