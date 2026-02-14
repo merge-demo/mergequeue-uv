@@ -12173,7 +12173,7 @@ arachnidium
 antilife
 actional
 aetites
-amsel
+amsel 1
 autohemotherapy
 acetylenyl
 acetification
