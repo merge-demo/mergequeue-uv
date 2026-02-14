@@ -18682,7 +18682,7 @@ colicker
 coislander
 clogs
 cleading
-coistril
+coistril 1
 commutate
 coital
 conflictful
