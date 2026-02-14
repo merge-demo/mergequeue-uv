@@ -6579,7 +6579,7 @@ glottalization
 ground
 grabblers
 gesture
-gambeson
+gambeson 1
 grummets
 girons
 gimmerpet
