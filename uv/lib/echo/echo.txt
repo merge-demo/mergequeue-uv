@@ -9838,7 +9838,7 @@ endoceras
 equiomnipotent
 engin
 enslumber
-envyingly
+envyingly 1
 esterified
 eclipsation
 eatage
