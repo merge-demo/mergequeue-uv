@@ -18296,7 +18296,7 @@ draftproof
 dunnish
 dunnite
 dagger
-dextorsal
+dextorsal 1
 doray
 desmepithelium
 danaan
