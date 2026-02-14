@@ -4546,7 +4546,7 @@ gawp
 gmelinite
 gingering
 gyrate
-garigue
+garigue 1
 gyrated
 gosain
 grandfatherish
