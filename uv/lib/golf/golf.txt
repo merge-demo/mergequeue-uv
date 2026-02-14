@@ -2288,7 +2288,7 @@ glimpses
 granulocytopoiesis
 geitonogamy
 gonostyle
-geomoroi
+geomoroi 1
 grange
 granulosa
 gynarchy
