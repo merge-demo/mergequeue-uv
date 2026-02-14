@@ -22808,7 +22808,7 @@ amplificator
 atloid
 atloidean
 arousals
-astonished
+astonished 1
 adsorbates
 atma
 atman
