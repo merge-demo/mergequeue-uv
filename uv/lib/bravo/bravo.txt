@@ -15036,7 +15036,7 @@ brachyceric
 badon
 bacteriol
 babite
-binapthyl
+binapthyl 1
 befetter
 betiding
 bicuspidal

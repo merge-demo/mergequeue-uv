@@ -797,7 +797,7 @@ debile
 daubers
 delusters
 dovecote
-diuretical
+diuretical 1
 danegelds
 dungeon
 deckhead
