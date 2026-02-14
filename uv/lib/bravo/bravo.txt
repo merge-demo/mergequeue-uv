@@ -6534,7 +6534,7 @@ bavarois
 beaming 1
 blameable
 backplanes
-bagel
+bagel 1
 bhagat
 breezy
 bioecologies
