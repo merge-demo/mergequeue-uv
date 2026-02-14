@@ -25648,7 +25648,7 @@ corpuscule
 corpusculous
 chairlift
 corradial
-corradiate
+corradiate 1
 corradiated
 correality
 correctable
