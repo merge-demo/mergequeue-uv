@@ -1296,7 +1296,7 @@ doitrified
 dardanarius
 disturbed
 daturism
-delusive
+delusive 1
 diphycercal
 dauber
 distinguishingly
