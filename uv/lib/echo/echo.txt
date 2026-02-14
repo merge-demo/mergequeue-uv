@@ -6797,7 +6797,7 @@ exasperate
 embryoniform
 entitatively
 entitle
-elixed
+elixed 1
 evangelistarion
 enculturating
 eggheads

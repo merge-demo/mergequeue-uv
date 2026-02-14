@@ -8231,7 +8231,7 @@ dablet
 divers
 damasked
 dissectors
-dulcor
+dulcor 1
 diorism
 diadochic
 diadochite
