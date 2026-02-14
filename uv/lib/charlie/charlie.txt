@@ -2159,7 +2159,7 @@ conterminate
 cymba
 corduroy
 campho
-camphocarboxylic
+camphocarboxylic 1
 camphoid
 choryos
 camphol
