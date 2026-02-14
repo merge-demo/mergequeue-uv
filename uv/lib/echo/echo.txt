@@ -10691,7 +10691,7 @@ eva
 euglenaceae
 extrasyllabic
 enswathe
-ensigning
+ensigning 1
 embraced
 endopleural
 erebus
