@@ -20681,7 +20681,7 @@ amphorous
 arefy
 ayurvedas
 axiolitic
-articulacy
+articulacy 1
 aleuroscope
 anoa
 actinons
