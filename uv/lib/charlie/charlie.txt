@@ -3481,7 +3481,7 @@ culverkeys
 cheimaphobia
 crunt
 coulage
-cabalistical
+cabalistical 1
 capsizes
 capsizing
 capernaitish
