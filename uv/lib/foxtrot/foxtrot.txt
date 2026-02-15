@@ -10981,7 +10981,7 @@ furmities
 fumatory
 flatuous
 floricin
-featherpated
+featherpated 1
 fumatoria
 freesilverism
 fumbled
