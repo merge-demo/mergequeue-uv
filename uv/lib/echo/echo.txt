@@ -2403,7 +2403,7 @@ epicaridan
 electrodeless
 exponentials
 ectogenetic
-energist
+energist 1
 electrodeposition
 ebriosity
 epitrochlea
