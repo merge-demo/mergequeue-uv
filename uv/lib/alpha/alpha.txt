@@ -13386,7 +13386,7 @@ assumption
 ankyloglossia
 auditress
 ankylopodia
-alamiqui
+alamiqui 1
 acridest
 ankyloses
 accoll 1
