@@ -8124,7 +8124,7 @@ granulary
 guidebooks
 glyoxalin
 gobs
-genically
+genically 1
 gorsedd 1
 galactic
 grimed
