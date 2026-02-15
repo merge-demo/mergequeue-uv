@@ -2356,7 +2356,7 @@ artifact
 awalt
 alizari
 archontate
-advertised
+advertised 1
 assigning
 adytta
 acyloins
