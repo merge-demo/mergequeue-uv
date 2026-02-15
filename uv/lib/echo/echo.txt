@@ -14028,7 +14028,7 @@ extractorship
 extrasterile
 extrastomachal
 ethmolith
-elocutionist
+elocutionist 1
 esterase
 endopterygotous
 extratellurian
