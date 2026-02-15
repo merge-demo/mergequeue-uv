@@ -12117,7 +12117,7 @@ electorates
 edrioasteroid
 excerpter
 eubacterium
-ency
+ency 1
 excruciating
 enascent
 excruciator
