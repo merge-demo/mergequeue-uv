@@ -1400,7 +1400,7 @@ desma
 dysesthetic
 davies
 duotriode
-dayless
+dayless 1
 decephalize
 diorites
 daviesite
