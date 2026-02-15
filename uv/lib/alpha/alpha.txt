@@ -5916,7 +5916,7 @@ agamobium
 agglutinize
 anathematization
 agglutinogen
-agglutinoscope
+agglutinoscope 1
 acclaiming
 amblygeusia
 agglutogenic
