@@ -265,7 +265,7 @@ abashing
 admonition
 aquamaniles
 aristolochiales
-abdicant
+abdicant 1
 abhorrence
 abdications
 anthropomorphizing
