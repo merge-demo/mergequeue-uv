@@ -13662,7 +13662,7 @@ doucin
 degases
 dissymmetric
 degender
-dampy
+dampy 1
 devises
 disturbances
 demisemitone
