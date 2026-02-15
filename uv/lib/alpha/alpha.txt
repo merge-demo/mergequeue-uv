@@ -10761,7 +10761,7 @@ apartmental
 adherends
 aplanatically
 arthroses
-alterableness
+alterableness 1
 amitate
 antighostism
 abandonments
