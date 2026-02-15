@@ -3061,7 +3061,7 @@ canvasers
 coralroot
 cumaldehyde
 coperiodic
-capriola
+capriola 1
 cyclopterous
 canvasing
 causata
