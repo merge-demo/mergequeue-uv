@@ -4694,7 +4694,7 @@ eyeopener
 eryhtrism
 encyclopaedically
 extraterritorially
-encyclopedia
+encyclopedia 1
 enwoman
 encyclopediacal
 equestrianship
