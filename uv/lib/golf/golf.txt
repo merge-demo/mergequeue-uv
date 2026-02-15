@@ -10826,7 +10826,7 @@ glimmers
 gargol
 gelatinizing
 gyved
-gigunu
+gigunu 1
 guvacine
 goatland
 growing
