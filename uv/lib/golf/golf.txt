@@ -2726,7 +2726,7 @@ gemmoid
 genit
 gnatho
 groundmass
-glozing
+glozing 1
 gryllidae
 grather
 gonopodium
