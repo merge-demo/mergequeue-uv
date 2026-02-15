@@ -1225,7 +1225,7 @@ disparison
 disclamation
 demiassignation
 deleads
-dulcinist
+dulcinist 1
 dextrines
 dialyzers
 diapasonal
