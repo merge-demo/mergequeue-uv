@@ -1307,7 +1307,7 @@ fernambuck
 fibromata
 functionarism
 foreconsent
-feculency
+feculency 1
 fulvous
 flear
 flirtation
