@@ -16144,7 +16144,7 @@ antiship
 antishipping
 amphitryon
 antisideric
-antisymmetry
+antisymmetry 1
 anthophobia
 aeroplanist
 aethalioid
