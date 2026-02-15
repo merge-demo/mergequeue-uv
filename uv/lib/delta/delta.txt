@@ -9747,7 +9747,7 @@ deforcement
 decussated
 disilicane
 deerdrive
-dilates
+dilates 1
 disapprovable
 descender
 decolourization
