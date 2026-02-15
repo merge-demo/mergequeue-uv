@@ -7368,7 +7368,7 @@ deticker
 dogtoothing
 drumheads
 desertedness
-detinet
+detinet 1
 daising
 decriminalizes
 deflagration
