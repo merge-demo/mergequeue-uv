@@ -10833,7 +10833,7 @@ chintzy
 califs
 caulomer
 clapholt
-contendingly
+contendingly 1
 chiococca
 collagens
 chlordane
