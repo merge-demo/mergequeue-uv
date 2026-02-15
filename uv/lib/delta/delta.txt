@@ -4285,7 +4285,7 @@ delusionary
 dumpish
 delusively
 deporting
-dichotomous
+dichotomous 1
 digallate
 designatory
 delustering
