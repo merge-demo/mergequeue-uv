@@ -19608,7 +19608,7 @@ columniform
 contralto
 cherimoya
 circumaction
-coitional
+coitional 1
 columning
 cuttling
 columnist
