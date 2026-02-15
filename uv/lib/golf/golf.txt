@@ -6699,7 +6699,7 @@ gainsayer
 guttler
 grint
 gibbet
-gulae
+gulae 1
 gobmouthed
 growable
 gromatic
