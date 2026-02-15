@@ -17340,7 +17340,7 @@ cimline
 coassist
 coassistant
 culpas
-cupola
+cupola 1
 coassume
 crystallic
 coassuming
