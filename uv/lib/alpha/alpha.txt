@@ -5855,7 +5855,7 @@ aponeurosis
 ankylosaur
 agendum
 amovability
-agene
+agene 1
 anticonscription
 aerogram
 ageneses
