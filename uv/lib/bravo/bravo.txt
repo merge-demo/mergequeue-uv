@@ -14916,7 +14916,7 @@ bungerly
 bitthead
 breaster 1
 breastfast
-bura
+bura 1
 bearing
 balantidium
 breastheight
