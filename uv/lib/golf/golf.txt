@@ -2913,7 +2913,7 @@ gigots
 glycollic
 glints
 gallipots
-glittering
+glittering 1
 gledes
 gonocyte
 gallinulelike
