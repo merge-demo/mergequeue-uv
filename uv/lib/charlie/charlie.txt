@@ -30635,7 +30635,7 @@ cephaloclasia
 coleopteral
 crossable
 coprology
-cucullate
+cucullate 1
 contravened
 chilidog
 crustosis
