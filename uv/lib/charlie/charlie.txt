@@ -2655,7 +2655,7 @@ cangy
 crankdisk
 cangia
 constitutively
-cangler
+cangler 1
 cangue
 chonolith
 cangues
