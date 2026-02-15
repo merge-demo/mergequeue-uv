@@ -15286,7 +15286,7 @@ diluviums
 dolmas
 dolmen
 desubstantiate
-dolomedes
+dolomedes 1
 discovery
 dolomite
 derries
