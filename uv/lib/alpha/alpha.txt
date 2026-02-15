@@ -8918,7 +8918,7 @@ admired
 alloyage
 alloiogenesis
 assizer
-alloiometric
+alloiometric 1
 adjustments
 acrogenic
 alloisomerism
