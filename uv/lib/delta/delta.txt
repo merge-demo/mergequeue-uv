@@ -10433,7 +10433,7 @@ diphenylene
 despend
 diphenylenimine
 ditcher
-dug
+dug 1
 diphenylhydantoin
 dogmatic
 diodon
