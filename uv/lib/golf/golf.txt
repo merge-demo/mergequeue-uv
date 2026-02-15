@@ -5084,7 +5084,7 @@ galoisian
 gillied
 grasni
 guddler
-glassines
+glassines 1
 galloping
 glassiness
 glasslikeness
