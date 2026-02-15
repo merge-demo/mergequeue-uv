@@ -11270,7 +11270,7 @@ dieretic
 dystrophy
 disbursing 1
 dreamworld
-depolymerized
+depolymerized 1
 discabinet
 discommendableness
 discamp
