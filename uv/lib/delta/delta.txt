@@ -3771,7 +3771,7 @@ dehorted
 defatigate
 dehorting
 digitoxin
-decompensation
+decompensation 1
 duckweed
 dehumanising
 dehumanization
