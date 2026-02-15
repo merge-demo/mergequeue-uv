@@ -30398,7 +30398,7 @@ charted
 cresotinic
 crustalogy
 crustalogical
-crustalogist
+crustalogist 1
 cyrenaic
 crustated
 cripes
