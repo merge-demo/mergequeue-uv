@@ -15493,7 +15493,7 @@ chemotaxis
 contraposition
 cowtail
 competitioner
-constrainable
+constrainable 1
 chirotonsor
 clarre
 clarseach
