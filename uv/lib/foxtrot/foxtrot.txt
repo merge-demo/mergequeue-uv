@@ -8944,7 +8944,7 @@ footsoreness
 fanmaking
 fourre
 fraternizing
-feverishly
+feverishly 1
 folktales
 fermental
 faroeish
