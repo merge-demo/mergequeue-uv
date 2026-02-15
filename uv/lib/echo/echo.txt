@@ -2361,7 +2361,7 @@ excrete
 espaliering
 encore
 encomia
-evenlong
+evenlong 1
 electrocataphoresis
 equison
 ephedrine
