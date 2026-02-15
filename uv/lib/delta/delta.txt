@@ -2094,7 +2094,7 @@ disappearance
 diabrotica
 disencumbering
 dinoflagellida
-decurvation
+decurvation 1
 dixiecrat
 dauphiness
 diddle
