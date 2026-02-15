@@ -5325,7 +5325,7 @@ epicoracoidal
 eustachium
 enravishes
 externes
-erectors
+erectors 1
 ernest
 estocs
 ergodicity
