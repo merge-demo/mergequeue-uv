@@ -13837,7 +13837,7 @@ expos 1
 euthenics
 excudit
 elaeothesia
-extraversively
+extraversively 1
 extracosmical
 ethnozoological
 equipotentiality
