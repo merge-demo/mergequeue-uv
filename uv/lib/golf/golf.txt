@@ -8694,7 +8694,7 @@ grassily
 gasteromycete
 glyphograph
 greedyguts
-guaconize
+guaconize 1
 gibier
 greedless
 grecism
