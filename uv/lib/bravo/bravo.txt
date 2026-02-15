@@ -9469,7 +9469,7 @@ bisulphide
 brittling
 babingtonite
 biron
-byronesque
+byronesque 1
 birostrate
 byronic
 binocles
