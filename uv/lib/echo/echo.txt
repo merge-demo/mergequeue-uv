@@ -1000,7 +1000,7 @@ earthwork
 edaphosaurus
 explosibility
 encapsules
-euthanasic
+euthanasic 1
 enterocinetic
 epoxide
 endearments
