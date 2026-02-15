@@ -6333,7 +6333,7 @@ equijacent
 embowed
 enrut
 euclidean
-ens
+ens 1
 emmenagogue
 elenchtic
 ensanguine
