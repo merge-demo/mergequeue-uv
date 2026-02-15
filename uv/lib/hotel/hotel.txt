@@ -5373,7 +5373,7 @@ hift
 hiftjharbt
 hiftk
 hiftsbw
-hiftv
+hiftv 1
 hifupx
 hifv
 hifvom
