@@ -10030,7 +10030,7 @@ denudement
 dimpsy
 dimwittedly
 demodulation
-detailer
+detailer 1
 demist
 deck
 disordain
