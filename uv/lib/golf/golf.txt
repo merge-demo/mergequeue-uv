@@ -132,7 +132,7 @@ glacises
 granulize
 gageable
 guerdonable
-geryonid
+geryonid 1
 guelf
 gadwalls 1
 girth
