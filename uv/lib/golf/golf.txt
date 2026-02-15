@@ -4140,7 +4140,7 @@ gymnasic
 galeidae
 genitivally
 grapsidae
-gentilities
+gentilities 1
 grundy
 geochronology
 gnawing
