@@ -626,7 +626,7 @@ gallisin
 gunslingers
 gillie
 geophysicist
-gigartina
+gigartina 1
 glide
 gradatory
 guenepe
