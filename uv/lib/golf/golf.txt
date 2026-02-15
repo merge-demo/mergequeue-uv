@@ -8590,7 +8590,7 @@ gossipy
 gonidioid
 gravure
 gathic
-gossameriness
+gossameriness 1
 gametically
 genealogical
 guerdonless
