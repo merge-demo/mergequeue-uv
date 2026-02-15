@@ -5409,7 +5409,7 @@ envolupen
 evocatory
 endotheliomas
 excercise
-explicators
+explicators 1
 esquiline
 empyreum
 eophyte
