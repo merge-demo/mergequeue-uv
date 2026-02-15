@@ -4293,7 +4293,7 @@ deceleration
 delved
 dermatopathology
 demimillionaire
-dysarthria
+dysarthria 1
 dissemble
 draggletail
 delver
