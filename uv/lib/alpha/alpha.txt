@@ -9788,7 +9788,7 @@ amicabilities
 amperage
 amalgamization
 anaphase
-amalic
+amalic 1
 argosine
 aircrews
 audacity
