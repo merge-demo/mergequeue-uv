@@ -29783,7 +29783,7 @@ crool
 counterambush
 croon
 crooned
-cankeredness
+cankeredness 1
 crooner
 cullible
 citable
