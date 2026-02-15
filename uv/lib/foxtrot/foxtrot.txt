@@ -7310,7 +7310,7 @@ facers
 fourgon
 fluttery
 flushermen
-fumitory
+fumitory 1
 favelloid
 fleeched
 foaminess
