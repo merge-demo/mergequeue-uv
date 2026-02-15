@@ -1122,7 +1122,7 @@ grope
 galatic
 gastrointestinal
 gruntled
-gashes
+gashes 1
 globalization
 glossing
 ganoidian
