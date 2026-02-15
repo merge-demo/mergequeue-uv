@@ -4211,7 +4211,7 @@ geod
 gleesome
 ganef
 gulflike
-geniculum
+geniculum 1
 gossy
 gymnotus
 gutling
