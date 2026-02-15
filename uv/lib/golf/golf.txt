@@ -5116,7 +5116,7 @@ goldeneye
 greesagh
 gte
 glathsheimr
-ginnel
+ginnel 1
 gourmander
 glycocholic
 gasless
