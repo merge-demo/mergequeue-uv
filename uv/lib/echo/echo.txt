@@ -1085,7 +1085,7 @@ echinology
 elective
 edification
 evaluators
-exfigure
+exfigure 1
 earock
 equipoised
 evaluates
