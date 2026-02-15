@@ -5763,7 +5763,7 @@ fenmen
 flited
 frontate
 foge
-freckliness
+freckliness 1
 foehns
 finebent
 finings
