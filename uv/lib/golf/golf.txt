@@ -2573,7 +2573,7 @@ galenites
 grosses
 gaiterless
 giveaways
-generalized
+generalized 1
 graywall
 guv
 gauchely
