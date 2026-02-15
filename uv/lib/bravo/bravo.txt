@@ -671,7 +671,7 @@ begall
 bronchiolitis
 bathyesthesia
 baculine
-boiseries
+boiseries 1
 baculoid
 baculus
 badaga
