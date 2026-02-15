@@ -20154,7 +20154,7 @@ arrays
 agdistis
 acutilinguae
 arrand
-arrangeable
+arrangeable 1
 arrangement
 agoge
 arrayals
