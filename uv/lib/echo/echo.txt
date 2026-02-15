@@ -2792,7 +2792,7 @@ extrathoracic
 estrangements
 elementalize
 ephori
-elementaloid
+elementaloid 1
 emperil
 essang
 encoronate
