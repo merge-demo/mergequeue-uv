@@ -7939,7 +7939,7 @@ epilogical
 entomophaga
 eurystomatous
 emitter
-eatery
+eatery 1
 extrastapedial
 endosmosis
 exudates
