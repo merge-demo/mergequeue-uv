@@ -6592,7 +6592,7 @@ feltness
 frounce
 foamflower
 flammulation
-firework
+firework 1
 forthcomer
 frocks
 floriculturally
