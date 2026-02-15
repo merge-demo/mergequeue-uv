@@ -685,7 +685,7 @@ emasculative
 eclosions
 ethel
 engaging
-excursionism
+excursionism 1
 enumerative
 ebriated
 esteros
