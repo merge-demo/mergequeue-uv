@@ -10839,7 +10839,7 @@ fulfullment
 functionless
 fontanels
 flamefish
-furoin
+furoin 1
 fishpool
 forficate
 flaminian
