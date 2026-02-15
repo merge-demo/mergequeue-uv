@@ -1224,7 +1224,7 @@ acanthuridae
 acanthuthi
 ascetical
 adenocarcinomata
-articulator
+articulator 1
 adelite
 antiproductiveness
 acarapis
