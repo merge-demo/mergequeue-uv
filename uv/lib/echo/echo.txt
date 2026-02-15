@@ -7089,7 +7089,7 @@ enunciability
 etymologer
 euphemous
 ebonising
-eleemosynar
+eleemosynar 1
 enunciated
 embowelled
 escalloniaceous
