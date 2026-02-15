@@ -5113,7 +5113,7 @@ dendrocolaptine
 dendroctonus
 dendroeca
 drakes
-degrade
+degrade 1
 duplicating
 dendrohyrax
 deneutralization
