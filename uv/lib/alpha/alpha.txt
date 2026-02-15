@@ -17313,7 +17313,7 @@ autocollimator
 algaecide
 antiforeign
 apostatically
-apostatise
+apostatise 1
 appendicectasis
 abthain
 arguers
