@@ -1089,7 +1089,7 @@ gegenion
 glares
 guarding
 gainfully
-graphicness
+graphicness 1
 gowdy
 goularo
 gormandizers
