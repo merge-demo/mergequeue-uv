@@ -10341,7 +10341,7 @@ externation
 electroplaque
 ethnographer
 echium
-existently
+existently 1
 euornithic
 ethnohistoric
 equinox
