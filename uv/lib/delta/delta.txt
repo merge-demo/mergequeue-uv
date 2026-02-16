@@ -4929,7 +4929,7 @@ depositum
 demonstrations
 doctrinary
 derotreme
-decrescence
+decrescence 1
 daktylon
 duskily
 demophilism
