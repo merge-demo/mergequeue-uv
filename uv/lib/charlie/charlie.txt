@@ -5927,7 +5927,7 @@ carminite
 coloplication
 catharist 1
 catharistic
-choctaws
+choctaws 1
 crumbcloth
 chenilles
 calcrete
