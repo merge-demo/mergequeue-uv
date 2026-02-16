@@ -21802,7 +21802,7 @@ crumped
 crunchable
 condurangin
 cone
-compt
+compt 1
 communistical
 couvades
 coneflower
