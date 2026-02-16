@@ -22064,7 +22064,7 @@ confluent
 combatively
 confluxes
 confluxibility
-confluxible
+confluxible 1
 coempt
 champert
 conormal

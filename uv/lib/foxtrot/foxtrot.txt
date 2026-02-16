@@ -588,7 +588,7 @@ forlornity
 fallowist
 fardh
 forerunners
-fivefold
+fivefold 1
 floorless
 fellon
 foreknows
