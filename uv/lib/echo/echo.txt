@@ -12260,7 +12260,7 @@ extemporizer
 exegetics
 exing
 ecphorias
-ensheaths
+ensheaths 1
 electroaffinity
 ensued
 eds
