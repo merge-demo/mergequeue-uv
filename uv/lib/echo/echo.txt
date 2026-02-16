@@ -7911,7 +7911,7 @@ econ
 endorsation
 epeirid
 extrabuccal
-exquisitive
+exquisitive 1
 experimentation
 epileny
 endopeptidase
