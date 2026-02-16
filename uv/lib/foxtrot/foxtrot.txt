@@ -6413,7 +6413,7 @@ frasera
 flyboat 1
 flisky
 fetches 2
-fitchet
+fitchet 1
 flaking
 forescene
 fairm
