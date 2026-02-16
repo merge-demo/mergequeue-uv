@@ -8885,7 +8885,7 @@ ergative 1
 elmier 1
 ergatocrat
 epiblast
-embreastment
+embreastment 1
 excambion
 ergatogyne
 earflaps
