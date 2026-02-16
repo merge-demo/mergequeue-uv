@@ -13168,7 +13168,7 @@ bilobated
 besneer
 bullhorns
 baronize
-bangtail
+bangtail 1
 brachycephalize
 bourlaw
 bowtel
