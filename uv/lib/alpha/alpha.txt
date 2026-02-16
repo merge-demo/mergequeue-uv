@@ -22138,7 +22138,7 @@ asthamatic
 antimacassar
 astheny
 achroacyte
-ambitionless
+ambitionless 1
 ailantery
 abjudge
 argute
