@@ -13016,7 +13016,7 @@ anhalouidine
 antisimoniacal
 annihilable
 anharmonic
-abbreviating
+abbreviating 1
 aluniferous
 aeroballistics
 arrowy
