@@ -5475,7 +5475,7 @@ er
 etatist
 epidia
 enema
-enthralment
+enthralment 1
 excrescential
 enemata
 enemyship
