@@ -11525,7 +11525,7 @@ fistic
 foreremembered
 fab
 furtiveness
-frena
+frena 1
 foxfeet
 fuselages
 fuselike
