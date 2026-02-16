@@ -4417,7 +4417,7 @@ disassembled
 dementation
 dementedly
 dementholize
-disseated
+disseated 1
 demiatheism
 dementia
 desoxyribonucleoprotein
