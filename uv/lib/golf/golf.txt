@@ -2908,7 +2908,7 @@ gadders
 geocentric
 gadwell
 grandnieces
-gerontocracy
+gerontocracy 1
 gigots
 glycollic
 glints
