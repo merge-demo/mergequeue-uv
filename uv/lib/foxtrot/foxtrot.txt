@@ -314,7 +314,7 @@ feints
 fag
 feint
 fostell
-finagles
+finagles 1
 fibrillated
 finochio
 flusker
