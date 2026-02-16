@@ -2724,7 +2724,7 @@ gusle
 grith
 gemmoid
 genit
-gnatho
+gnatho 1
 groundmass
 glozing 1
 gryllidae
