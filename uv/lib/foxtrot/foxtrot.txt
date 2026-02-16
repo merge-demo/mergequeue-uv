@@ -6672,7 +6672,7 @@ foeti
 fumigatory
 fica
 ferbams
-finewed
+finewed 1
 fofarraw
 falderol
 fortifier
