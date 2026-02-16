@@ -6561,7 +6561,7 @@ flibbertigibbets
 flysches
 flattened
 feaked
-fluxile
+fluxile 1
 faunistical
 fluxionist
 fluxive

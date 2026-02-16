@@ -862,7 +862,7 @@ englobement
 eddic
 entourages
 epistolizer
-eigenfunction
+eigenfunction 1
 erythrocytolysin
 electrocution
 encomiastical
