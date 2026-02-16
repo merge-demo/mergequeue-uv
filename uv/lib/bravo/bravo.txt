@@ -9682,7 +9682,7 @@ busking
 balanoglossus
 barway
 beringed
-bismutosphaerite
+bismutosphaerite 1
 bisnaga
 bispinose
 bispinous
