@@ -16555,7 +16555,7 @@ apagogically
 apagogue
 apay
 apayao
-abterminal
+abterminal 1
 apaid
 abioses
 antitrochanter
