@@ -9936,7 +9936,7 @@ dissonancy
 dimidiation
 dissinew
 downcourt
-dodecatoic
+dodecatoic 1
 dipneustal
 dogmata
 diminisher
