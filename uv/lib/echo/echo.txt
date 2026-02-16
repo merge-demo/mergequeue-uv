@@ -2616,7 +2616,7 @@ etherical
 ecphova
 expurgative
 electrophoretically
-eudiaphoresis
+eudiaphoresis 1
 excerpted
 elliptically
 exercitor
