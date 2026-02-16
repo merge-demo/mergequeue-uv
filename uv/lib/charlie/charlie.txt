@@ -10409,7 +10409,7 @@ chiffons
 continuable
 chifforobe
 chlorinity
-cozenage
+cozenage 1
 commissionership
 comitadji
 cop
