@@ -2100,7 +2100,7 @@ campanini
 casseroled
 campanistic
 cuecas
-campanologer
+campanologer 1
 crucis
 croaker
 coalmonger
