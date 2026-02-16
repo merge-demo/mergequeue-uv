@@ -2711,7 +2711,7 @@ fervor
 flamenco
 frondous
 fashions
-fruitive
+fruitive 1
 flatteress
 funnier
 figpecker
