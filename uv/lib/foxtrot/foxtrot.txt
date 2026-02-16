@@ -209,7 +209,7 @@ fazenda
 factotum
 ferrihemoglobin
 frasier
-factrix
+factrix 1
 footmanship
 factorials
 fanons
