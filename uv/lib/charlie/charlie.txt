@@ -14499,7 +14499,7 @@ cisplatine
 cispontine
 cissampelos
 conster
-cissy
+cissy 1
 compassionless
 cissies
 cissoidal
