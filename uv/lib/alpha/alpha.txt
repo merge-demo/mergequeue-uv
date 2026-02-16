@@ -8574,7 +8574,7 @@ allantoin
 afterings
 analyzer
 awfullest
-allantoinase
+allantoinase 1
 ampullosity
 acetoxim
 allantoxaidin

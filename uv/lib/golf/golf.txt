@@ -2211,7 +2211,7 @@ gossipiness
 gutturalised
 golach
 glucosic
-gravific
+gravific 1
 granth
 genarchship
 giraffoid
