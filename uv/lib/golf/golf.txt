@@ -3362,7 +3362,7 @@ guitermanite
 gadbush
 gessamine
 gonfanons
-gluside
+gluside 1
 gibbar
 guttiferal
 gundelet
