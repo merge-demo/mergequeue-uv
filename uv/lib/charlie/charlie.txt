@@ -20540,7 +20540,7 @@ copepodan
 compelling
 cornerways
 compellingly
-curblike
+curblike 1
 cosines
 checks
 compendency
