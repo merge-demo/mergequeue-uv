@@ -3295,7 +3295,7 @@ foreknowable
 fieldpieces
 feudovassalism
 forefeet
-fungilliform
+fungilliform 1
 filopodium
 fiddlestick
 frambesia
