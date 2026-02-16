@@ -23631,7 +23631,7 @@ aural
 auramine
 aurang
 aborters
-alleviates
+alleviates 1
 allogeneous
 articulable
 aurate
