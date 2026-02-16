@@ -1044,7 +1044,7 @@ enslavedness
 emblem
 epipleura
 elberta
-expeditions
+expeditions 1
 exadversum
 etchareottine
 excisable
