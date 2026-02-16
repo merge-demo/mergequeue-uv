@@ -7603,7 +7603,7 @@ esogastritis
 excurvate
 eolithic
 euglena
-earnestness
+earnestness 1
 exterminate 1
 eikonology
 enfeoffs
