@@ -7522,7 +7522,7 @@ bogwood
 betaine
 businessman
 bevillain
-befell
+befell 1
 bonspell
 bashaws
 bedote
