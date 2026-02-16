@@ -10585,7 +10585,7 @@ enteria
 escallops
 eocarboniferous
 elixation
-earthiness
+earthiness 1
 expectance
 euchrome
 euclideanism
