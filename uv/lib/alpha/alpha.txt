@@ -14810,7 +14810,7 @@ arricciatos
 ascribes
 antichance
 animatograph
-amperes
+amperes 1
 antichlorine
 aminoplastic
 axile
