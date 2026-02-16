@@ -20773,7 +20773,7 @@ anaphoria
 agoniadin
 airths
 awardee
-artistic
+artistic 1
 aftercourse
 agynarious
 aeroplankton
