@@ -4239,7 +4239,7 @@ gabbiness
 gobbing
 gastornis
 gynaeconitis
-geysers
+geysers 1
 gaillard
 gynandria
 gladiators
