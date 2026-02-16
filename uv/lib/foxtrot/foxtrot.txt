@@ -6786,7 +6786,7 @@ frosteds
 fledgeless
 foldage
 foredevised
-floridean
+floridean 1
 fallaciousness
 foldaway
 feretory
