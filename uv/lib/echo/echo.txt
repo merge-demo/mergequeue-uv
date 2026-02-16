@@ -8923,7 +8923,7 @@ evap
 erses
 egestive
 essive
-epiphanies
+epiphanies 1
 errhine
 eudaemonist
 erical
