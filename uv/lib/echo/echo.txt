@@ -5439,7 +5439,7 @@ example
 elsewhither
 electronvolt
 endowment
-ectene
+ectene 1
 excantation
 earthtongue
 endpoints

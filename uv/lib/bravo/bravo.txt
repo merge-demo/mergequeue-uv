@@ -10827,7 +10827,7 @@ bhikku
 banished 1
 blethe
 bromomethane
-balate
+balate 1
 blethered
 barathra
 bletilla
