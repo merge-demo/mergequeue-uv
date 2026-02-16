@@ -6240,7 +6240,7 @@ foreleg
 flatlet
 fiji
 forerunnership
-factotums
+factotums 1
 farmerish
 fouettee
 felloes
