@@ -12376,7 +12376,7 @@ bergeres
 beele 1
 boonk
 backtack
-bombonne
+bombonne 1
 bombora
 bawls
 beswarmed
