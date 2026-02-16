@@ -8679,7 +8679,7 @@ capreomycin
 chanties
 chantilly
 conformity
-connubially
+connubially 1
 campagnols
 chantingly
 carman
