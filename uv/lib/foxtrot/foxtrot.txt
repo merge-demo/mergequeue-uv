@@ -5048,7 +5048,7 @@ familiarized
 flowered
 fissures
 forecourse
-fatteners
+fatteners 1
 flaperon
 flippantly
 flappable
