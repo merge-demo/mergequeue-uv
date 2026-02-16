@@ -21777,7 +21777,7 @@ assertively
 akey
 alchemist
 aglow
-assertor
+assertor 1
 abelmusk
 adiantiform
 asseveratingly
