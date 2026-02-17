@@ -26021,7 +26021,7 @@ cosegment
 cosey
 chimesmaster
 coseiest
-coadjutive
+coadjutive 1
 catharine
 coseism
 coseismal
