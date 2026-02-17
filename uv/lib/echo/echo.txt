@@ -11557,7 +11557,7 @@ elenchus
 encodement 1
 embrittled
 errantness
-ennoy 1
+ennoy 2
 evocator
 evoe
 ensilaging
