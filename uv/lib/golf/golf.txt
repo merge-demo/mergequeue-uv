@@ -3028,7 +3028,7 @@ gregarinosis
 gloom
 geogenic
 gorily
-gyrally
+gyrally 1
 grudgekin
 garboil
 gallicolous
