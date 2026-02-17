@@ -2795,7 +2795,7 @@ ephori
 elementaloid 1
 emperil
 essang
-encoronate
+encoronate 1
 eluded
 embelic
 evasive
