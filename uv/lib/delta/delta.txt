@@ -10089,7 +10089,7 @@ dodipole
 dirls
 dogfight
 dilatable
-dynamomorphic
+dynamomorphic 1
 dislustring
 dynamophone
 decentralised
