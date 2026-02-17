@@ -13254,7 +13254,7 @@ dispositions
 drowner
 dispositively
 diuretics
-drant
+drant 1
 disdainfully
 disconformable 1
 daylily
