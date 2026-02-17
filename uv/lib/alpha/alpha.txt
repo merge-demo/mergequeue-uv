@@ -21993,7 +21993,7 @@ aircrewmen
 anni
 argentometrically
 assumes
-apothesis
+apothesis 1
 antiperiodic
 act
 assuming
