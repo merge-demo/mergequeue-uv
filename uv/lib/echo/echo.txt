@@ -43,7 +43,7 @@ eopaleozoic
 emigrational
 edging
 eardropper
-euchromosome
+euchromosome 1
 earflap
 expender
 enzyms
