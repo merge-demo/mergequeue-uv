@@ -4404,7 +4404,7 @@ cynara
 carinula
 catholics
 camisas
-carinulate
+carinulate 1
 concavation
 cacophonously
 champain
