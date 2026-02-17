@@ -1516,7 +1516,7 @@ asperggilla
 aminotransferase
 aphasiac
 arctisca
-accompanimental
+accompanimental 1
 accompli 1
 allanitic
 anathemize
