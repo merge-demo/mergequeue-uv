@@ -5731,7 +5731,7 @@ gaduin
 gummoses
 grandmother
 gantline
-gallant
+gallant 1
 gaskins
 globoseness
 guanyl
