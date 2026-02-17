@@ -3182,7 +3182,7 @@ defectible
 defecting
 dezincified
 distaff
-doltishness
+doltishness 1
 depolarizes
 devotionalness
 dimitting
