@@ -4629,7 +4629,7 @@ egotists
 equinities
 enchyma
 estheticism
-exencephalus
+exencephalus 1
 electorally
 exquisitiveness 1
 economist
