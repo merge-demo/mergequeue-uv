@@ -12340,7 +12340,7 @@ encumbrous
 excepable
 eaning
 eviscerations
-evectant
+evectant 1
 exertionless
 eschscholtzia
 estuate
