@@ -1738,7 +1738,7 @@ epikia
 exert
 ecdemic
 eyelet
-empaled
+empaled 1
 ecstatic
 expwy
 exaggerates
