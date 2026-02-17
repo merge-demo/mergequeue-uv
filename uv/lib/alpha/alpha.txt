@@ -1022,7 +1022,7 @@ answerless
 aulacomnium
 abstricted
 abstricting
-abstrusest
+abstrusest 1
 avulsing
 antiwit 1
 abstrusity
