@@ -5912,7 +5912,7 @@ guereba
 gymnospermous
 goitrous
 gasogene
-goliardeys
+goliardeys 1
 groveless
 goldarn
 gilgames
