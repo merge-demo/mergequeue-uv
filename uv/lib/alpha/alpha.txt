@@ -16442,7 +16442,7 @@ antroscope
 antiromanticism
 antrotympanitis
 areopagus
-antrotomy
+antrotomy 1
 aspring
 antrovert
 assiduities
