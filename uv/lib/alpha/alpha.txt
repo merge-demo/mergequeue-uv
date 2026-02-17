@@ -5982,7 +5982,7 @@ autotomous
 arrogancy
 aggressin
 altered
-anchylotic
+anchylotic 1
 aureal
 adenylpyrophosphate
 acystia
