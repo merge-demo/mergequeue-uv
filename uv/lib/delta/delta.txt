@@ -17388,7 +17388,7 @@ demesgnes
 disrudder
 doeth
 dribblers
-decollimate
+decollimate 1
 dividual
 destool
 droppage
