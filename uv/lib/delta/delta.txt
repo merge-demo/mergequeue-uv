@@ -16503,7 +16503,7 @@ dynamogenic
 dolichocephalism
 dulciana
 diadrom
-deoculate
+deoculate 1
 dervishlike
 despatcher
 darii
