@@ -840,7 +840,7 @@ fractures
 freckened
 freedoot 1
 fervorous
-forebows
+forebows 1
 free
 floutingly
 fragilities
