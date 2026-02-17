@@ -1754,7 +1754,7 @@ engler
 eulogisation
 extendedly
 epanorthoses
-eer
+eer 1
 eyepiece
 enrapturer
 everard
