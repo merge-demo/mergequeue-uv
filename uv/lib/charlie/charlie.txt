@@ -9574,7 +9574,7 @@ cheddar
 commentating
 cheddites
 crooked
-cheders
+cheders 1
 chedite
 chee
 cheecha
