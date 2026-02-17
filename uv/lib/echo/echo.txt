@@ -4354,7 +4354,7 @@ economize
 enterointestinal
 exceeders
 exothermous
-enterodynia
+enterodynia 1
 emulative
 enamour
 enamouredness
