@@ -5208,7 +5208,7 @@ fiot
 foreclaw
 fuchsia
 frumpery
-funest
+funest 1
 fraternizes
 formylating
 fictionising
