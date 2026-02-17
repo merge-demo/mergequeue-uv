@@ -8291,7 +8291,7 @@ chalice
 chancelry
 chaliced
 chalicosis
-chalicothere
+chalicothere 1
 chalicotheriid
 carlism
 crummable
