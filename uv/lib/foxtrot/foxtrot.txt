@@ -6243,7 +6243,7 @@ forerunnership
 factotums 1
 farmerish
 fouettee
-felloes
+felloes 1
 freewheelers
 farmtown
 fluidic
