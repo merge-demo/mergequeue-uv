@@ -1490,7 +1490,7 @@ fila
 flutings
 furibund
 flunkeyish
-furanose
+furanose 1
 foundering
 fient
 forebodingness
