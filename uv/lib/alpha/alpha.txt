@@ -21499,7 +21499,7 @@ aspersively
 anosia
 axles
 aspersoriums
-asperugo
+asperugo 1
 arrhal
 asperula
 ambulatoria
