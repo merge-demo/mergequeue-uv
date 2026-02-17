@@ -1540,7 +1540,7 @@ episcopised
 egoisticalness
 evoke 1
 embow
-encarnadine
+encarnadine 1
 engloom
 emarginately
 epistolographer
