@@ -717,7 +717,7 @@ danceability
 danceable 1
 demoniacs
 danced
-diddled
+diddled 1
 degasification
 dancers
 disleaving
