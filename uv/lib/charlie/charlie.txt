@@ -10979,7 +10979,7 @@ canvaslike
 chiropodistry
 callan
 chiropodists
-cfh
+cfh 1
 chiropodous
 chiropompholyx
 contraposita
