@@ -10654,7 +10654,7 @@ forenamed
 florican 1
 fundamental
 fidicinal
-foodstuffs
+foodstuffs 1
 fruitiness
 fieldworker
 flagless 1
