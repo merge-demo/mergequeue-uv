@@ -18639,7 +18639,7 @@ denarii
 dipaschal
 dummyism
 dutymonger
-deactivations
+deactivations 1
 deodorizer
 disalignment
 decasyllable
