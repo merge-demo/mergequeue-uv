@@ -10795,7 +10795,7 @@ fuchsian
 floundered
 faintful
 fuchsine
-flustra
+flustra 1
 foveation
 foredestined
 fleeten
