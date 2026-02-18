@@ -11117,7 +11117,7 @@ electrolyte
 ephestian
 exigent
 euterpean
-enactments
+enactments 1
 eutexia
 exquisitively
 enwreathing
