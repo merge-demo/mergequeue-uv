@@ -30208,7 +30208,7 @@ carree
 crudely
 coregonus
 clinicopathologic
-crunk
+crunk 1
 crudest
 conto
 crudy
