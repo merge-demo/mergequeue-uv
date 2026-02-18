@@ -17011,7 +17011,7 @@ drepania
 drepanidae
 ductibility
 defray
-debullition
+debullition 1
 drepaniform
 disarmingly 1
 destructory
