@@ -10170,7 +10170,7 @@ electrothermally
 endocarpoid
 elenctical
 elodeaceae
-emerant
+emerant 1
 exegetic
 eponymies
 eunuchoid
