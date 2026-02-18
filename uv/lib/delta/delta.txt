@@ -12139,7 +12139,7 @@ delusion
 dognaps
 dysesthesia
 disestimation
-deferential
+deferential 1
 dorine
 discontent
 diffide
