@@ -8928,7 +8928,7 @@ gaffe
 gigi
 gladelike 1
 grandiloquous
-gwag
+gwag 1
 globy
 galvanising
 gnaw
