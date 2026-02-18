@@ -2717,7 +2717,7 @@ besmearing
 borages
 brutalisation
 bogomile
-buoyantly
+buoyantly 1
 branching
 barnumism
 bienne
