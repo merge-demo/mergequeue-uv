@@ -14725,7 +14725,7 @@ anaglyphic
 antibiotic
 antimonopolism
 acousmatic
-antibiotically
+antibiotically 1
 anthrohopobiological
 appointee
 antidiffuser
