@@ -8262,7 +8262,7 @@ freud
 forgetfulness
 forgett
 faits
-feldspars
+feldspars 1
 fistulated
 fulltime
 fructuose
