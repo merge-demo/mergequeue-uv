@@ -14781,7 +14781,7 @@ apodous
 anticatarrhal
 afernan
 audiometry
-altiscope
+altiscope 1
 anticaustic
 affreighter
 anticensorial
