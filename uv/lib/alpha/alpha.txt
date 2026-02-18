@@ -2590,7 +2590,7 @@ asymmetrocarpous
 archbishop
 aspiratory
 altaid
-adffrozen
+adffrozen 1
 adjacent
 acquest
 armenite
