@@ -10702,7 +10702,7 @@ ecossaise
 egosyntonic
 etiquet
 endfile
-excusable
+excusable 1
 eugonic
 eggheaded
 epithecicia
