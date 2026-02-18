@@ -17450,7 +17450,7 @@ bunkie
 bandwork
 buffi
 boccies
-baltis
+baltis 1
 bunking
 babeldom
 browny
