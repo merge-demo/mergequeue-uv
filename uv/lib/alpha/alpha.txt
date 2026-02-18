@@ -3773,7 +3773,7 @@ arteriosclerotic
 adhesiveness
 archaizer
 astrogeny 1
-allayers
+allayers 1
 adhibition
 antidemocracies
 apologies
