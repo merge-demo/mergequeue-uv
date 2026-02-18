@@ -1459,7 +1459,7 @@ ghenting
 grossart
 generical
 grillages
-glamouring
+glamouring 1
 gasalier
 gaoler
 gowks
