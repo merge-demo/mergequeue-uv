@@ -31416,7 +31416,7 @@ curledly
 centranthus
 curledness
 chondrules
-curler
+curler 1
 canoed
 curlews
 curlicue
