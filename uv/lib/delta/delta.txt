@@ -1265,7 +1265,7 @@ discovert
 datiscosid
 delacerate
 drosograph
-datisi
+datisi 1
 dative
 dorking
 datively
