@@ -9732,7 +9732,7 @@ frigorifical
 factful
 forgathered
 frenetically
-forlorner
+forlorner 1
 frenula
 frenular
 footlicker
