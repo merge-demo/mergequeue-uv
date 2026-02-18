@@ -14890,7 +14890,7 @@ austrian
 antilogs
 anticipative
 attensity
-activeness
+activeness 1
 antinepotic
 abnormality
 ateleological
