@@ -9454,7 +9454,7 @@ fratry
 fountainheads
 flippery
 furnaceman
-fulcrate
+fulcrate 1
 flounderingly
 fratricelli
 furculum
