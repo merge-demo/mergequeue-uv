@@ -295,7 +295,7 @@ dalmatics
 degeneracies
 distrustfulness
 dahomey
-diaclasite
+diaclasite 1
 demythologizing
 dahs
 day
