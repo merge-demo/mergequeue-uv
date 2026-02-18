@@ -18085,7 +18085,7 @@ anconeal
 aptiana
 aptychus
 aptitude
-aptnesses
+aptnesses 1
 autohypnotization
 anises
 amuletic
