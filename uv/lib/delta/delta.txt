@@ -9954,7 +9954,7 @@ discursus
 denticulation
 daintily
 drossiness
-dawnlight
+dawnlight 1
 distances
 devonian
 droved
