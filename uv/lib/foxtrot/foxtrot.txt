@@ -1404,7 +1404,7 @@ forges
 fatsia
 formy
 fatsoes
-fancying
+fancying 1
 fermiums
 fusilly
 frequentage
