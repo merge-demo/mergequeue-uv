@@ -2785,7 +2785,7 @@ gangwayed
 governably 1
 glassie
 gelee
-gantlope
+gantlope 1
 goblets
 gluttonised
 graduals
