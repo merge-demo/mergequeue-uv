@@ -2972,7 +2972,7 @@ devolatilized
 disseisoress
 doxycycline
 debunking
-deductible
+deductible 1
 deciduata
 delinquent
 depositional
