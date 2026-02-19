@@ -17343,7 +17343,7 @@ culpas
 cupola 1
 coassume
 crystallic
-coassuming
+coassuming 1
 chrysolite
 coast
 coastal
