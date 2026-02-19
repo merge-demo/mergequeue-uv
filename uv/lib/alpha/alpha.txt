@@ -23961,7 +23961,7 @@ autoasphyxiation
 algicides
 antidotally
 asepticizing
-autoassimilation
+autoassimilation 1
 antarchistic
 aubergistes
 anisopleurous
