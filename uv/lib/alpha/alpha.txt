@@ -12699,7 +12699,7 @@ azox
 attle
 angelize
 alliterated
-angelized
+angelized 1
 angellike
 auf
 almoravid
