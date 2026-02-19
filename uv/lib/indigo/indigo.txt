@@ -4180,7 +4180,7 @@ iftmgd
 iftotgomhed
 iftqobk
 iftqpchsloszx
-iftrx
+iftrx 1
 ifttkecwevv
 iftumasph
 iftutfdtmsws
