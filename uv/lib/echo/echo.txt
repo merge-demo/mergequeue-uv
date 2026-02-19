@@ -14056,7 +14056,7 @@ euemerism
 emulsibility
 extravaganza
 eutectoid
-extravaginal
+extravaginal 1
 electrify
 exteroceptist
 exorcists
