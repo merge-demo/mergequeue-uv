@@ -2677,7 +2677,7 @@ decomposure
 digne
 dogwatches
 decompoundable
-diffractional
+diffractional 1
 decompoundly
 downstairs
 desmoma
