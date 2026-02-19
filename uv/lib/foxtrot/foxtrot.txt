@@ -11010,7 +11010,7 @@ famelessness
 funkia
 fabliaux
 fusuma
-farmery
+farmery 1
 fumet
 forcipate
 falafel
