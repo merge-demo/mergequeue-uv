@@ -6655,7 +6655,7 @@ deplump
 draughtswoman
 desertification
 dodecahedric
-deserting
+deserting 1
 drabs
 diastimeter
 desertlessly
