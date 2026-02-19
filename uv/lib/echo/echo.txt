@@ -7750,7 +7750,7 @@ endrins
 exterritorially
 emergents
 englify
-ensure
+ensure 1
 emendable
 estopping
 equips
