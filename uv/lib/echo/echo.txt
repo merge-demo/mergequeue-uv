@@ -9662,7 +9662,7 @@ excitable
 ensearcher
 espingole
 execrative
-equaling
+equaling 1
 editchar
 espino
 erythroplastid
