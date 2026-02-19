@@ -16307,7 +16307,7 @@ clypeus
 cyanomethaemoglobin
 clipped
 clippers
-clippie
+clippie 1
 convenienced
 clippingly
 clips
