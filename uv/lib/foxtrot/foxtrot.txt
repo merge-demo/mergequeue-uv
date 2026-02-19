@@ -1548,7 +1548,7 @@ fauvism
 funk
 fause
 fauvisms
-foreprepare
+foreprepare 1
 fodderer
 filechar
 faucitis
