@@ -10045,7 +10045,7 @@ epitaphial
 esculetin
 evolutions
 emergent
-encastered
+encastered 1
 egrets
 ethambutol
 ethmovomerine
