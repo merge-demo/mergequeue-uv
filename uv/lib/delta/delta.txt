@@ -17825,7 +17825,7 @@ drinkable
 darktown
 darrell
 ductor
-dowdies
+dowdies 1
 ductules
 drawlatch
 ductwork
