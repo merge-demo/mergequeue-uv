@@ -8645,7 +8645,7 @@ enzymotic
 ethanols
 erelong
 extractor
-enervous
+enervous 1
 exceptionable
 expels
 emphyteuta
