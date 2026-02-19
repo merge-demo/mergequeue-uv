@@ -2319,7 +2319,7 @@ barbicels
 bathonian
 barbierite
 busyish
-blatancies
+blatancies 1
 bromite
 briber
 barbita
