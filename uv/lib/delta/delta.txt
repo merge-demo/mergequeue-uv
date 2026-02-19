@@ -8007,7 +8007,7 @@ doxology
 doggess
 dietetically
 diagenetic
-dezymotize
+dezymotize 1
 dezincify
 dotations
 detonability
