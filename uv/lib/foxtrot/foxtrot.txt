@@ -1663,7 +1663,7 @@ forebrace
 flacourtiaceous
 folksong
 flemer
-forgrow
+forgrow 1
 fearedly
 fadeaways
 frisker
