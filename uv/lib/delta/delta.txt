@@ -12302,7 +12302,7 @@ detoxifying
 dappleness
 disincrustion 1
 decousu
-disgrading
+disgrading 1
 discreating
 disgruntlement
 driblet
