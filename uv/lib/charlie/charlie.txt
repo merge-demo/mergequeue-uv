@@ -5514,7 +5514,7 @@ condemner
 catachthonic
 consummation
 cataclastic
-cataclinal
+cataclinal 1
 cataclysmal
 coumbite
 cataclysmatist
