@@ -19292,7 +19292,7 @@ colonials
 colonical
 critically
 colonies
-colonisability
+colonisability 1
 colonisable
 communication
 clinid
