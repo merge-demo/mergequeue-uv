@@ -966,7 +966,7 @@ dodecastyle
 doctors
 dizzyingly
 dextrosazone
-dipsey
+dipsey 1
 dray
 disjoints
 doughmen
@@ -1263,7 +1263,7 @@ devitalizing
 diarrheal
 discovert
 datiscosid
-delacerate
+delacerate 1
 drosograph
 datisi 1
 dative
@@ -1360,7 +1360,7 @@ duelli
 definer
 dauphine
 dauphines
-drooping
+drooping 1
 drawboard
 drapable
 dauri
@@ -1432,7 +1432,7 @@ diapering
 dioptrate
 dogly
 dehydrogenates
-disassimilated
+disassimilated 1
 dicarbonic
 deflationist
 dawkin
@@ -1849,7 +1849,7 @@ drugmaker
 decriminalize
 degeneratively
 defeudalize
-debilitates
+debilitates 1
 debilitative
 dermatoglyphics
 devirginator
@@ -2547,7 +2547,7 @@ declares
 dimaris
 daneworts
 diplococcus
-declaring
+declaring 1
 dwined
 declasses
 dorn
@@ -2733,7 +2733,7 @@ decorate
 decorating
 daukin
 dont
-discounsel
+discounsel 1
 diplopterous
 deedful
 darker
@@ -3593,7 +3593,7 @@ drywall
 dawny
 depending
 disguise
-desilverize
+desilverize 1
 debunker
 degass
 degassed
@@ -3625,7 +3625,7 @@ donnish
 degerminate
 doated
 degerminator
-distentions
+distentions 1
 degerming
 degerms
 discerptive
@@ -3790,7 +3790,7 @@ drillable
 dynamites
 distrain
 deice
-donning
+donning 1
 disseizoress
 defibrillation
 deicers
@@ -4337,7 +4337,7 @@ demal
 diode
 dysacousia
 demanded
-dissyllabized
+dissyllabized 1
 dilos
 dewlap
 descrier
@@ -5439,7 +5439,7 @@ drumbledore
 disinure
 denunciator
 discrownment
-disciplinableness
+disciplinableness 1
 detd
 dauk
 denver
@@ -6655,7 +6655,7 @@ deplump
 draughtswoman
 desertification
 dodecahedric
-deserting
+deserting 1
 drabs
 diastimeter
 desertlessly
@@ -7507,7 +7507,7 @@ disentwine
 denda
 deusan
 dogtrots
-drosera
+drosera 1
 decocainize
 deutencephalon
 dumfounding
@@ -8007,7 +8007,7 @@ doxology
 doggess
 dietetically
 diagenetic
-dezymotize
+dezymotize 1
 dezincify
 dotations
 detonability
@@ -8827,7 +8827,7 @@ dyspraxia
 dibbing
 deliberates
 deterring
-drachmas
+drachmas 1
 dibbled
 degame
 dybbuk
@@ -9486,7 +9486,7 @@ decline
 dinornithidae
 digesting
 dodecadrachm
-digestively
+digestively 1
 dural
 digestiveness
 dipteroi
@@ -10200,7 +10200,7 @@ dings
 despises
 dzeron
 depopularize
-dismortgage
+dismortgage 1
 dining
 discoplacental
 dulcely
@@ -10338,7 +10338,7 @@ disnature
 denudation
 deducement
 desilverizer
-downtrends
+downtrends 1
 delightsomeness
 discophore
 dioptra
@@ -11109,7 +11109,7 @@ downflow
 disarrays
 disarranges
 do
-discernibility
+discernibility 1
 dulled
 dorhawk
 dotless
@@ -11312,7 +11312,7 @@ discases
 discasing
 discatter
 derailments
-dethroned
+dethroned 1
 damolic
 disced
 devaraja
@@ -11727,7 +11727,7 @@ deplume
 discradle
 delfts
 deprivation
-dockhands
+dockhands 1
 detectable
 dyscrasic
 demissness
@@ -12176,7 +12176,7 @@ depthometer
 diacetine
 dha
 deadlily
-disfavoured
+disfavoured 1
 discursion
 disfeaturement
 dialogised
@@ -12302,7 +12302,7 @@ detoxifying
 dappleness
 disincrustion 1
 decousu
-disgrading
+disgrading 1
 discreating
 disgruntlement
 driblet
@@ -12606,7 +12606,7 @@ diapiric
 downmost
 dragoness
 dechenite
-disintoxication
+disintoxication 1
 dankness
 daud
 dysyntribite
@@ -12994,7 +12994,7 @@ diastematomyelia
 disorients
 dysoxidation
 dollarfishes
-disoxygenation
+disoxygenation 1
 dioscuri
 debacchate
 dight
@@ -13413,7 +13413,7 @@ disquisitional
 dismarble
 deepfreezed
 disform
-diffusion
+diffusion 1
 dennstaedtia
 disrated
 disrecommendation
@@ -14992,7 +14992,7 @@ dogdoms
 deprogram
 dissolving
 dogear
-dogears
+dogears 1
 drumly
 dogedom
 diptote
@@ -15088,7 +15088,7 @@ dekabrist
 dufrenite
 delicti
 domitian
-dedicative
+dedicative 1
 dumping
 deficits
 dogeless
@@ -15301,7 +15301,7 @@ delusory
 dwamish
 dolores
 dispenditure
-dermatophytic
+dermatophytic 1
 dolorimetrically
 dochter
 delusional
@@ -15486,7 +15486,7 @@ durra
 donation
 donatist
 dentiloguy
-drag
+drag 1
 daymen
 diapery
 disbands
@@ -17034,7 +17034,7 @@ dextrine
 dekagram
 dearer
 diabolicalness
-doberman
+doberman 1
 dressline
 dumas
 divinityship
@@ -17825,7 +17825,7 @@ drinkable
 darktown
 darrell
 ductor
-dowdies
+dowdies 1
 ductules
 drawlatch
 ductwork
@@ -18160,7 +18160,7 @@ disreputably
 dyaster
 duplexing
 dineuric
-dotriacontane
+dotriacontane 1
 dorsolateral
 dandyize
 dumpled

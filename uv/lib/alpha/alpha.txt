@@ -730,7 +730,7 @@ animine
 antivaccination
 abrade
 angaralite
-accourt
+accourt 1
 aphid
 abdominohysterectomy
 academically
@@ -1596,7 +1596,7 @@ accounts
 anybody
 accouter
 apotype
-astrologistic
+astrologistic 1
 agrostologist
 aneling
 accouterment
@@ -2212,7 +2212,7 @@ acetophenine
 acrestaff
 archangel
 achromatization
-achromatize
+achromatize 1
 achromatocyte
 agarum
 arctalian
@@ -2395,7 +2395,7 @@ aciniform
 anatomicophysiological
 aggrate
 acinus
-actinozoon
+actinozoon 1
 aedes
 academicianship
 acipenserine
@@ -3584,7 +3584,7 @@ adelarthrosomatous
 azoospermia
 angionosis
 allyl
-anthratetrol
+anthratetrol 1
 abattises
 acumination
 adharma
@@ -3932,7 +3932,7 @@ alarmed
 argentamide
 adjunctively
 adjunctly
-analogia
+analogia 1
 admissory
 adjured
 amygdalotome
@@ -5100,7 +5100,7 @@ archizoic
 aesir
 aesop
 aesopian
-amtracs
+amtracs 1
 aesthesodic
 allaeanthus 1
 ardisiaceae
@@ -7191,7 +7191,7 @@ adnouns
 abettals
 alacrious
 alacrity
-alactaga
+alactaga 1
 alada
 abridgements
 antica
@@ -7341,7 +7341,7 @@ austin
 armadillidium
 alcoved
 animalise
-africander
+africander 1
 afford
 architectural
 albe
@@ -8506,7 +8506,7 @@ alalia
 alkies 1
 assessable
 airplane
-accelerograph
+accelerograph 1
 alkylarylsulfonate
 anallergic
 agnate
@@ -9308,7 +9308,7 @@ adjustive
 alouette
 androsphinxes
 alout
-acierate
+acierate 1
 alliterations
 aloxite
 alpacas
@@ -10088,7 +10088,7 @@ abrupt
 adrenal
 arles
 alchymies
-astral
+astral 1
 antasthmatic
 amblystegite
 autodialer
@@ -10812,7 +10812,7 @@ antirent
 abides
 apparentement
 activizing
-assized
+assized 1
 aits
 apprised
 anywise
@@ -11182,7 +11182,7 @@ autallotriomorphic
 abrin
 acold
 ascaricide
-amphicarpium
+amphicarpium 1
 aluconidae
 apocalyptist
 alterius
@@ -12590,7 +12590,7 @@ antitrust
 alants
 anergies
 agley
-anglicization
+anglicization 1
 antidorcas
 anes
 anesone
@@ -12749,7 +12749,7 @@ anointing
 arthragra
 abnormalised
 adaize
-angrily
+angrily 1
 accountants 1
 ashpit
 anginose
@@ -13181,7 +13181,7 @@ associatory
 amniotome
 approver
 allorrhythmic
-animatedly
+animatedly 1
 anticynic
 angekok
 animating
@@ -13725,7 +13725,7 @@ anaesthatic
 anutraminosa
 anomie
 apparatchik
-andorran
+andorran 1
 anomodont
 aythya
 anomodontia
@@ -14242,7 +14242,7 @@ anencephalous
 alchochoden
 ancipitous
 afflatuses
-acerathere
+acerathere 1
 asepticize
 argilliferous
 acephal
@@ -14962,7 +14962,7 @@ anticonfederative
 anticonformity
 antiaristocracy
 annulled
-amidohexose
+amidohexose 1
 antilogy
 avyayibhava
 avicular
@@ -15149,7 +15149,7 @@ antienvironmentalists
 ataxonomic
 azimine
 antienzyme
-augury
+augury 1
 antiepiscopal
 arigue
 antiestablishment
@@ -16149,7 +16149,7 @@ anthophobia
 aeroplanist
 aethalioid
 allusion
-amassers
+amassers 1
 afterchance
 akov
 ashcan
@@ -16541,7 +16541,7 @@ apabhramsa
 axletree
 appress
 acutorsion
-apache
+apache 1
 attained
 apadana
 astronautic
@@ -17015,7 +17015,7 @@ apocalyptically
 auslander
 amizilis
 anamorphose
-acouophonia
+acouophonia 1
 agonia
 apjohnite
 ables
@@ -18560,7 +18560,7 @@ arbust
 arbusta
 analytics
 arbutean
-alphean
+alphean 1
 anthropomorphite
 abrogates
 abbotship
@@ -18819,7 +18819,7 @@ arabian
 archetypes
 attributive
 asymmetrically
-archettos
+archettos 1
 auroauric
 assever
 assumptiveness
@@ -19746,7 +19746,7 @@ arithmography
 azulejos
 aggressiveness
 arithmomancy
-arivaipa
+arivaipa 1
 amphoral
 anhistous
 amortized
@@ -22813,7 +22813,7 @@ adsorbates
 atma
 atman
 acotyledon
-amazon
+amazon 1
 aggregately
 ahousaht
 atmo
@@ -23295,7 +23295,7 @@ adventitia
 azophenol
 accordances
 archicerebra
-aurorium
+aurorium 1
 attributions
 attributively
 attributor
@@ -23933,7 +23933,7 @@ authoritarian
 authoritarians
 awarn
 antisplasher
-archvestryman
+archvestryman 1
 authorizer
 alluvions
 agostadero
@@ -23961,7 +23961,7 @@ autoasphyxiation
 algicides
 antidotally
 asepticizing
-autoassimilation
+autoassimilation 1
 antarchistic
 aubergistes
 anisopleurous
@@ -24639,7 +24639,7 @@ aralkyl
 ambassador
 antischolastically
 avena
-agouti
+agouti 1
 acclaim
 accessibility
 arbutuses
@@ -25187,7 +25187,7 @@ axonolipa
 axonolipous
 amirate
 autoblast
-axonometric
+axonometric 1
 asprete
 ascupart
 abusiveness
