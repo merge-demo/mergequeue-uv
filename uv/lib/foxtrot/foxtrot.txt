@@ -11081,7 +11081,7 @@ flangeless
 fracturs
 forbidder
 foreknowableness
-functionation
+functionation 1
 fane
 factfinder
 flagellated
