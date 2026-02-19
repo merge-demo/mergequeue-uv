@@ -465,7 +465,7 @@ bundist
 blockades
 bacillogenic
 burree
-battik
+battik 1
 benzoates
 backspaces
 blepharocera
@@ -532,7 +532,7 @@ blasthole
 bafflingness
 barometrical
 backvelder
-blastodermic
+blastodermic 1
 baufrey
 belch
 burnooses
@@ -594,7 +594,7 @@ bedrabble
 bacteremic
 bacteriaceae
 bacteriaemia
-brobdingnagian
+brobdingnagian 1
 brooched
 baggyrinkle
 bactericide
@@ -701,7 +701,7 @@ bathetically
 baddies
 boral
 bade
-badness
+badness 1
 baff
 blueish
 baboen
@@ -943,7 +943,7 @@ beverage
 bahay
 bahaist
 blocs
-bahamians
+bahamians 1
 babbitter
 boated
 blitheness
@@ -2169,7 +2169,7 @@ baptizer
 bobsledder
 baptizing
 bess
-bepuddle
+bepuddle 1
 bedward
 bields
 buttstrapping
@@ -2551,7 +2551,7 @@ bloodberry
 bardel
 barylalia
 beleaped
-blens
+blens 1
 bactrian
 backtalk
 barile
@@ -2829,7 +2829,7 @@ barothermograph
 barotrauma
 bulgurs
 behowling
-bravest
+bravest 1
 barotraumas
 barotropic
 barouchette
@@ -2976,7 +2976,7 @@ babouche
 bromophenol
 blennioidea
 brattishing
-barriness
+barriness 1
 barringer
 broadcasters
 barrios
@@ -3388,7 +3388,7 @@ bassetting
 bassy
 bufferrer
 balneation
-bureau
+bureau 1
 bassia
 bobbishly
 bassie
@@ -3815,7 +3815,7 @@ burgeoning
 baulked
 bearbane
 bookfair
-bequeaths
+bequeaths 1
 bucerotes
 behight
 broccoli
@@ -4682,7 +4682,7 @@ blondest
 blindcat
 bignesses
 buckstay
-blastoid
+blastoid 1
 bediapering
 benedictively
 boxiness
@@ -4805,7 +4805,7 @@ befancy
 bits
 bedside
 bedsonia
-bedsore
+bedsore 1
 bakers
 bemirrorment
 belvederes
@@ -4829,7 +4829,7 @@ boundedly
 beautiless
 broadwise
 bartram 1
-bedswerver
+bedswerver 1
 branchiurous
 bulchin
 bedtime
@@ -4984,7 +4984,7 @@ belleric
 beermaker
 beermaking
 beermonger
-bumpoff
+bumpoff 1
 beefers
 bouchon
 bombycilla
@@ -5057,7 +5057,7 @@ biogeography
 bibracteolate
 bemas
 bewith
-befeather
+befeather 1
 becoming
 beeswax
 bodger
@@ -5106,7 +5106,7 @@ bodymaking
 beflagging
 babery
 bentwood
-biquadrantal
+biquadrantal 1
 balanites
 beflannel
 bureaucrat
@@ -5144,7 +5144,7 @@ budworm
 before
 biotic
 boomorah
-broadside
+broadside 1
 beggarer 1
 buccinatory
 bagpod
@@ -5293,7 +5293,7 @@ backstab
 beneficiaire
 buddy
 brachytic
-barretries
+barretries 1
 boltonia
 beforested
 breathlessness
@@ -5844,7 +5844,7 @@ bellyland
 bellylike
 bellyman
 biunique
-biogenetical
+biogenetical 1
 balopticon
 bellmaking
 banquo
@@ -6027,7 +6027,7 @@ brahmanical
 bort
 bablah
 bloated
-boathead
+boathead 1
 bollard
 bemartyr
 buttstrap
@@ -6088,7 +6088,7 @@ bulbel
 bhd
 barricader
 bend
-bub
+bub 1
 bendee
 bullwhips
 beamier
@@ -7411,7 +7411,7 @@ betread
 barnier
 bathybius
 braveries
-betrothing
+betrothing 1
 betrothment
 betroths
 bromine
@@ -8727,7 +8727,7 @@ bruisers
 bosc
 beagling
 behests
-behinder
+behinder 1
 barycentre
 brontozoum
 birchen
@@ -11111,7 +11111,7 @@ byard
 basophobia
 bache
 bipedism
-bougies
+bougies 1
 bygane
 bums
 barotaxy
@@ -11560,7 +11560,7 @@ bumblebeefish
 ballismus
 byronism
 brogger
-blush
+blush 1
 blushed
 banga
 bandannas
@@ -12577,7 +12577,7 @@ blottesque
 batter
 bloubiskop
 bristlemouths
-biochemically
+biochemically 1
 bonnier
 backlist
 bonnyish
@@ -12590,7 +12590,7 @@ bonnwis
 bionomist
 bonorum
 bisector
-bagatelle
+bagatelle 1
 bills
 brainchild
 blackballer
@@ -12795,7 +12795,7 @@ backhanding
 betatters
 book
 borocarbide
-brasses 1
+brasses 2
 burstone
 boolya
 blebs
@@ -13423,7 +13423,7 @@ benes
 believeth
 bassoonist
 biofeedback
-backfields
+backfields 1
 blueprints
 bensell
 brightsome
@@ -13759,7 +13759,7 @@ besmirching
 bannermen
 bejig
 bovinely
-bezil
+bezil 1
 bestrowed
 bovinities
 begazes
@@ -14257,7 +14257,7 @@ butyne
 byword
 boarding
 braehead
-bulblet
+bulblet 1
 bronchiogenic
 brochidodromous
 benefactory
@@ -14345,7 +14345,7 @@ brahmsian
 barbicanage
 batocrinidae
 bray
-bluey
+bluey 1
 braided
 bovoid
 binomen
@@ -15405,7 +15405,7 @@ bandannaed
 bertha
 boloing
 bechauffeur
-bichir
+bichir 1
 bimonthly
 babajaga
 brigs
@@ -17109,7 +17109,7 @@ branchiobdella
 basecoat
 bulletlike
 burghmote
-braconniere
+braconniere 1
 breadseller
 bacteric
 bombazeen
@@ -17181,7 +17181,7 @@ bacchuslike
 bullnut
 beetroot
 bullock
-brachialgia
+brachialgia 1
 bullocker
 brachydodrome
 beduins
@@ -18000,7 +18000,7 @@ blanketing
 bonnock
 ballyragging
 benzylamine
-battutas
+battutas 1
 biking
 bankruptcies
 benevolence
