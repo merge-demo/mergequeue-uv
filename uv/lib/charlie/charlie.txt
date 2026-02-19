@@ -28326,7 +28326,7 @@ craved
 craven
 cudbears
 churchmen
-clans
+clans 1
 coheretic
 charminger
 cravened
