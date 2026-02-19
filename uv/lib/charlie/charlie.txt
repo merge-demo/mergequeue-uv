@@ -8654,7 +8654,7 @@ commiseratingly
 channelure
 cestus
 chronoscope
-chansonette
+chansonette 1
 commissionaire
 chansonnette
 cedarwood
