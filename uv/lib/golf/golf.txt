@@ -2810,7 +2810,7 @@ gathers
 gazettal
 grigris
 gormless
-glottalite
+glottalite 1
 gloiopeltis
 gentiobiose
 guardianess
