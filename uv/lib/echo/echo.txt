@@ -7689,7 +7689,7 @@ entomotomist
 exacta
 eustele
 embrued
-enukki
+enukki 1
 effumability
 ellipsometry
 epideictic
