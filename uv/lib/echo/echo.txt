@@ -3438,7 +3438,7 @@ ecalcavate
 errand
 exolete
 exemplar
-ecliptic
+ecliptic 1
 embatholithic
 enfiladed
 extradoses
