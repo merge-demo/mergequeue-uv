@@ -8309,7 +8309,7 @@ electropuncturation
 ecumenicality
 embryonated
 eluxate
-ependytes
+ependytes 1
 embrown
 epigyny
 epistemic
