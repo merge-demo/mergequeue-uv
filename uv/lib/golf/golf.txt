@@ -2202,7 +2202,7 @@ gombo
 graphanalysis
 granitiferous
 granes
-guarantying
+guarantying 1
 ghosting
 guberniya
 ganophyllite
