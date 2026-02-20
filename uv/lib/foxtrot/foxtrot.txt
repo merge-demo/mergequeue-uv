@@ -1311,7 +1311,7 @@ feculency 1
 fulvous
 flear
 flirtation
-fluoridised
+fluoridised 1
 flookan
 flout
 fallowness
