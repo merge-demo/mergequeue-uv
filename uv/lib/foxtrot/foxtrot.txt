@@ -9931,7 +9931,7 @@ fantoms
 fumatorium
 freckled
 fa
-frigage
+frigage 1
 frigates
 flocculated
 flavin
