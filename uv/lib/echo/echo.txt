@@ -3022,7 +3022,7 @@ eviscerate
 eliquidate
 extraclaustral
 elysiidae
-elisor
+elisor 1
 elissa
 expeditor
 eyereach
