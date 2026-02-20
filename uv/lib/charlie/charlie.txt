@@ -2492,7 +2492,7 @@ conject
 conversive
 candidacy
 candidacies
-careeristic
+careeristic 1
 collinal
 coontie
 colage
