@@ -14236,7 +14236,7 @@ dumbly
 disburses
 disembargo
 ditchers
-deathwards
+deathwards 1
 disproportionably
 derivatist
 diluendo
