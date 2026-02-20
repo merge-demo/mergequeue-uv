@@ -4141,7 +4141,7 @@ galeidae
 genitivally
 grapsidae
 gentilities 2
-grundy
+grundy 1
 geochronology
 gnawing
 gregarian
