@@ -7944,7 +7944,7 @@ greenhorn
 granddaughter
 giglets
 got
-galleons
+galleons 1
 glycerol
 glaziery
 goodyish

@@ -5408,7 +5408,7 @@ dentures
 duretto
 dish
 disappointingness
-diamonds
+diamonds 1
 drown
 duodecimality
 denuclearized
