@@ -9108,7 +9108,7 @@ flaith
 foreintend
 floodable
 fetise
-frenetics
+frenetics 1
 formity
 follows
 formalins
