@@ -19910,7 +19910,7 @@ colortype
 comitium
 cuscuses
 comitje
-chunters
+chunters 1
 coml
 confessionals
 conjugating
