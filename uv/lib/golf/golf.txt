@@ -524,7 +524,7 @@ gigsman
 gives
 geoffroyine
 ghettoize
-gyrowheel
+gyrowheel 1
 gluten
 gliomas
 germproof
