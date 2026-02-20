@@ -3790,7 +3790,7 @@ drillable
 dynamites
 distrain
 deice
-donning
+donning 1
 disseizoress
 defibrillation
 deicers
