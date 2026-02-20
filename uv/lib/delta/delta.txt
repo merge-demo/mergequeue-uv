@@ -3309,7 +3309,7 @@ depreciator
 dentololabial
 defilingly
 different
-definably
+definably 1
 dn
 dejecture
 demyelination 1
