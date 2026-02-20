@@ -3945,7 +3945,7 @@ fraple
 ferrocyanogen
 falsehearted
 furrowed
-fireboxes
+fireboxes 1
 fluoresces
 flemish
 fluoranthene
