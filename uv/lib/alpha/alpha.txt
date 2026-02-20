@@ -15436,7 +15436,7 @@ antimason 1
 antimasque
 antimasquer
 attitude
-abba
+abba 1
 anhedonic
 afterstrain
 adversa
