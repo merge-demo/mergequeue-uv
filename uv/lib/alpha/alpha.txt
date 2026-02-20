@@ -13725,7 +13725,7 @@ anaesthatic
 anutraminosa
 anomie
 apparatchik
-andorran
+andorran 1
 anomodont
 aythya
 anomodontia
