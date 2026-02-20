@@ -1583,7 +1583,7 @@ globicephala
 gymnura
 gauntlet
 gutteral
-gulanganes
+gulanganes 1
 galleria
 gunlock 1
 gasterotheca
