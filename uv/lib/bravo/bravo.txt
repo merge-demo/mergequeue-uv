@@ -5057,7 +5057,7 @@ biogeography
 bibracteolate
 bemas
 bewith
-befeather
+befeather 1
 becoming
 beeswax
 bodger
