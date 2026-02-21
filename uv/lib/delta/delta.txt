@@ -3836,7 +3836,7 @@ deindividualize
 diplocephaly
 darryl
 dodecatheon
-dronishly
+dronishly 1
 demodocus
 diremption
 dentalised
@@ -12285,7 +12285,7 @@ disgospel
 diminuendos
 disgospelize
 disgracer
-dipicrate
+dipicrate 1
 disenchanted
 delicacies
 debarks
@@ -14917,7 +14917,7 @@ dehumidifiers
 destructive
 dodecarch
 dodecasemic
-decadi
+decadi 1
 dodecasyllable
 discretionarily
 demonising
@@ -16524,7 +16524,7 @@ dodderer
 dithiol
 distrix
 ditheism
-diagrammatic
+diagrammatic 1
 demoralise
 draftings
 diesinker
