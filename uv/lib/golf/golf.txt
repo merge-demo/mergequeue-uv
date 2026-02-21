@@ -112,7 +112,7 @@ grammarianism
 gadolinia
 gaugers
 gardenership
-grosz
+grosz 1
 goatfish
 gadroon
 giher
@@ -557,7 +557,7 @@ gup
 ghetto
 galleryite
 gravidness
-garde
+garde 1
 goolah
 gazometer
 galempong
@@ -2402,7 +2402,7 @@ gemma
 gardeners
 gambol
 gemmating
-gushier
+gushier 1
 gemmer 1
 gumphion
 gloppy
@@ -2785,7 +2785,7 @@ gangwayed
 governably 1
 glassie
 gelee
-gantlope
+gantlope 1
 goblets
 gluttonised
 graduals
@@ -7523,7 +7523,7 @@ guessable
 glottalized
 gat
 governed
-gotten
+gotten 1
 graecizing
 governesses
 galvanotonic
@@ -8413,7 +8413,7 @@ graycoat
 gravamen
 grawls
 georgia
-gyves
+gyves 1
 gonoblastic
 goldonian
 glassweed
@@ -9271,7 +9271,7 @@ gayly
 gastrectasia
 grotesqueness
 greenhearted
-grobian
+grobian 1
 gesithcund
 gravies
 gigabyte
@@ -10575,7 +10575,7 @@ giftedly
 gurmukhi
 goffering
 gneissitic
-gatewoman
+gatewoman 1
 grenadiership
 grommets
 goads
