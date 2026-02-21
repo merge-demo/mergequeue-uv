@@ -28788,7 +28788,7 @@ cines
 crescentlike
 crescentoid
 crescents
-crescively
+crescively 1
 clarinettist
 confederatio
 cantino
