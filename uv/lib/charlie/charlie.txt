@@ -8266,7 +8266,7 @@ chalcolithic
 cappae
 coadunation
 chalcomenite
-chalcone
+chalcone 1
 chalcopyrite
 chalcosine
 calyptrogyne
