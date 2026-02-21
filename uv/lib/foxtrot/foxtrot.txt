@@ -5561,7 +5561,7 @@ forecited
 fluorite
 fascicle
 fibbing
-felon
+felon 1
 foliaceous
 fungic
 familiary
