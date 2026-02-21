@@ -825,7 +825,7 @@ foveolarious
 frown
 felinely
 ferrets
-flummox
+flummox 1
 fannia
 forbecause
 fanon
