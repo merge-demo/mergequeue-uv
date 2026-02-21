@@ -8564,7 +8564,7 @@ foeture
 fumaric
 frightment
 fanfarons
-frownful
+frownful 1
 fornaxid
 foraminule
 fratchety
