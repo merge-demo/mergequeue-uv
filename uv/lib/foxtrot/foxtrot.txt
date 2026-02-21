@@ -26,7 +26,7 @@ fanciest
 furiouser
 febricula
 freeman
-fasciculately
+fasciculately 1
 floodlet
 fourchee
 fieldmen
