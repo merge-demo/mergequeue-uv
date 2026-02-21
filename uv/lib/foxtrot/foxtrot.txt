@@ -2713,7 +2713,7 @@ frondous
 fashions
 fruitive 1
 flatteress
-funnier
+funnier 1
 figpecker
 ficche
 fathomer
@@ -5971,7 +5971,7 @@ floods
 foisons
 fortifiable
 fantaisie
-fisk
+fisk 1
 filleter
 fanwright
 ferguson
@@ -7691,7 +7691,7 @@ forehoofs
 forehooves
 forpit
 foreboding 1
-fissidentaceae
+fissidentaceae 1
 foreween
 fogramite
 flarfish
@@ -10048,7 +10048,7 @@ foeish
 fleshling
 fibrosis
 fablemonger
-fait
+fait 1
 flabbiest
 feloniously
 familistical
@@ -11044,7 +11044,7 @@ fermented
 fumuli
 fungated
 fere
-fascias
+fascias 1
 funambulator
 feels
 faunological
@@ -11085,7 +11085,7 @@ functionation
 fane
 factfinder
 flagellated
-flockless
+flockless 1
 functionnaire
 functors
 formational
@@ -11413,7 +11413,7 @@ flocculose
 furniture
 flummoxing
 frustrable
-footlicking
+footlicking 1
 furl
 furodiazole
 feminise
