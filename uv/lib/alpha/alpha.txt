@@ -4430,7 +4430,7 @@ abductores
 ap
 adumbrating
 adumbrations
-asthenias
+asthenias 1
 agrypnode
 angild
 adumbrative
@@ -6164,7 +6164,7 @@ aerographic
 anthosiderite
 acetobenzoic
 agnification
-antiatheistic
+antiatheistic 1
 agnize
 abmodality
 affranchised
