@@ -14039,7 +14039,7 @@ denominable
 distressing
 deglamorization
 distressingly
-devast
+devast 1
 dockyardman
 dishorner
 dragging
