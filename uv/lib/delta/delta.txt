@@ -1316,7 +1316,7 @@ disfranchisements
 dauding
 dicotyledones
 dogate
-directest
+directest 1
 daughterly
 destin
 dissaved
@@ -3309,7 +3309,7 @@ depreciator
 dentololabial
 defilingly
 different
-definably
+definably 1
 dn
 dejecture
 demyelination 1
@@ -10025,7 +10025,7 @@ dorosoma
 derelictness
 dermatopnagic
 dummkopfs
-dimplier
+dimplier 1
 denudement
 dimpsy
 dimwittedly
@@ -14236,7 +14236,7 @@ dumbly
 disburses
 disembargo
 ditchers
-deathwards
+deathwards 1
 disproportionably
 derivatist
 diluendo
@@ -14448,7 +14448,7 @@ divertibility
 diverticle
 daibutsu
 disguisedness
-disruptment 1
+disruptment 2
 diverticulitis
 diverticulosis
 dacyorrhea

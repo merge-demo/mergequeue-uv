@@ -2609,7 +2609,7 @@ canelas
 canellaceous
 cuttlefish
 canellas
-codified
+codified 1
 canelo
 chittak
 craftswoman
@@ -9165,7 +9165,7 @@ chashitsu
 chasm
 castigation
 carbureting
-cotonia
+cotonia 1
 chasma
 chasmed
 caddy 1
@@ -18521,7 +18521,7 @@ chello
 cill
 cohortative
 cohosh
-circumdiction
+circumdiction 1
 cephalalgia
 crownlet
 consigner
@@ -25275,7 +25275,7 @@ corks
 corkscrew
 cosmologists
 cyanotrichite
-cacophonize
+cacophonize 1
 choom
 corkwing
 cormac
@@ -25338,7 +25338,7 @@ cheddaring
 cappelenite
 cornel
 cornelia
-coner
+coner 1
 concessioner
 cornell
 corneosclerotic
@@ -26187,7 +26187,7 @@ calces
 caked
 conatural
 calorimeter
-cycloidally
+cycloidally 1
 cosmotellurian
 cysteines
 cosmotheist
@@ -28736,7 +28736,7 @@ constringe
 coincides
 crepy
 crepiest
-crepine
+crepine 1
 creping
 crepis
 cevennian
@@ -30161,7 +30161,7 @@ cruce
 crucethouse
 canonise
 crucial
-contraceptionist
+contraceptionist 1
 cruciality
 crucially
 courge
