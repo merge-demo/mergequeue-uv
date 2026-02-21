@@ -5651,7 +5651,7 @@ busks
 boraciferous
 benjoin
 besped
-beldams
+beldams 1
 bacchar
 bilify
 belderroot
