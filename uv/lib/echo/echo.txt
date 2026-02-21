@@ -5918,7 +5918,7 @@ expend
 enhaemospore
 epiplastron
 emphases
-explees
+explees 1
 ecarinate
 execrators
 exaggerativeness
