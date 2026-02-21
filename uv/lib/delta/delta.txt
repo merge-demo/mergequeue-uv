@@ -919,7 +919,7 @@ detractors
 devaporate
 descendentalistic
 duplicities
-deflective
+deflective 1
 dapifer
 devitalization
 dipnoi
@@ -4852,7 +4852,7 @@ demonical
 decadal
 deathcups
 dimmedness
-diestrum 1
+diestrum 2
 dognapers
 durableness
 demonise
@@ -5887,7 +5887,7 @@ dryopians
 deforceor
 depredate
 depersonalised
-depredated
+depredated 1
 definitiveness
 diagnoses
 deleting
@@ -6848,7 +6848,7 @@ degenerates
 dextrocardial
 dendrograph
 desmodynia
-diazoamine
+diazoamine 1
 desmodontidae
 danuri
 desmogenous
@@ -13059,7 +13059,7 @@ dispatched
 devaster
 duckish
 disesteeming
-dispatches
+dispatches 1
 drillings
 dimethylsulfoxide
 discocarpium
