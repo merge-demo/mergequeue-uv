@@ -13340,7 +13340,7 @@ disputatiously
 disputatiousness
 dishorse
 disputator
-disputeful
+disputeful 1
 dacrydium
 disfeature
 deceitful
