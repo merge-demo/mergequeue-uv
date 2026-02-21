@@ -12930,7 +12930,7 @@ cocurrent
 chutnees
 chuttie
 chutzpa
-carbanion
+carbanion 1
 chutzpanik
 concentre
 cuesta
