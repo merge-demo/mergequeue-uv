@@ -5860,7 +5860,7 @@ anticonscription
 aerogram
 ageneses
 ancestorial
-anthropomorphise
+anthropomorphise 1
 agenesis
 agenetic
 agenize
