@@ -2677,7 +2677,7 @@ decomposure
 digne
 dogwatches
 decompoundable
-diffractional
+diffractional 1
 decompoundly
 downstairs
 desmoma
@@ -2972,7 +2972,7 @@ devolatilized
 disseisoress
 doxycycline
 debunking
-deductible
+deductible 1
 deciduata
 delinquent
 depositional
@@ -4302,7 +4302,7 @@ disannexation
 demasculinise
 divisors
 deadening
-dermophytic
+dermophytic 1
 dem
 demagnetisation
 dovelet
@@ -5256,7 +5256,7 @@ denouncements
 digladiate
 deprehensible
 denouncer
-dissymmetry
+dissymmetry 1
 densate
 diogenean
 deerstealer
@@ -13778,7 +13778,7 @@ ditrochous
 disspirit
 disspread
 dammars
-disstate
+disstate 1
 dissuaded
 delayed
 dalteen
