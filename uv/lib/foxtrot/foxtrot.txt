@@ -280,7 +280,7 @@ fairly
 folk
 fotive
 flakily
-fourierite
+fourierite 1
 foreshortening
 ford
 febrifacient
@@ -2050,7 +2050,7 @@ faunlike
 fogbows
 fascicule
 flaunting
-forfouchten
+forfouchten 1
 feisty
 fairyisms
 farl
@@ -2843,7 +2843,7 @@ front
 flossie
 freeways
 fizzy
-fatigating
+fatigating 1
 fortyfives
 flirtingly
 faithed
@@ -3684,7 +3684,7 @@ fluxweed
 fungible
 federalize
 freeboots
-footbreadth
+footbreadth 1
 fibroadipose
 filings
 flosser
@@ -5015,7 +5015,7 @@ flashtester
 faith 1
 fissive
 filmcard
-flaneur
+flaneur 1
 frescoes
 functioned
 foremartyr
@@ -5700,7 +5700,7 @@ forkmen
 federalizing
 fleckiest
 forfeitures
-fungitoxicity
+fungitoxicity 1
 fubsiest
 frasse
 fracturableness
@@ -6488,7 +6488,7 @@ fornicating
 forthgoing
 flusteration
 forthcoming
-festschrifts
+festschrifts 1
 fakes
 flustery
 filiciform
@@ -6700,7 +6700,7 @@ furrier
 freshwater
 flaughtbred
 frequent
-finableness
+finableness 1
 forecontrive
 fenner
 flingers
@@ -8344,7 +8344,7 @@ fils
 furriner
 flagellata
 forkedness
-folderol
+folderol 1
 feastful
 fewsome
 feigningly
@@ -9734,7 +9734,7 @@ forgathered
 frenetically
 forlorner 1
 frenula
-frenular
+frenular 1
 footlicker
 fornicate
 friends
@@ -10703,7 +10703,7 @@ flashtubes
 forelaid
 fil
 fellmongering
-flavedo
+flavedo 1
 frutescence
 fetter
 forbare
@@ -10816,7 +10816,7 @@ festilogy
 flisk
 fuddler
 ferrocalcite
-florimania
+florimania 1
 ferniest 1
 fulciment
 fs
