@@ -14633,7 +14633,7 @@ coadjustment
 cystophotography
 coxier
 captans
-checkmating
+checkmating 1
 catch
 concomitancy
 cystopyelitis
