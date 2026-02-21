@@ -1720,7 +1720,7 @@ epistilbite
 ejective
 evang
 eyeground
-epornitically
+epornitically 1
 encephaloid 1
 endangium
 exsanguination
