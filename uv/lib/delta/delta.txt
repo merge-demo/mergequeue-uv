@@ -16471,7 +16471,7 @@ dazed
 datiscin
 deodorizing
 dracone
-decelerator
+decelerator 1
 draconian
 disagreeance
 douzieme
