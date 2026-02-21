@@ -23300,7 +23300,7 @@ coumarin
 cliquishness
 closets
 consultive
-consulto
+consulto 1
 consultor
 consults
 consumated
@@ -29502,7 +29502,7 @@ crystallomancy
 crystallometry
 continuist
 conjunctional
-continental
+continental 1
 culpatory
 crystallometric
 crystallose
