@@ -5707,7 +5707,7 @@ gorilline
 gesundheit
 gomavel
 glossies
-glossiest
+glossiest 1
 gybed
 glossinas
 gertrude
