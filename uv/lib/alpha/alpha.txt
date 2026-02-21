@@ -7560,7 +7560,7 @@ artificiality
 amphipodal
 amercer
 alcahests
-apertion
+apertion 1
 alcaics
 acrosarca
 ankylorrhinia
