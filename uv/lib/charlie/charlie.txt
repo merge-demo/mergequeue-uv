@@ -986,7 +986,7 @@ calaminaris
 callipygian
 calamine
 cervidae
-calamines
+calamines 1
 cypseline
 confiscating
 cuirie
@@ -8159,7 +8159,7 @@ capetian
 cleanups
 cattiest
 chainsmith
-chimneyed
+chimneyed 1
 chainwale
 coldslaw
 countertrades
@@ -20185,7 +20185,7 @@ chappie
 cowlick
 commodata
 commodate
-clerics
+clerics 1
 commodation
 capmint
 coft
@@ -22182,7 +22182,7 @@ canadians
 congaed
 culttelli
 conge
-congeal
+congeal 1
 cafes
 compeered
 congealableness
@@ -23262,7 +23262,7 @@ consubstantiating
 culmen
 consubstantive
 consuetudinal
-consul
+consul 1
 consulage
 coloclysis
 chirurgical
@@ -24149,7 +24149,7 @@ carfax
 cantinier
 conviction
 convictional
-civilizatory
+civilizatory 1
 cibarium
 convictions
 convictism
