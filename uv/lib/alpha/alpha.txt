@@ -15436,7 +15436,7 @@ antimason 1
 antimasque
 antimasquer
 attitude
-abba
+abba 1
 anhedonic
 afterstrain
 adversa
@@ -23096,7 +23096,7 @@ asyzygetic
 attalea
 aquafer
 algicidal
-attargul
+attargul 1
 antisplenetic
 armigers
 alluviation 1
@@ -24992,7 +24992,7 @@ awhape
 awheft
 aganglionic
 antheriferous
-amphitheatric
+amphitheatric 1
 anthroic
 alliterating
 awhile

@@ -1112,7 +1112,7 @@ flatwoods
 foes
 forbade 1
 familiarizing
-fervidness
+fervidness 1
 fusileer
 frizzling
 farthing
@@ -1283,7 +1283,7 @@ fastnesses
 fhrer
 fancywork
 florinda 1
-frigs
+frigs 1
 factitiously
 foins
 footlocker
@@ -1673,7 +1673,7 @@ fathometer
 frypan
 faucets
 flatworm
-fieldmice
+fieldmice 1
 fragmentation
 folioing
 fleshless 1
@@ -1782,7 +1782,7 @@ fadingness
 femorococcygeal
 freewill 1
 firefanging
-freckledness
+freckledness 1
 fishgarth
 feathertop
 frogmen
@@ -3504,7 +3504,7 @@ finnic
 fluctuated
 fended
 federary
-figurable
+figurable 1
 fixture
 figurae
 forebowels
@@ -3629,7 +3629,7 @@ filibusterers
 faecula
 fourble
 fomento
-freddie
+freddie 1
 ferroinclave
 fence
 forehalf
@@ -4855,7 +4855,7 @@ flagstick
 flagworm
 fandangle
 feramorz
-fittedness
+fittedness 1
 florida
 flivvers
 fairwater
@@ -5416,7 +5416,7 @@ fragmentize
 forbled
 foremade
 frisado
-factorial
+factorial 1
 fledgiest
 floatless
 foisonless
@@ -7462,7 +7462,7 @@ funditores
 fantasists
 fumeuse
 fudges
-frutilla
+frutilla 1
 fossarian
 filer
 factures
@@ -7818,7 +7818,7 @@ florette
 fluidimeter
 fashes
 frounces
-forenote
+forenote 1
 fastness
 feltyflier
 fleamy
@@ -8868,7 +8868,7 @@ fictious
 freeholder
 folia
 fleuron
-fibrinoplastic
+fibrinoplastic 1
 filiopietistic
 fotmal
 folkvang
@@ -11000,7 +11000,7 @@ fumbles
 fumblingness
 fumed
 fluidiser
-frigging
+frigging 1
 freeport
 freshly
 fortilage
