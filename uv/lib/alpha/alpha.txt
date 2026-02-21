@@ -2030,7 +2030,7 @@ awakeable
 amritas
 amidoxy
 achagua
-amoret
+amoret 1
 apsychical
 apocope
 achalasia
@@ -8185,7 +8185,7 @@ alienor
 adynamias
 absorptive
 almsmoney
-archaean
+archaean 1
 albino
 autecological
 antipyic
@@ -11583,7 +11583,7 @@ albinoism
 anacephalize
 amanitin
 aiery
-amylopsin
+amylopsin 1
 anacharis
 arriver
 abilities
@@ -15709,7 +15709,7 @@ antiparallelogram
 anisomeric
 arylamine
 ablet
-annection
+annection 1
 admen
 antimetathesis
 antheridiophore
@@ -17187,7 +17187,7 @@ archgunner
 apomecometer
 apomictical
 animism
-aquilegia
+aquilegia 1
 athletocracy
 aeroides
 adoxa
@@ -17323,7 +17323,7 @@ apostatism
 agathaea
 adicea
 aumail
-apostatize
+apostatize 1
 apostaxis
 apostem
 anticapital
@@ -22098,7 +22098,7 @@ amphipeptone
 aguaji
 asteriskos
 acidheads
-append
+append 1
 antinosarian
 antiskeptic
 azoparaffin
