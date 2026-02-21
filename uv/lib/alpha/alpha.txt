@@ -8594,7 +8594,7 @@ alleviations
 allatrate
 abaction
 autosuggestibility
-admitty
+admitty 1
 alineation
 alkoxid
 architectonically
