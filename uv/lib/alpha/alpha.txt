@@ -4010,7 +4010,7 @@ anticontagious
 apokatastasis
 adminicula
 akolouthia
-anergy
+anergy 1
 adminicular
 accounted 1
 adminiculation
@@ -4448,7 +4448,7 @@ antipuritan
 adust
 adustion
 apsides
-amang
+amang 1
 aldoxime
 aftmost
 adv
@@ -6175,7 +6175,7 @@ ataxiaphasia
 autodidact
 aurigation
 anions
-agnoite
+agnoite 1
 anniversary
 ankylurethria
 ababua
@@ -13559,7 +13559,7 @@ argyrol
 annuitants
 aphodal
 aquarists
-aestheticize
+aestheticize 1
 antislaveryism
 acrodactylum
 authenticator
@@ -15802,7 +15802,7 @@ antiphysicalness
 appropriament
 alkane
 acenesthesia
-agujon
+agujon 1
 asport
 antiphona
 aminobarbituric
@@ -16138,7 +16138,7 @@ autolyzing
 acrididae
 argumentatious
 annealing
-acidulous
+acidulous 1
 antisexist
 antiship
 antishipping
@@ -20515,7 +20515,7 @@ antiasthmatic
 arterioplasty
 arteriorenal
 accentless
-amnesty
+amnesty 1
 airfreight
 arteriospasm
 arteriostenosis
@@ -22885,7 +22885,7 @@ alligatored
 analgesic
 abricock
 applicabilities
-atomology
+atomology 1
 auras
 afb
 atonable
@@ -24216,7 +24216,7 @@ awash
 aminities
 automated
 argentite
-automates
+automates 1
 agronomist
 aphetism
 argumentative

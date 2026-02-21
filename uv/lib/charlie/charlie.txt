@@ -994,7 +994,7 @@ calamining
 calamint
 cableway
 cheesed 1
-cordyl
+cordyl 1
 celiomyodynia
 calamity
 candy
@@ -7245,7 +7245,7 @@ centromeric
 centronote
 couth
 centropomidae
-cardioaccelerator
+cardioaccelerator 1
 calyceal
 clarified
 concurrent 1
@@ -9165,7 +9165,7 @@ chashitsu
 chasm
 castigation
 carbureting
-cotonia
+cotonia 1
 chasma
 chasmed
 caddy 1
@@ -10781,7 +10781,7 @@ chinkerinchee
 chinky
 ctenidia
 chinkier
-cleverality
+cleverality 1
 catalytically
 contrair
 chinks 1
@@ -14269,7 +14269,7 @@ circumnavigating
 circumnavigation
 clefted
 chickaree
-coelia
+coelia 1
 circumnavigator
 cyclometrical
 coitophobia
@@ -21089,7 +21089,7 @@ consociated
 conalbumin
 conamarin 1
 communard
-cramoisie
+cramoisie 1
 cornfed
 conand
 connivence
@@ -22837,7 +22837,7 @@ consequentialities
 covenanted
 commemorator
 coalsack
-chibrit
+chibrit 1
 consequently
 choremen
 cognateness
@@ -25338,7 +25338,7 @@ cheddaring
 cappelenite
 cornel
 cornelia
-coner
+coner 1
 concessioner
 cornell
 corneosclerotic
@@ -29084,7 +29084,7 @@ ceresine
 contrapone
 crinanite
 casselty
-columbus
+columbus 1
 camerina
 chloryl
 crinatory
