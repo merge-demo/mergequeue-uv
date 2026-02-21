@@ -691,7 +691,7 @@ damsels
 dan
 dulotic
 disembowelling
-disseize
+disseize 1
 dylan
 danagla
 dibromid
