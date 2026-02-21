@@ -23096,7 +23096,7 @@ asyzygetic
 attalea
 aquafer
 algicidal
-attargul
+attargul 1
 antisplenetic
 armigers
 alluviation 1
