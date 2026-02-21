@@ -5218,7 +5218,7 @@ demicoronal
 dryopes
 distortedness
 decursion
-denominate
+denominate 1
 decadent
 deek
 desmosis
