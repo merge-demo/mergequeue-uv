@@ -2030,7 +2030,7 @@ awakeable
 amritas
 amidoxy
 achagua
-amoret
+amoret 1
 apsychical
 apocope
 achalasia
