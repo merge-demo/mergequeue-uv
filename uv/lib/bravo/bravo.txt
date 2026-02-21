@@ -2947,7 +2947,7 @@ barretor
 berberins
 bloodybones
 billowed
-bonus
+bonus 1
 beath
 battalias
 bigeyes
