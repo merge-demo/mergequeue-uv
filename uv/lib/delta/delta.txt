@@ -4510,7 +4510,7 @@ destruction
 demiculverin
 dodgiest
 divulsed
-demidistance
+demidistance 1
 diaphane
 diabetogenic
 downtrend
