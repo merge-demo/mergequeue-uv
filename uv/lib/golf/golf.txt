@@ -2105,7 +2105,7 @@ greasehorn
 gormandise
 guggles
 gimmicky
-giggledom
+giggledom 1
 grottolike 1
 gardenia
 gastrostege
@@ -2866,7 +2866,7 @@ gratifier
 guser
 gullish
 genuflects
-glanduliform
+glanduliform 1
 glossiphonidae
 geol
 guilefulness
@@ -5698,7 +5698,7 @@ gumflower
 gillyflower
 glycosuric
 gushes
-girdlestead
+girdlestead 1
 greedier
 grandnephews
 glossemic
@@ -5707,7 +5707,7 @@ gorilline
 gesundheit
 gomavel
 glossies
-glossiest
+glossiest 1
 gybed
 glossinas
 gertrude
@@ -6051,7 +6051,7 @@ gragers
 ganevs
 gastradenitis
 guerre
-gallocyanin
+gallocyanin 1
 gymnocarpic
 giesel
 gunate
@@ -6419,7 +6419,7 @@ girlchild
 goitral
 guam
 gamboges
-galuth
+galuth 1
 gaine
 glucocorticord
 grotto
@@ -7613,7 +7613,7 @@ gigolo
 gerenda
 garpike
 gilbertite
-gubernacula
+gubernacula 1
 glacialist
 gracefuller
 gallerying
