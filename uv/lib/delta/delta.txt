@@ -919,7 +919,7 @@ detractors
 devaporate
 descendentalistic
 duplicities
-deflective
+deflective 1
 dapifer
 devitalization
 dipnoi
