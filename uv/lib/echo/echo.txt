@@ -3203,7 +3203,7 @@ enamoring
 esperantist
 enamelwork
 emmeleia
-elopes
+elopes 1
 elops
 elicit
 emission
@@ -4557,7 +4557,7 @@ euphyllopoda
 enureses
 epitheliogenetic
 emplaned
-embarkation
+embarkation 1
 encephalotome
 edomite
 ethics
@@ -12296,7 +12296,7 @@ errorless
 exemptions
 ephemerist
 eviternal
-excerp
+excerp 1
 exemptive
 exendospermous
 environal
