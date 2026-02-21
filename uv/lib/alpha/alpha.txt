@@ -5100,7 +5100,7 @@ archizoic
 aesir
 aesop
 aesopian
-amtracs
+amtracs 1
 aesthesodic
 allaeanthus 1
 ardisiaceae
@@ -10088,7 +10088,7 @@ abrupt
 adrenal
 arles
 alchymies
-astral
+astral 1
 antasthmatic
 amblystegite
 autodialer
