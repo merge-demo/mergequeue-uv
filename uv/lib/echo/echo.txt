@@ -4308,7 +4308,7 @@ enjoined
 extirpation
 epicarides
 ejectment
-exaltedness
+exaltedness 1
 electrochemical 1
 entangle
 exosmoses
