@@ -13866,7 +13866,7 @@ encyst
 endgame
 extraneity
 ethiop
-executancy
+executancy 1
 euglobulin 1
 expo
 etamine
