@@ -1596,7 +1596,7 @@ accounts
 anybody
 accouter
 apotype
-astrologistic
+astrologistic 1
 agrostologist
 aneling
 accouterment
@@ -2212,7 +2212,7 @@ acetophenine
 acrestaff
 archangel
 achromatization
-achromatize
+achromatize 1
 achromatocyte
 agarum
 arctalian
@@ -7191,7 +7191,7 @@ adnouns
 abettals
 alacrious
 alacrity
-alactaga
+alactaga 1
 alada
 abridgements
 antica
@@ -11182,7 +11182,7 @@ autallotriomorphic
 abrin
 acold
 ascaricide
-amphicarpium
+amphicarpium 1
 aluconidae
 apocalyptist
 alterius
@@ -12590,7 +12590,7 @@ antitrust
 alants
 anergies
 agley
-anglicization
+anglicization 1
 antidorcas
 anes
 anesone
@@ -14962,7 +14962,7 @@ anticonfederative
 anticonformity
 antiaristocracy
 annulled
-amidohexose
+amidohexose 1
 antilogy
 avyayibhava
 avicular
@@ -15149,7 +15149,7 @@ antienvironmentalists
 ataxonomic
 azimine
 antienzyme
-augury
+augury 1
 antiepiscopal
 arigue
 antiestablishment
@@ -16541,7 +16541,7 @@ apabhramsa
 axletree
 appress
 acutorsion
-apache
+apache 1
 attained
 apadana
 astronautic
@@ -25187,7 +25187,7 @@ axonolipa
 axonolipous
 amirate
 autoblast
-axonometric
+axonometric 1
 asprete
 ascupart
 abusiveness

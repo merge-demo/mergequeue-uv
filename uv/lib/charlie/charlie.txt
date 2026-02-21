@@ -11238,7 +11238,7 @@ consuls
 chloride
 crocodiloid
 crackups
-calderon
+calderon 1
 ceca
 cokery
 codettas
@@ -19002,7 +19002,7 @@ caloricity
 collectivize
 collectivized
 collectivizes
-collectivizing
+collectivizing 1
 collectivum
 cocrucify
 collectorate
