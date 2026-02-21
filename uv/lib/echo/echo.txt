@@ -7130,7 +7130,7 @@ edicts
 engaud
 enemy
 exported
-entices
+entices 1
 epiplexis
 extrabranchial
 employees
