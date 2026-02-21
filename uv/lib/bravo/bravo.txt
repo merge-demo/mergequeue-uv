@@ -3317,7 +3317,7 @@ barbut
 basitemporal
 beguilers
 balao
-besotment
+besotment 1
 basitting
 basiventral
 beudantite 1
@@ -11260,7 +11260,7 @@ blower
 boomiest
 boaters
 braver
-bullshits
+bullshits 1
 basketries
 blowguns
 butling
