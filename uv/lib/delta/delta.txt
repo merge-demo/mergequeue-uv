@@ -1263,7 +1263,7 @@ devitalizing
 diarrheal
 discovert
 datiscosid
-delacerate
+delacerate 1
 drosograph
 datisi 1
 dative
@@ -1360,7 +1360,7 @@ duelli
 definer
 dauphine
 dauphines
-drooping
+drooping 1
 drawboard
 drapable
 dauri
@@ -6655,7 +6655,7 @@ deplump
 draughtswoman
 desertification
 dodecahedric
-deserting
+deserting 1
 drabs
 diastimeter
 desertlessly
@@ -7507,7 +7507,7 @@ disentwine
 denda
 deusan
 dogtrots
-drosera
+drosera 1
 decocainize
 deutencephalon
 dumfounding
@@ -8827,7 +8827,7 @@ dyspraxia
 dibbing
 deliberates
 deterring
-drachmas
+drachmas 1
 dibbled
 degame
 dybbuk
@@ -15088,7 +15088,7 @@ dekabrist
 dufrenite
 delicti
 domitian
-dedicative
+dedicative 1
 dumping
 deficits
 dogeless
