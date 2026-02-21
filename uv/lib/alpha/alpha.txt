@@ -24216,7 +24216,7 @@ awash
 aminities
 automated
 argentite
-automates
+automates 1
 agronomist
 aphetism
 argumentative
