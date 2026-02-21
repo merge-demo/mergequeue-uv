@@ -12308,7 +12308,7 @@ equilucent
 exerce
 equimultiple
 exceptious
-extramarginal
+extramarginal 1
 epanisognathous
 endotracheitis
 equimolecular
