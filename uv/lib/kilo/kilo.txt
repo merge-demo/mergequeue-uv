@@ -8209,7 +8209,7 @@ knomudlodzy
 knopglr
 knot
 knouwvszg
-know
+know 1
 knowdomsf
 knowledge
 known
