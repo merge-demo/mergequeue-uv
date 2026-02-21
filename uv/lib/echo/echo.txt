@@ -11195,7 +11195,7 @@ eternalism
 evanescence
 encephalomalacosis
 epidotic
-exuberantly
+exuberantly 1
 enspheres
 electroacoustically
 econometrist
