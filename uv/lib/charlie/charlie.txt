@@ -6504,7 +6504,7 @@ cavetti
 calusar
 conchie
 cavy
-cavia
+cavia 1
 cavicorn
 cuprocyanide
 calve
