@@ -28766,7 +28766,7 @@ comparativeness
 cordelier
 crescendo
 crescendoing
-crescendos
+crescendos 1
 crescentade
 cussing
 circulator
@@ -30436,7 +30436,7 @@ crwd
 crystallogenic
 cantaloupe
 carpetwork
-csch
+csch 1
 csect
 cpu
 cholecystectomies
@@ -31811,7 +31811,7 @@ chocalho
 contractee
 cutgrass
 cyathia
-cuticolor
+cuticolor 1
 cuticula
 credenzas
 cuticulate
