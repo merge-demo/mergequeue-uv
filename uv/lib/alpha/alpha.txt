@@ -17971,7 +17971,7 @@ allodialism
 anthropophysiography
 allothigene
 authenticate
-amphidesmous
+amphidesmous 1
 azoformic
 alternariose
 anthypophora
