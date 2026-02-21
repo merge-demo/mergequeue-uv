@@ -442,7 +442,7 @@ forcefulness
 floriculturist
 faisceau
 firths
-forelaying
+forelaying 1
 fluobromide
 florilage
 formidably
@@ -1038,7 +1038,7 @@ fireling
 flerrying
 farmerly
 forrel
-ferash
+ferash 1
 fletcherize
 folates
 farmership
@@ -1180,7 +1180,7 @@ friponerie
 focalize
 funder
 funaria
-fifths
+fifths 1
 fume
 forepass
 frighter
@@ -1404,7 +1404,7 @@ forges
 fatsia
 formy
 fatsoes
-fancying
+fancying 1
 fermiums
 fusilly
 frequentage
@@ -1548,7 +1548,7 @@ fauvism
 funk
 fause
 fauvisms
-foreprepare
+foreprepare 1
 fodderer
 filechar
 faucitis
@@ -1663,7 +1663,7 @@ forebrace
 flacourtiaceous
 folksong
 flemer
-forgrow
+forgrow 1
 fearedly
 fadeaways
 frisker
@@ -3239,7 +3239,7 @@ frostwort
 flexionless
 fango
 fuchsone
-forefend
+forefend 1
 flunkies
 falern
 forewarnings
@@ -4370,7 +4370,7 @@ fuliginously
 fise
 forb
 furosemide
-fisetin
+fisetin 1
 focuser
 forfeitable
 frate
@@ -4903,7 +4903,7 @@ farina
 federationist
 flakage
 floggings
-flotsen
+flotsen 1
 flamboyantism
 funiculi
 fascial
@@ -7204,7 +7204,7 @@ frecked
 fortnight
 falseheartedly
 fustily
-fibrocarcinoma
+fibrocarcinoma 1
 footlockers
 frolicks
 flathe
@@ -8534,7 +8534,7 @@ fraxetin
 feastly
 futuristically
 foreseeing
-foremisgiving
+foremisgiving 1
 fard
 fulgid
 farctate
@@ -10633,7 +10633,7 @@ friandise
 fruitbearing
 foremark
 fusc
-frankness
+frankness 1
 fiddlededee
 frogstool
 filtrability
@@ -11010,7 +11010,7 @@ famelessness
 funkia
 fabliaux
 fusuma
-farmery
+farmery 1
 fumet
 forcipate
 falafel
