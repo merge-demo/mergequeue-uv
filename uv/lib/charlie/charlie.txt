@@ -82,7 +82,7 @@ cabbalahs
 cabbalas
 cabbalist
 currie
-cosmolatry
+cosmolatry 1
 coch
 cabbalistic
 catamaran
@@ -1958,7 +1958,7 @@ crotalid
 checkered
 camera
 capitols
-counterwill
+counterwill 1
 cumulose
 cyprinodont
 camerae
@@ -6151,7 +6151,7 @@ cattlebush
 cattlefold
 chatellany
 chinpiece
-creakier
+creakier 1
 cicely
 cancan
 cattleyak
