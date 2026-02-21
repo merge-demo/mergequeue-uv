@@ -64,7 +64,7 @@ excuss
 estuarine
 earlier
 einkorns
-empaneling
+empaneling 1
 earliest
 enfilading
 eastness
@@ -2121,7 +2121,7 @@ edenite
 exudes
 emberiza
 effete
-eberthella
+eberthella 1
 electrography
 ethicized
 empiriocritcism
@@ -3963,7 +3963,7 @@ emirate
 euxanthin
 euskara
 extremistic
-encephalic
+encephalic 1
 emotioned
 emotionize
 eugregarinida
@@ -4286,7 +4286,7 @@ emulsions
 equidistantial
 emacerated
 effluxes
-emphasise
+emphasise 1
 extoller
 emulsoids
 enteropathogenic
@@ -5191,7 +5191,7 @@ epicarp
 encyclic
 eurystheus
 erava
-essonite
+essonite 1
 exceedingness
 endothermically
 epimeride
@@ -6972,7 +6972,7 @@ entrancedly
 entrancement
 ectotrophi
 enscene
-empusa
+empusa 1
 expressed
 etherializing
 echinodermata
@@ -7340,7 +7340,7 @@ epizoal
 elongate
 economy
 epanorthidae
-electrojet
+electrojet 1
 ephorates
 enravishment
 epapophysis
@@ -8342,7 +8342,7 @@ evangelise
 enscrolls
 eternizing
 eland
-eucarpic
+eucarpic 1
 enslaved
 endocyemate
 epithetic
@@ -10086,7 +10086,7 @@ echidnidae
 ethenes
 ethenoid
 ethenol
-eyecups
+eyecups 1
 ensorcelize
 eschatocol
 ebb
@@ -10489,7 +10489,7 @@ etrog
 equatoreal
 etruscology
 etta
-endosteally
+endosteally 1
 equation
 embouchure
 ettercap
@@ -11599,7 +11599,7 @@ electroretinogram
 engregge
 eternalising
 expatiate
-enmeshing
+enmeshing 1
 evolver
 equiponderating
 ectolecithal
@@ -11638,7 +11638,7 @@ economics
 ew
 exacerbatingly
 etoiles
-expulses
+expulses 1
 enddamaged
 exactable
 extemporising
