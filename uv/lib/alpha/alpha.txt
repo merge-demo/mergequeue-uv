@@ -1052,7 +1052,7 @@ abuilding
 abuleia
 antitorpedo
 abulia
-atticizing
+atticizing 1
 acustom
 axhammered
 averager
@@ -4544,7 +4544,7 @@ adversities
 abranchial
 aliptes
 axotomous
-advertence
+advertence 1
 advertently
 adverting
 appertise
@@ -9574,7 +9574,7 @@ aworth
 accentuate
 atheism
 algorithmic
-autoionization
+autoionization 1
 antepileptic
 amuse
 aspersors
@@ -9795,7 +9795,7 @@ audacity
 ambery
 accommodationist
 amamau
-ancyloceras
+ancyloceras 1
 antimale
 amande
 acounter
@@ -10110,7 +10110,7 @@ alumin
 acidyl
 antiluetic
 aspirin
-atmological
+atmological 1
 aggadic
 archaeopithecus
 anaheim 1
@@ -13546,7 +13546,7 @@ anthropophagical
 announced
 agronomial
 astrophyllite
-announcing
+announcing 1
 appaloosa
 annualized
 apair
@@ -14891,7 +14891,7 @@ antilogs
 anticipative
 attensity
 activeness 1
-antinepotic
+antinepotic 1
 abnormality
 ateleological
 antliate
@@ -16137,7 +16137,7 @@ arbitraries
 autolyzing
 acrididae
 argumentatious
-annealing
+annealing 1
 acidulous
 antisexist
 antiship
@@ -16669,7 +16669,7 @@ antihumanism
 alioth
 antimosquito
 ammochryse
-anocithesia
+anocithesia 1
 aberrance
 apertures
 assisa
@@ -17971,7 +17971,7 @@ allodialism
 anthropophysiography
 allothigene
 authenticate
-amphidesmous
+amphidesmous 1
 azoformic
 alternariose
 anthypophora
@@ -20101,7 +20101,7 @@ agentive
 alderflies
 araneiformia
 adenohypophyseal
-abbas
+abbas 1
 adstipulating
 aroxyl
 ateliers
@@ -23318,7 +23318,7 @@ attempted
 attunement
 apteryges
 anodynes
-ablation
+ablation 1
 atua
 atule
 appetitiveness
@@ -24906,7 +24906,7 @@ accoladed
 atavisms
 arimasp
 awaiting
-awaitlala
+awaitlala 1
 awakable
 acoelomate
 awake

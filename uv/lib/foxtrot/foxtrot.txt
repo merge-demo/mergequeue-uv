@@ -130,7 +130,7 @@ facioplegia
 facit
 fluvioglacial
 forefathers
-fiberizer
+fiberizer 1
 fomes
 filicic
 fackeltanz
@@ -213,7 +213,7 @@ factrix 1
 footmanship
 factorials
 fanons
-fatiscence
+fatiscence 1
 forborne
 futurist
 fenestellidae
@@ -526,7 +526,7 @@ forepaled
 fetterless
 fustigating
 falcon
-falconinae
+falconinae 1
 favoredness
 fleeces
 forfeiter
@@ -749,7 +749,7 @@ flurries
 faraday
 fibrilliferous
 fanatism
-fabricating
+fabricating 1
 farcilite
 flybelt
 frozenness
@@ -5556,7 +5556,7 @@ foraminiferous
 flirtish
 flexuously
 fram
-fluffiest
+fluffiest 1
 forecited
 fluorite
 fascicle
@@ -6635,7 +6635,7 @@ funds
 fancymonger
 fatuousness
 focussed
-fetlocked
+fetlocked 1
 ferricyanic
 fecche 1
 fantaseid
@@ -9469,7 +9469,7 @@ farming
 fortuitousness
 femininism
 frameable
-frequenting
+frequenting 1
 fraudfully
 fasciculated
 fyces

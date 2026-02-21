@@ -8266,7 +8266,7 @@ chalcolithic
 cappae
 coadunation
 chalcomenite
-chalcone
+chalcone 1
 chalcopyrite
 chalcosine
 calyptrogyne
@@ -9543,7 +9543,7 @@ checkrein
 checkroll
 compathy
 checkrope
-cumulant
+cumulant 1
 conoy
 checkrowed
 checkrower
@@ -13251,7 +13251,7 @@ cyclograph
 cerises
 coadapt
 cyclohexadienyl
-cashoos
+cashoos 1
 crossrow
 cyclohexanol
 crass
@@ -23300,7 +23300,7 @@ coumarin
 cliquishness
 closets
 consultive
-consulto
+consulto 1
 consultor
 consults
 consumated
@@ -26083,7 +26083,7 @@ cosine
 culverineer
 cynognathus
 cosiness
-colder
+colder 1
 cosins
 chaja
 cosmecology
@@ -28788,7 +28788,7 @@ cines
 crescentlike
 crescentoid
 crescents
-crescively
+crescively 1
 clarinettist
 confederatio
 cantino
@@ -29502,7 +29502,7 @@ crystallomancy
 crystallometry
 continuist
 conjunctional
-continental
+continental 1
 culpatory
 crystallometric
 crystallose
