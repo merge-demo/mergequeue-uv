@@ -1144,7 +1144,7 @@ cloddiness
 calcitic
 calcitrant
 calcitrate
-cataphatic
+cataphatic 1
 claiborne
 caryopsides
 calcivorous
