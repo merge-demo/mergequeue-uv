@@ -815,7 +815,7 @@ abscision
 abruption
 addedly
 arachnoiditis
-abruptness
+abruptness 1
 apptd
 ambilogy
 algarot
