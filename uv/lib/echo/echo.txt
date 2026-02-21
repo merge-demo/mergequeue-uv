@@ -1847,7 +1847,7 @@ eighties
 exhalable
 eightieth
 eightling
-edematose
+edematose 1
 euler
 epidiorite
 encystments
