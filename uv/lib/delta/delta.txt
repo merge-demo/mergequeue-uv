@@ -9030,7 +9030,7 @@ dicoumarin
 disembed
 dissemilative
 depravate
-deaconhood
+deaconhood 1
 dermatoplast
 dicoumarol
 dicranaceous
