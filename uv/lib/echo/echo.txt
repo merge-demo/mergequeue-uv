@@ -10158,7 +10158,7 @@ edgier
 emmove
 earlyish
 exhausts
-encroaching
+encroaching 1
 embroideress
 emeraldine
 etherially
