@@ -538,7 +538,7 @@ gnetaceous
 gamodemes
 galler
 grandmammy
-grandsirs
+grandsirs 1
 germanium
 gastraea
 gallera
@@ -673,7 +673,7 @@ giddify
 geoaesthesia
 gript
 giterne
-grapelet
+grapelet 1
 gelosine
 gooney
 gynecomaniac
@@ -2764,7 +2764,7 @@ gonangia
 grover
 gekkonidae
 glaister
-girling
+girling 1
 genteelize
 gelating
 gentiana 1
@@ -4112,7 +4112,7 @@ goneoclinic
 gipsywort
 gulgul
 gratifiedly
-gilder
+gilder 1
 glycerogelatin
 giraffish
 genapper
@@ -4833,7 +4833,7 @@ glacieret
 gouaches
 garookuh
 glacierist
-graphemes
+graphemes 1
 glaciers
 gowns
 gymnothorax
@@ -5155,7 +5155,7 @@ gratins
 greek
 glomerulitis
 genetmoil
-gazania
+gazania 1
 glazers
 geldant
 grouch
@@ -6500,7 +6500,7 @@ georgiadesite
 glaciologist
 germinatively
 gonapophysial
-glyoxal
+glyoxal 1
 gabert
 goll
 gravelled
@@ -9466,7 +9466,7 @@ grassiest
 gluish
 guaharibo
 gabriella
-glaciate
+glaciate 1
 grumbling
 gaseously
 griffonne
@@ -9999,7 +9999,7 @@ goodsome
 geophysically
 graveness
 gargled
-gelatinify
+gelatinify 1
 galago
 grignet
 gaslike
@@ -10178,7 +10178,7 @@ gastropathy
 granulated
 greed 1
 governable
-gloriana
+gloriana 1
 goosery
 genethliac
 garages 1
