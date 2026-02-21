@@ -5191,7 +5191,7 @@ epicarp
 encyclic
 eurystheus
 erava
-essonite
+essonite 1
 exceedingness
 endothermically
 epimeride
