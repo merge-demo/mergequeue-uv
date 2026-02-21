@@ -9572,7 +9572,7 @@ gymnostomata
 galactopoiesis
 giftlike
 geophones
-granted
+granted 1
 gazed
 gynecologist
 galactoscope
