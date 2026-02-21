@@ -9058,7 +9058,7 @@ animant
 ancylostome
 allowableness
 alkalises
-ammonoid
+ammonoid 1
 allowed
 attorned
 assertiveness
