@@ -815,7 +815,7 @@ abscision
 abruption
 addedly
 arachnoiditis
-abruptness
+abruptness 1
 apptd
 ambilogy
 algarot
@@ -5860,7 +5860,7 @@ anticonscription
 aerogram
 ageneses
 ancestorial
-anthropomorphise
+anthropomorphise 1
 agenesis
 agenetic
 agenize
@@ -6175,7 +6175,7 @@ ataxiaphasia
 autodidact
 aurigation
 anions
-agnoite
+agnoite 1
 anniversary
 ankylurethria
 ababua
@@ -8664,7 +8664,7 @@ alephzero
 afrasian
 automatonlike
 alleyway
-alchitran
+alchitran 1
 abled
 attractancy
 anarchs
@@ -17934,7 +17934,7 @@ approaching
 anemometer
 approbated
 anachronist
-adorner
+adorner 1
 approbating
 approbations
 arghel
@@ -20101,7 +20101,7 @@ agentive
 alderflies
 araneiformia
 adenohypophyseal
-abbas
+abbas 1
 adstipulating
 aroxyl
 ateliers
@@ -20515,7 +20515,7 @@ antiasthmatic
 arterioplasty
 arteriorenal
 accentless
-amnesty
+amnesty 1
 airfreight
 arteriospasm
 arteriostenosis
@@ -22254,7 +22254,7 @@ altrices
 astoop
 abjoint
 amorphy
-aerated
+aerated 1
 anticlassicist
 anecdotalism 1
 alfred
@@ -23901,7 +23901,7 @@ authentication
 apathy
 allotters
 aciculas
-apocaffeine
+apocaffeine 1
 athetosic
 auganite
 avionic
