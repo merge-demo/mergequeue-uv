@@ -577,7 +577,7 @@ halt
 haltfhj
 haltnmgho
 haltydqovz
-halv
+halv 1
 halvigcwc
 halxhon
 halxs
