@@ -452,7 +452,7 @@ equivoke
 exurbia
 emperize
 embiodea
-explicated
+explicated 1
 engager
 escapements
 erf
