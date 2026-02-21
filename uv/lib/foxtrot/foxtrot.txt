@@ -5866,7 +5866,7 @@ feminology
 funebre
 farding
 fastigia
-fdtype
+fdtype 1
 fowlers
 flocced
 frustulose
