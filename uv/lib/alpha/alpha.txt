@@ -11583,7 +11583,7 @@ albinoism
 anacephalize
 amanitin
 aiery
-amylopsin
+amylopsin 1
 anacharis
 arriver
 abilities
