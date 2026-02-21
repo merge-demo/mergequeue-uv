@@ -2355,7 +2355,7 @@ flanneled
 fencelike
 floaters
 flunked
-friarly
+friarly 1
 funerary
 favel
 femineity
