@@ -9258,7 +9258,7 @@ espinette
 elayl
 erratas
 erratic
-erratically
+erratically 1
 enantiomorphic
 elite 1
 eulogist
