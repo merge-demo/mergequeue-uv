@@ -4233,7 +4233,7 @@ fallotomy
 firelight
 flab
 feistier
-felicide
+felicide 1
 footsies
 fowls
 farinosely
