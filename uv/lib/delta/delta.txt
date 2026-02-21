@@ -11920,7 +11920,7 @@ disease
 dentalisation
 defectively
 deductile
-diseased
+diseased 1
 deifying
 dissyllabify
 dianoetic
