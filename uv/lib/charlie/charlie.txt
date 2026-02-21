@@ -994,7 +994,7 @@ calamining
 calamint
 cableway
 cheesed 1
-cordyl
+cordyl 1
 celiomyodynia
 calamity
 candy
