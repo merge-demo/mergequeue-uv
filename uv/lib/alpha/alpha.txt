@@ -4544,7 +4544,7 @@ adversities
 abranchial
 aliptes
 axotomous
-advertence
+advertence 1
 advertently
 adverting
 appertise
@@ -9795,7 +9795,7 @@ audacity
 ambery
 accommodationist
 amamau
-ancyloceras
+ancyloceras 1
 antimale
 amande
 acounter
@@ -14891,7 +14891,7 @@ antilogs
 anticipative
 attensity
 activeness 1
-antinepotic
+antinepotic 1
 abnormality
 ateleological
 antliate
@@ -20101,7 +20101,7 @@ agentive
 alderflies
 araneiformia
 adenohypophyseal
-abbas
+abbas 1
 adstipulating
 aroxyl
 ateliers
@@ -23318,7 +23318,7 @@ attempted
 attunement
 apteryges
 anodynes
-ablation
+ablation 1
 atua
 atule
 appetitiveness
@@ -24906,7 +24906,7 @@ accoladed
 atavisms
 arimasp
 awaiting
-awaitlala
+awaitlala 1
 awakable
 acoelomate
 awake
