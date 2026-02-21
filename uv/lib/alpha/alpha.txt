@@ -2873,7 +2873,7 @@ anilopyrine
 amidopyrine
 adaptation
 achromatin
-amygdales
+amygdales 1
 acrophonetic
 avengingly
 acrophonic
