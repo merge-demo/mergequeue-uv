@@ -3665,7 +3665,7 @@ caviler
 caramboling
 cardsharper
 comicotragedy
-caramelisation
+caramelisation 1
 coillen
 caramelise
 conveyorize
@@ -10283,7 +10283,7 @@ chichicaste
 chontawood
 chichimec
 chichipe
-carvyl
+carvyl 1
 corometer
 charlies
 calctuffs
