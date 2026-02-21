@@ -351,7 +351,7 @@ gutwort
 gingerin
 grade
 gilet 1
-gantlets
+gantlets 1
 gley
 graphed
 gasogenic
