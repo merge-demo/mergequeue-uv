@@ -8342,7 +8342,7 @@ evangelise
 enscrolls
 eternizing
 eland
-eucarpic
+eucarpic 1
 enslaved
 endocyemate
 epithetic
