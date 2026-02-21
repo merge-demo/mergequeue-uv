@@ -9640,7 +9640,7 @@ farthest
 foresign
 fecklessly
 feliform
-fulcrumage
+fulcrumage 1
 flabrum
 freewheelingness
 forfoughen
