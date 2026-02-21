@@ -619,7 +619,7 @@ hamp
 hampdesbycft
 hamqa
 hamqbzo
-hamqd
+hamqd 1
 hamqstcx
 hamqt
 hamrcixvrbji
