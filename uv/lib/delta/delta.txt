@@ -125,7 +125,7 @@ diddered
 detonated
 dialectologically
 diazeuctic
-dioecism
+dioecism 1
 debilitations
 dyspathetic
 demiurgus
