@@ -13407,7 +13407,7 @@ astringe
 aristulate
 archphylarch
 ankusha
-ankushes
+ankushes 1
 anomala
 anlace
 albinistic
