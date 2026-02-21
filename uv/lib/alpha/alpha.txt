@@ -3932,7 +3932,7 @@ alarmed
 argentamide
 adjunctively
 adjunctly
-analogia
+analogia 1
 admissory
 adjured
 amygdalotome
@@ -16149,7 +16149,7 @@ anthophobia
 aeroplanist
 aethalioid
 allusion
-amassers
+amassers 1
 afterchance
 akov
 ashcan
@@ -18560,7 +18560,7 @@ arbust
 arbusta
 analytics
 arbutean
-alphean
+alphean 1
 anthropomorphite
 abrogates
 abbotship
@@ -23295,7 +23295,7 @@ adventitia
 azophenol
 accordances
 archicerebra
-aurorium
+aurorium 1
 attributions
 attributively
 attributor
