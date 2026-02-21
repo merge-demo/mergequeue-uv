@@ -12858,7 +12858,7 @@ enantioses
 ensile
 exotics
 exotoxic
-exacerbate
+exacerbate 1
 enlarger
 ecomomist
 ensynopticity
