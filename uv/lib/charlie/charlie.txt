@@ -27206,7 +27206,7 @@ consolatoriness
 countertruth
 chelas
 corses
-counterturned
+counterturned 1
 cicatrised
 curnock
 colutea
