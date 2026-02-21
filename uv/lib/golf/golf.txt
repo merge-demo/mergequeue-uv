@@ -10423,7 +10423,7 @@ gum
 gandhi
 gluiness
 gyneolatry
-geologician
+geologician 1
 goney
 gardbrace
 gutweed
