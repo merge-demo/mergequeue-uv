@@ -141,7 +141,7 @@ flashforwards
 flagellist
 feedhead
 fibre
-fossiled
+fossiled 1
 facsimiled
 fracturable
 frigidaria
@@ -173,7 +173,7 @@ factionistism
 flirtatious
 fibrointestinal
 friborg
-fabulous
+fabulous 1
 fourquine
 factiously
 forthought
@@ -3553,7 +3553,7 @@ foulsome
 filamentary
 filament
 flannelleaves
-fishfall
+fishfall 1
 flagrancy
 frowziness
 fath
@@ -3593,7 +3593,7 @@ foreskirt
 fixates
 fenceful
 florigraphy
-forspoken
+forspoken 1
 feddan
 flapjacks
 fussle
@@ -4125,7 +4125,7 @@ feuilletons
 frameworks
 floridan
 fiorin
-fusiladed
+fusiladed 1
 fiorite
 flamberg
 foreseen
@@ -8422,7 +8422,7 @@ formulize
 fierier
 flushers
 fatheadedly
-formaliser
+formaliser 1
 fozinesses
 fritting
 freshman
@@ -9931,7 +9931,7 @@ fantoms
 fumatorium
 freckled
 fa
-frigage
+frigage 1
 frigates
 flocculated
 flavin
@@ -10587,7 +10587,7 @@ forwarn
 freakouts
 fibrination
 finement
-fatefulness
+fatefulness 1
 fuzzes
 fulgent
 foiling
@@ -11044,7 +11044,7 @@ fermented
 fumuli
 fungated
 fere
-fascias
+fascias 1
 funambulator
 feels
 faunological
@@ -11413,7 +11413,7 @@ flocculose
 furniture
 flummoxing
 frustrable
-footlicking
+footlicking 1
 furl
 furodiazole
 feminise
@@ -11539,7 +11539,7 @@ frugging
 furlable 1
 fabling
 fictionize
-fards
+fards 1
 floeberg
 famulary
 fledgy
