@@ -15945,7 +15945,7 @@ doted
 diploplacula
 doters
 donable
-dotes
+dotes 1
 dispreads
 disbudded
 decadist
