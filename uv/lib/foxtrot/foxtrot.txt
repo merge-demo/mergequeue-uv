@@ -2387,7 +2387,7 @@ flinting
 flexors
 fricandeau
 folksiness
-foredating
+foredating 1
 fromfile
 foreordinating
 freakpot
@@ -3945,7 +3945,7 @@ fraple
 ferrocyanogen
 falsehearted
 furrowed
-fireboxes
+fireboxes 1
 fluoresces
 flemish
 fluoranthene
@@ -6795,7 +6795,7 @@ farfal
 forethink
 foldcourse
 fiberless
-folkmoots
+folkmoots 1
 foredoomed
 fleshhook
 farinulent
@@ -8266,7 +8266,7 @@ feldspars 1
 fistulated
 fulltime
 fructuose
-forgettably
+forgettably 1
 fixers
 faverole
 fractionalizing
@@ -9833,7 +9833,7 @@ fordicidia
 flaggers
 fissileness
 frib
-fruitage
+fruitage 1
 faden
 fribbler
 friskle
@@ -10911,7 +10911,7 @@ forgeful
 footgrip
 fi 1
 foilable
-fiscalizing
+fiscalizing 1
 fullonian
 ferrying
 franticness
@@ -11321,7 +11321,7 @@ furfures
 fusulina
 foldless
 fps
-furfurine
+furfurine 1
 funebrious
 faujasite
 formals
