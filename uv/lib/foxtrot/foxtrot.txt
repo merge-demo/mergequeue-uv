@@ -26,7 +26,7 @@ fanciest
 furiouser
 febricula
 freeman
-fasciculately
+fasciculately 1
 floodlet
 fourchee
 fieldmen
@@ -3011,7 +3011,7 @@ flooey
 fiar
 fricasseeing
 fiaroblast
-foreordained
+foreordained 1
 flirts
 flaggelation
 forbs
@@ -4233,7 +4233,7 @@ fallotomy
 firelight
 flab
 feistier
-felicide
+felicide 1
 footsies
 fowls
 farinosely
@@ -7054,7 +7054,7 @@ fimbriae
 functioning
 foodful
 fulfilled
-fribby
+fribby 1
 fatalities
 foreknow
 flowk
@@ -8416,7 +8416,7 @@ fullerboard
 folksy
 formalesque
 foistiness
-flatfootedly
+flatfootedly 1
 freshmanic
 formulize
 fierier
@@ -9223,7 +9223,7 @@ fusing
 fragments
 foresighted
 fishbed
-foraneous
+foraneous 1
 facts
 frayedness
 fabulize
@@ -10177,7 +10177,7 @@ foresightedly
 fastings
 fleishig
 formalism
-feebly
+feebly 1
 farce
 foxchop
 fetologies
@@ -11645,7 +11645,7 @@ fibroses
 fibropapilloma
 fust
 federational
-furbishing
+furbishing 1
 filamented
 funerealness
 forded
