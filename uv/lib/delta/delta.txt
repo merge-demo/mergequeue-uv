@@ -15088,7 +15088,7 @@ dekabrist
 dufrenite
 delicti
 domitian
-dedicative
+dedicative 1
 dumping
 deficits
 dogeless
