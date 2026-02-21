@@ -11689,7 +11689,7 @@ finikin
 flare
 flyleaves
 fagaceous
-faced
+faced 1
 flippancy
 fanlights
 furil
