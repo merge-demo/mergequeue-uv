@@ -1432,7 +1432,7 @@ diapering
 dioptrate
 dogly
 dehydrogenates
-disassimilated
+disassimilated 1
 dicarbonic
 deflationist
 dawkin
@@ -2547,7 +2547,7 @@ declares
 dimaris
 daneworts
 diplococcus
-declaring
+declaring 1
 dwined
 declasses
 dorn
@@ -5439,7 +5439,7 @@ drumbledore
 disinure
 denunciator
 discrownment
-disciplinableness
+disciplinableness 1
 detd
 dauk
 denver
@@ -10200,7 +10200,7 @@ dings
 despises
 dzeron
 depopularize
-dismortgage
+dismortgage 1
 dining
 discoplacental
 dulcely
@@ -10338,7 +10338,7 @@ disnature
 denudation
 deducement
 desilverizer
-downtrends
+downtrends 1
 delightsomeness
 discophore
 dioptra
@@ -11312,7 +11312,7 @@ discases
 discasing
 discatter
 derailments
-dethroned
+dethroned 1
 damolic
 disced
 devaraja
@@ -12176,7 +12176,7 @@ depthometer
 diacetine
 dha
 deadlily
-disfavoured
+disfavoured 1
 discursion
 disfeaturement
 dialogised
@@ -12606,7 +12606,7 @@ diapiric
 downmost
 dragoness
 dechenite
-disintoxication
+disintoxication 1
 dankness
 daud
 dysyntribite
@@ -14992,7 +14992,7 @@ dogdoms
 deprogram
 dissolving
 dogear
-dogears
+dogears 1
 drumly
 dogedom
 diptote
@@ -17034,7 +17034,7 @@ dextrine
 dekagram
 dearer
 diabolicalness
-doberman
+doberman 1
 dressline
 dumas
 divinityship
