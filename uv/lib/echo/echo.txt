@@ -4717,7 +4717,7 @@ efficience
 everybody
 epilog
 ecstrophy
-esthematology
+esthematology 1
 epanaphora
 electroencephalographs
 enmuffle
@@ -10473,7 +10473,7 @@ etherin
 epochist
 exalate
 encroachingly
-elance
+elance 1
 etiquette
 entocranial
 erectilities
@@ -13090,7 +13090,7 @@ equanimousness
 embellishment
 epidermose
 elijah
-endromididae
+endromididae 1
 epidermomycosis
 erasement
 expensiveness
