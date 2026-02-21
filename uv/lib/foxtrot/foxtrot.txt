@@ -10979,7 +10979,7 @@ firebolt
 fleshlier
 furmities
 fumatory
-flatuous
+flatuous 1
 floricin
 featherpated 1
 fumatoria
