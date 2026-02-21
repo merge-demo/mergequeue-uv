@@ -4431,7 +4431,7 @@ farand
 forfeit
 footpick
 fishily
-fatigues
+fatigues 1
 farinaceously
 fishiness
 fenbank
