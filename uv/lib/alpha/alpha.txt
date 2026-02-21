@@ -2475,7 +2475,7 @@ aforethought
 avile
 acocantherin
 and
-awaredom
+awaredom 1
 acockbill
 alcoholizable
 antireduction
