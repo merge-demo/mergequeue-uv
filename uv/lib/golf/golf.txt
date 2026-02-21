@@ -1779,7 +1779,7 @@ gomerils
 germinance
 goodless
 golliwogs
-gallic
+gallic 1
 gonion
 grx
 guanine
@@ -4124,7 +4124,7 @@ gesnerad
 geotaxes
 gettysburg
 gargoyle
-glosts
+glosts 1
 genetor
 grimoire
 geoglossum
@@ -6106,7 +6106,7 @@ golcondas
 grogging
 gnetales
 gude
-gastrogenous
+gastrogenous 1
 guffy
 geogen
 guessworker
@@ -6428,7 +6428,7 @@ goitrogenic
 galibi
 garbing
 glossopteris
-golaseccan
+golaseccan 1
 glassman
 gobiesocid
 geostrophic
@@ -6718,7 +6718,7 @@ guid
 ginglyni
 grudgeless
 gonid
-gabeler
+gabeler 1
 gluttonies
 gynaecologic
 glycolyl
@@ -10207,7 +10207,7 @@ ganzie
 getspa
 guyers
 gobet
-grindstone
+grindstone 1
 gluttei
 gitanemuk
 globalism
@@ -10688,7 +10688,7 @@ gurney
 groundbird
 gurnet
 goodmanship
-gildings
+gildings 1
 girdlers
 goldbrickers
 grabs
