@@ -1263,7 +1263,7 @@ devitalizing
 diarrheal
 discovert
 datiscosid
-delacerate
+delacerate 1
 drosograph
 datisi 1
 dative
@@ -11727,7 +11727,7 @@ deplume
 discradle
 delfts
 deprivation
-dockhands
+dockhands 1
 detectable
 dyscrasic
 demissness
@@ -15301,7 +15301,7 @@ delusory
 dwamish
 dolores
 dispenditure
-dermatophytic
+dermatophytic 1
 dolorimetrically
 dochter
 delusional
@@ -17825,7 +17825,7 @@ drinkable
 darktown
 darrell
 ductor
-dowdies
+dowdies 1
 ductules
 drawlatch
 ductwork
@@ -18160,7 +18160,7 @@ disreputably
 dyaster
 duplexing
 dineuric
-dotriacontane
+dotriacontane 1
 dorsolateral
 dandyize
 dumpled
