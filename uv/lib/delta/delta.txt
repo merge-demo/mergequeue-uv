@@ -1012,7 +1012,7 @@ disruptions
 deformeter
 digest
 daffling
-dypnone
+dypnone 1
 dolorimetric
 distichously
 darkie
