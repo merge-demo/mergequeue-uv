@@ -12807,7 +12807,7 @@ engraves
 elementary
 exostrae
 exoteric
-exoterica
+exoterica 1
 elementalistically
 excitomotor
 embryology
