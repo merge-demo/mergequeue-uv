@@ -1849,7 +1849,7 @@ drugmaker
 decriminalize
 degeneratively
 defeudalize
-debilitates
+debilitates 1
 debilitative
 dermatoglyphics
 devirginator
