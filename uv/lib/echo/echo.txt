@@ -5644,7 +5644,7 @@ encitadel
 enlisters
 egalitarianism
 ensconcing
-extispicy
+extispicy 1
 elevational
 excesses
 egling
