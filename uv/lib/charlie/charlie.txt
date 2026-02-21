@@ -12016,7 +12016,7 @@ chorographical
 criticizable
 cyanacetic
 chinless
-chorographically
+chorographically 1
 commissural
 coronene
 choroidoretinitis
