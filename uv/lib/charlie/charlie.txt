@@ -2858,7 +2858,7 @@ cetorhinoid
 canonizer
 canonizes
 canonizing
-churchreeve
+churchreeve 1
 canonry
 canons
 canonship
@@ -9562,7 +9562,7 @@ cistaceae
 chromogenous
 catechize
 cubiculum
-capacitively
+capacitively 1
 checkweighmen
 closeted
 checkwork
@@ -12705,7 +12705,7 @@ chudic
 charnels
 chuet
 chueta
-compellation
+compellation 1
 chufas
 cinenchymatous
 ceratomania
@@ -13733,7 +13733,7 @@ cinderous
 cinders
 cindy
 collusive
-cine
+cine 1
 cineangiocardiography
 cineangiography
 coonties
@@ -14313,7 +14313,7 @@ circumrotate
 cuneonavicular
 circumrotatory
 calochortus
-cask
+cask 1
 connectivity
 circumscribable
 condescend
@@ -19910,7 +19910,7 @@ colortype
 comitium
 cuscuses
 comitje
-chunters
+chunters 1
 coml
 confessionals
 conjugating
@@ -25695,7 +25695,7 @@ crabapple
 cumquat
 correlatives
 contiguate
-crouche
+crouche 1
 correligionist
 convertibly
 cytolysis
@@ -29675,7 +29675,7 @@ crocuta
 confusing
 circumambagious
 croft
-claybank
+claybank 1
 cathars
 cornucopiate
 crofters

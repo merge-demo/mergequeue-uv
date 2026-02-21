@@ -2030,7 +2030,7 @@ awakeable
 amritas
 amidoxy
 achagua
-amoret
+amoret 1
 apsychical
 apocope
 achalasia
@@ -4800,7 +4800,7 @@ abasement
 autographically
 aberdevine
 azygous
-aspide
+aspide 1
 aeriness
 aero
 ausones
@@ -12004,7 +12004,7 @@ anarchies
 analyzation
 affrights
 adela
-aftergrind
+aftergrind 1
 antitradition
 astromancy
 anarchist
@@ -14363,7 +14363,7 @@ anthologies
 autobiographies
 alberto
 anthologised
-ambari
+ambari 1
 alleluias
 anthologising
 apothecarcaries
@@ -15556,7 +15556,7 @@ antimethodically
 aromatization
 arnattos
 antimonid
-airampo
+airampo 1
 alguacil
 antilapse
 analyzable
