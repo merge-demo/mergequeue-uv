@@ -5040,7 +5040,7 @@ disgusting
 dictamen
 denasalized
 dequeued
-devotes
+devotes 1
 doand
 dextrocardia
 darci
