@@ -1577,7 +1577,7 @@ cartographer
 callo
 crawlway
 cyders
-commonwealthism
+commonwealthism 1
 cuddle
 circumundulate
 callop
@@ -5105,7 +5105,7 @@ coagulant
 compsognathus
 cascaras
 crosslighted
-coolly
+coolly 1
 cascrom
 colonoscope
 caesarship
@@ -13130,7 +13130,7 @@ cytogenies
 coverless
 cudgelled
 cicatrice
-colocolo
+colocolo 1
 cicatrices
 cicatricle
 chamberdeacon
@@ -13820,7 +13820,7 @@ chelingo
 credence
 clons
 carmele
-caeca
+caeca 1
 cineration
 creosoting
 clatchy
@@ -14572,7 +14572,7 @@ cystidium
 candescent
 cenobite
 cyath
-cystiform
+cystiform 1
 clockmutch
 cystigerous
 cystignathidae
@@ -16307,7 +16307,7 @@ clypeus
 cyanomethaemoglobin
 clipped
 clippers
-clippie
+clippie 1
 convenienced
 clippingly
 clips
@@ -21601,7 +21601,7 @@ condensation
 condensator
 corbeled
 crateris
-condense
+condense 1
 condensed
 condensedness
 condensers
@@ -27927,7 +27927,7 @@ cambiums
 cracking
 crackings
 crackled
-crackles
+crackles 1
 crackless
 crackly
 cracklier
@@ -31416,7 +31416,7 @@ curledly
 centranthus
 curledness
 chondrules
-curler
+curler 1
 canoed
 curlews
 curlicue
