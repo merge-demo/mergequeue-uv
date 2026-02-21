@@ -6700,7 +6700,7 @@ furrier
 freshwater
 flaughtbred
 frequent
-finableness
+finableness 1
 forecontrive
 fenner
 flingers
