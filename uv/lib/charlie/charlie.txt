@@ -25695,7 +25695,7 @@ crabapple
 cumquat
 correlatives
 contiguate
-crouche
+crouche 1
 correligionist
 convertibly
 cytolysis
