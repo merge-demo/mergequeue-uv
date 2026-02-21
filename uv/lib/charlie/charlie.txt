@@ -28766,7 +28766,7 @@ comparativeness
 cordelier
 crescendo
 crescendoing
-crescendos
+crescendos 1
 crescentade
 cussing
 circulator
