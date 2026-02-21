@@ -2733,7 +2733,7 @@ decorate
 decorating
 daukin
 dont
-discounsel
+discounsel 1
 diplopterous
 deedful
 darker
@@ -3625,7 +3625,7 @@ donnish
 degerminate
 doated
 degerminator
-distentions
+distentions 1
 degerming
 degerms
 discerptive
@@ -9486,7 +9486,7 @@ decline
 dinornithidae
 digesting
 dodecadrachm
-digestively
+digestively 1
 dural
 digestiveness
 dipteroi
@@ -11727,7 +11727,7 @@ deplume
 discradle
 delfts
 deprivation
-dockhands
+dockhands 1
 detectable
 dyscrasic
 demissness
@@ -15301,7 +15301,7 @@ delusory
 dwamish
 dolores
 dispenditure
-dermatophytic
+dermatophytic 1
 dolorimetrically
 dochter
 delusional
@@ -15486,7 +15486,7 @@ durra
 donation
 donatist
 dentiloguy
-drag
+drag 1
 daymen
 diapery
 disbands
@@ -17825,7 +17825,7 @@ drinkable
 darktown
 darrell
 ductor
-dowdies
+dowdies 1
 ductules
 drawlatch
 ductwork
