@@ -4769,7 +4769,7 @@ demodectic
 disarticulate
 detachably
 deaved
-diadochokinetic
+diadochokinetic 1
 dromophobia
 dejected
 diabolatry
