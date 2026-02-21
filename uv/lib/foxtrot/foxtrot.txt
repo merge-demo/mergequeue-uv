@@ -841,7 +841,7 @@ freckened
 freedoot 1
 fervorous
 forebows
-free
+free 1
 floutingly
 fragilities
 fantasying
