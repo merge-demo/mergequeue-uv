@@ -6120,7 +6120,7 @@ felsobanyite
 floccilation
 flounced
 flounder
-frowardness
+frowardness 1
 faraway
 faciata
 flourish 1
