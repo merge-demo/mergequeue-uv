@@ -4448,7 +4448,7 @@ antipuritan
 adust
 adustion
 apsides
-amang
+amang 1
 aldoxime
 aftmost
 adv
@@ -15802,7 +15802,7 @@ antiphysicalness
 appropriament
 alkane
 acenesthesia
-agujon
+agujon 1
 asport
 antiphona
 aminobarbituric
@@ -16138,7 +16138,7 @@ autolyzing
 acrididae
 argumentatious
 annealing
-acidulous
+acidulous 1
 antisexist
 antiship
 antishipping
@@ -22885,7 +22885,7 @@ alligatored
 analgesic
 abricock
 applicabilities
-atomology
+atomology 1
 auras
 afb
 atonable
