@@ -4855,7 +4855,7 @@ flagstick
 flagworm
 fandangle
 feramorz
-fittedness
+fittedness 1
 florida
 flivvers
 fairwater

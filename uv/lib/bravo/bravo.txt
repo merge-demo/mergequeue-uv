@@ -2030,7 +2030,7 @@ bicollaterality
 bankrolled
 bankrolling
 bankrupt
-bosporan
+bosporan 1
 burl
 bankruptism
 bessy
