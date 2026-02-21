@@ -717,7 +717,7 @@ badger
 breeches
 backyard
 bogwort
-badgerer
+badgerer 1
 blundersome
 booking
 banana
@@ -2224,7 +2224,7 @@ barbarianizing
 bandog
 bevesselled
 barbarically
-blandiloquous
+blandiloquous 1
 barbequing
 bourage
 barricos
@@ -3317,7 +3317,7 @@ barbut
 basitemporal
 beguilers
 balao
-besotment
+besotment 1
 basitting
 basiventral
 beudantite 1
@@ -5128,7 +5128,7 @@ bombshells
 beflour
 beflowered
 biotas
-batta
+batta 1
 bogbean
 beguile
 bankers
@@ -7344,7 +7344,7 @@ bunker
 bibliolatrist
 becumber
 brasilia
-bailiery
+bailiery 1
 balusters
 bassness
 bookmaker
@@ -10661,7 +10661,7 @@ blearing
 blearness
 balarao
 bleated
-butcherdom
+butcherdom 1
 bleaty
 bleating
 bibliognostic
@@ -11260,7 +11260,7 @@ blower
 boomiest
 boaters
 braver
-bullshits
+bullshits 1
 basketries
 blowguns
 butling
@@ -11375,7 +11375,7 @@ bayness
 bibliographies
 blousy
 bitingness
-beteela
+beteela 1
 blueblood
 boro
 baronetical
@@ -12166,7 +12166,7 @@ blarneyed
 boletaceae
 byrled
 brabbler
-boleweed
+boleweed 1
 biometeorology
 blandiloquence
 baklawas
@@ -14844,7 +14844,7 @@ bronchopulmonary
 besliming
 bedewer
 bihourly
-bestializes
+bestializes 1
 bonetta
 breadmaker
 breadman
