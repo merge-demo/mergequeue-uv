@@ -2271,7 +2271,7 @@ exploitive
 electrically
 extensometer
 enciente
-embryony
+embryony 1
 embraceable
 encoach
 ethnarchies
@@ -2602,7 +2602,7 @@ exhilarator
 empididae
 erythroblastosis
 eirenicon
-essaying
+essaying 1
 embassies
 elysian
 electropathy 1
@@ -11661,7 +11661,7 @@ enfire
 exactitude
 electrohydraulic
 eleusinian
-endopolyploid
+endopolyploid 1
 exactness
 edeology
 exactors 2
@@ -12131,7 +12131,7 @@ excudate
 entwite
 ennoblment
 erotizing
-excurrent
+excurrent 1
 edility
 eavesdrops
 excrementitiously
