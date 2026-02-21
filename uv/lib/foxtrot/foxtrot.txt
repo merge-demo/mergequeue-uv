@@ -9734,7 +9734,7 @@ forgathered
 frenetically
 forlorner 1
 frenula
-frenular
+frenular 1
 footlicker
 fornicate
 friends
