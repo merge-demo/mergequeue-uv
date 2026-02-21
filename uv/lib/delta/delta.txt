@@ -188,7 +188,7 @@ diel
 diaplasma
 daedalous
 divulgated
-defilable
+defilable 1
 decontamination
 daemony
 deforesting
@@ -1149,7 +1149,7 @@ dropflower
 depaint
 duracine
 dasyatis
-daylit
+daylit 1
 dire
 distractingly
 dasiphora
@@ -5149,7 +5149,7 @@ dasyurid
 dendrophilous
 densation
 dadoed
-doggiest
+doggiest 1
 denebola
 dulbert
 disburdened
@@ -14435,7 +14435,7 @@ dasyphyllous
 disraeli
 defunctionalization
 disdeify
-depicturing
+depicturing 1
 daltonian
 diverters
 disillusionized
@@ -15466,7 +15466,7 @@ demonstratory
 dope
 divinities
 dompteuse
-doms
+doms 1
 derve
 don
 dona
@@ -16703,7 +16703,7 @@ divellicate
 dramatization
 downshare
 dramatized
-degasses
+degasses 1
 dramaturgically
 devisceration
 drammage
@@ -17152,7 +17152,7 @@ disomaty
 decade
 decius
 dimwittedness
-disgaveled
+disgaveled 1
 damselfly
 diaphaneity
 diswont
