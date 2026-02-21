@@ -5293,7 +5293,7 @@ backstab
 beneficiaire
 buddy
 brachytic
-barretries
+barretries 1
 boltonia
 beforested
 breathlessness
