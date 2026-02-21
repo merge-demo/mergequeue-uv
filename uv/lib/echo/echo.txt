@@ -1553,7 +1553,7 @@ euthanasy
 enmeshments
 erotopathy
 explication
-epiphysitis
+epiphysitis 1
 empaling
 effigiation
 eggnog
@@ -1684,7 +1684,7 @@ eyeberry
 envassal
 essentialist
 electrothermancy
-ellan
+ellan 1
 esophagi
 eddoes
 elaioleucite
@@ -2729,7 +2729,7 @@ evaporated
 electrovalent
 electrowinning
 exaggerators
-ediya
+ediya 1
 essenianism
 employment
 endways
@@ -4717,7 +4717,7 @@ efficience
 everybody
 epilog
 ecstrophy
-esthematology
+esthematology 1
 epanaphora
 electroencephalographs
 enmuffle
@@ -7750,7 +7750,7 @@ endrins
 exterritorially
 emergents
 englify
-ensure
+ensure 1
 emendable
 estopping
 equips
@@ -8309,7 +8309,7 @@ electropuncturation
 ecumenicality
 embryonated
 eluxate
-ependytes
+ependytes 1
 embrown
 epigyny
 epistemic
@@ -9662,7 +9662,7 @@ excitable
 ensearcher
 espingole
 execrative
-equaling
+equaling 1
 editchar
 espino
 erythroplastid
