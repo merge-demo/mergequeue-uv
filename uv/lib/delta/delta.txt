@@ -1012,7 +1012,7 @@ disruptions
 deformeter
 digest
 daffling
-dypnone
+dypnone 1
 dolorimetric
 distichously
 darkie
@@ -5519,7 +5519,7 @@ drummy
 downheaded
 depardieu
 dinger
-dewdrops
+dewdrops 1
 diaxon
 denials 1
 departer
@@ -9987,7 +9987,7 @@ divinable
 dinothere
 dimly
 dimmer
-defensor
+defensor 1
 dasyatidae
 dimness
 decisiveness
@@ -10644,7 +10644,7 @@ drey
 duncery
 demurrals
 diploplacular
-decarbonize
+decarbonize 1
 dotingly
 dustcoat
 degeneration

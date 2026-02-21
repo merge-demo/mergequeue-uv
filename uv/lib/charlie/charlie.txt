@@ -1680,7 +1680,7 @@ carboxylating
 caloric
 caloriduct
 calorie
-claytonia
+claytonia 1
 cele
 curlicuing
 circ
@@ -2600,7 +2600,7 @@ cephalodynia
 cowskins
 counterdisengage
 cryptocrystallization
-columnar
+columnar 1
 cyamelide
 castile
 caned
@@ -6575,7 +6575,7 @@ cazique
 cyanhidrosis
 cb
 calamanco
-coeditorship
+coeditorship 1
 cachemia
 coryphaeus
 cchaddoorck
@@ -12930,7 +12930,7 @@ cocurrent
 chutnees
 chuttie
 chutzpa
-carbanion
+carbanion 1
 chutzpanik
 concentre
 cuesta
@@ -15774,7 +15774,7 @@ cellists
 cleanse
 centrarchidae
 crestfallenly
-crocoite
+crocoite 1
 cleansers
 codescendant
 cleanses
@@ -24006,7 +24006,7 @@ conventicle
 conventicular
 craniotome
 convention
-conventional
+conventional 1
 cutlassfish
 conventionalised
 conoscope
@@ -27206,7 +27206,7 @@ consolatoriness
 countertruth
 chelas
 corses
-counterturned
+counterturned 1
 cicatrised
 curnock
 colutea
