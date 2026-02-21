@@ -4302,7 +4302,7 @@ disannexation
 demasculinise
 divisors
 deadening
-dermophytic
+dermophytic 1
 dem
 demagnetisation
 dovelet
