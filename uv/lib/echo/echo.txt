@@ -12447,7 +12447,7 @@ exhorts
 exaltations
 exhumate
 egoisms
-elusoriness
+elusoriness 1
 esquire
 evacuative
 eighteen
