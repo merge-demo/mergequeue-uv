@@ -4554,7 +4554,7 @@ chartula
 coacervating
 citoler
 carnets
-carny
+carny 1
 coccostean
 capsule
 cotoxo
@@ -5916,7 +5916,7 @@ chancellorism
 cath
 cannibalic
 catha
-capillatus
+capillatus 1
 convolutionary
 cathay
 cathayan
@@ -22604,7 +22604,7 @@ cringer
 connexure
 crumbier
 connexus
-comperes
+comperes 1
 chinles
 connies
 conning
@@ -27794,7 +27794,7 @@ coxed
 cissing
 commie
 collinear
-coxendix
+coxendix 1
 cowishness
 coxes
 creeper
