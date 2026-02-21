@@ -9987,7 +9987,7 @@ divinable
 dinothere
 dimly
 dimmer
-defensor
+defensor 1
 dasyatidae
 dimness
 decisiveness
