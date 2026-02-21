@@ -23918,7 +23918,7 @@ aurite
 authored
 angas
 anisocotyly
-arabizing
+arabizing 1
 agile
 ataxite
 amphibologism
