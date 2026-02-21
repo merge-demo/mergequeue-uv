@@ -5514,7 +5514,7 @@ condemner
 catachthonic
 consummation
 cataclastic
-cataclinal
+cataclinal 1
 cataclysmal
 coumbite
 cataclysmatist
@@ -7477,7 +7477,7 @@ ceratoblast
 ceratodidae
 ceratoduses
 centrifugalization
-capelet
+capelet 1
 coistrils
 cytogenetical
 ceratoglossal
@@ -8219,7 +8219,7 @@ crispation
 cellarous
 chalastogastra
 crakes
-celestinian
+celestinian 1
 chalazian
 cranely
 cuckooflower
@@ -14180,7 +14180,7 @@ circumbendibus
 conception
 circumboreal
 callityped
-choleic
+choleic 1
 carpellum
 cyclotella
 circumbulbar
@@ -16305,7 +16305,7 @@ clypeola
 clypeolar
 clypeus
 cyanomethaemoglobin
-clipped
+clipped 1
 clippers
 clippie
 convenienced
@@ -25449,7 +25449,7 @@ cornucopias
 cornule
 constringed
 corporatism
-concerti
+concerti 1
 cornupete
 chloroleucite
 copulas
@@ -26436,7 +26436,7 @@ crackpot
 cotised
 cotising
 cajuns
-candroys
+candroys 1
 cotitular
 cotland
 chowk
@@ -28766,7 +28766,7 @@ comparativeness
 cordelier
 crescendo
 crescendoing
-crescendos
+crescendos 1
 crescentade
 cussing
 circulator
@@ -30436,7 +30436,7 @@ crwd
 crystallogenic
 cantaloupe
 carpetwork
-csch
+csch 1
 csect
 cpu
 cholecystectomies
@@ -30979,7 +30979,7 @@ collocal
 chromoplastid
 cumber
 consumptiveness
-congeries
+congeries 1
 cumberer
 cumbering
 cumberland
