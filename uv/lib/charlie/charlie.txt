@@ -9562,7 +9562,7 @@ cistaceae
 chromogenous
 catechize
 cubiculum
-capacitively
+capacitively 1
 checkweighmen
 closeted
 checkwork
@@ -29675,7 +29675,7 @@ crocuta
 confusing
 circumambagious
 croft
-claybank
+claybank 1
 cathars
 cornucopiate
 crofters

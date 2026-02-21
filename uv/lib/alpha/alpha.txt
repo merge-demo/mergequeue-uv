@@ -2030,7 +2030,7 @@ awakeable
 amritas
 amidoxy
 achagua
-amoret
+amoret 1
 apsychical
 apocope
 achalasia
@@ -4800,7 +4800,7 @@ abasement
 autographically
 aberdevine
 azygous
-aspide
+aspide 1
 aeriness
 aero
 ausones
@@ -14363,7 +14363,7 @@ anthologies
 autobiographies
 alberto
 anthologised
-ambari
+ambari 1
 alleluias
 anthologising
 apothecarcaries
