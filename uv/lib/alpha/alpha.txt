@@ -8833,7 +8833,7 @@ anglophobes
 autoimmunization
 asthmatics
 accentors
-allocations
+allocations 1
 amyosthenia
 amender
 adeptly
