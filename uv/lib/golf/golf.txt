@@ -2866,7 +2866,7 @@ gratifier
 guser
 gullish
 genuflects
-glanduliform
+glanduliform 1
 glossiphonidae
 geol
 guilefulness
