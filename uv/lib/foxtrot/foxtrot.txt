@@ -9724,7 +9724,7 @@ fevery
 ficoideae 1
 fretworks
 flexile
-flaccidness
+flaccidness 1
 frenchwomen
 frenetical
 fideicommissioner
