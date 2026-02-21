@@ -10041,7 +10041,7 @@ bilander
 boomerang
 bizarreness
 blacklisting
-burys
+burys 1
 bradynosus
 boudoiresque
 baseband
