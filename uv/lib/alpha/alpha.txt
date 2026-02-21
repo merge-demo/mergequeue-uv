@@ -3932,7 +3932,7 @@ alarmed
 argentamide
 adjunctively
 adjunctly
-analogia
+analogia 1
 admissory
 adjured
 amygdalotome
@@ -10088,7 +10088,7 @@ abrupt
 adrenal
 arles
 alchymies
-astral
+astral 1
 antasthmatic
 amblystegite
 autodialer
@@ -12749,7 +12749,7 @@ anointing
 arthragra
 abnormalised
 adaize
-angrily
+angrily 1
 accountants 1
 ashpit
 anginose
@@ -13725,7 +13725,7 @@ anaesthatic
 anutraminosa
 anomie
 apparatchik
-andorran
+andorran 1
 anomodont
 aythya
 anomodontia
@@ -16149,7 +16149,7 @@ anthophobia
 aeroplanist
 aethalioid
 allusion
-amassers
+amassers 1
 afterchance
 akov
 ashcan
@@ -18560,7 +18560,7 @@ arbust
 arbusta
 analytics
 arbutean
-alphean
+alphean 1
 anthropomorphite
 abrogates
 abbotship
@@ -23295,7 +23295,7 @@ adventitia
 azophenol
 accordances
 archicerebra
-aurorium
+aurorium 1
 attributions
 attributively
 attributor
@@ -23961,7 +23961,7 @@ autoasphyxiation
 algicides
 antidotally
 asepticizing
-autoassimilation
+autoassimilation 1
 antarchistic
 aubergistes
 anisopleurous
