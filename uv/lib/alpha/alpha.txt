@@ -9308,7 +9308,7 @@ adjustive
 alouette
 androsphinxes
 alout
-acierate
+acierate 1
 alliterations
 aloxite
 alpacas
@@ -18819,7 +18819,7 @@ arabian
 archetypes
 attributive
 asymmetrically
-archettos
+archettos 1
 auroauric
 assever
 assumptiveness
