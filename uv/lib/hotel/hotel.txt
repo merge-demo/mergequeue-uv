@@ -577,7 +577,7 @@ halt
 haltfhj
 haltnmgho
 haltydqovz
-halv
+halv 1
 halvigcwc
 halxhon
 halxs
@@ -2818,7 +2818,7 @@ hefshozirpcp
 hefshu
 heftdakz
 hefti
-heftsxooyr
+heftsxooyr 1
 hefujcoya
 hefuxutxpbak
 hefvaf
@@ -14646,7 +14646,7 @@ hzhammkquxskgeug 1
 hzhh
 hzhujfs
 hzhwtxrakcvby
-hzhynb
+hzhynb 1
 hzhzuhnjrznfu
 hzia
 hzidj
