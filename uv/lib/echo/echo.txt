@@ -12055,7 +12055,7 @@ enlivenment 1
 excoriation
 enwwove
 excoriations
-epiclike
+epiclike 1
 electrostenolytic
 enforcible
 elflike
