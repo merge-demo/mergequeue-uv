@@ -1250,7 +1250,7 @@ datemark
 disenter
 dentalise
 drink
-durational
+durational 1
 daterman
 diabolification
 dates
@@ -3243,7 +3243,7 @@ defenestrating
 danae
 dayside
 derricking
-defenseless
+defenseless 1
 defenselessness
 devitalising
 dolichostylous
@@ -4304,7 +4304,7 @@ divisors
 deadening
 dermophytic
 dem
-demagnetisation
+demagnetisation 1
 dovelet
 detraining
 divisiveness
@@ -5223,7 +5223,7 @@ decadent
 deek
 desmosis
 declination
-declaimers
+declaimers 1
 denunciations
 deputy
 denominations
@@ -8202,7 +8202,7 @@ drabbets
 diacranterian
 diffractions
 dicyema
-diacromyodi
+diacromyodi 1
 defrosted
 diactinic
 dacryocystotomy
@@ -9237,7 +9237,7 @@ discontinuor
 drosophilidae
 debarkation
 disilluded
-discolour
+discolour 1
 decorament
 dollface
 divined
@@ -10158,7 +10158,7 @@ deadly
 dingdonged
 deltidia
 dues
-diverticulate
+diverticulate 1
 diploblastic
 defogging
 distraint
@@ -11920,7 +11920,7 @@ disease
 dentalisation
 defectively
 deductile
-diseased
+diseased 1
 deifying
 dissyllabify
 dianoetic
@@ -12092,7 +12092,7 @@ dudishly
 drepanaspis
 disentombment
 disclaimers
-deplaceable
+deplaceable 1
 disentrail
 disentrainment
 disentrance
