@@ -5016,7 +5016,7 @@ faith 1
 fissive
 filmcard
 flaneur
-frescoes
+frescoes 1
 functioned
 foremartyr
 fiddlewood
