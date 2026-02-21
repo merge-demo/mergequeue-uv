@@ -1583,7 +1583,7 @@ globicephala
 gymnura
 gauntlet
 gutteral
-gulanganes
+gulanganes 1
 galleria
 gunlock 1
 gasterotheca
@@ -2823,7 +2823,7 @@ goosehouse
 gnathoplasty
 genuflection
 gallates
-galactophlysis
+galactophlysis 1
 grayhair
 graminous
 graininess
@@ -7944,7 +7944,7 @@ greenhorn
 granddaughter
 giglets
 got
-galleons
+galleons 1
 glycerol
 glaziery
 goodyish
@@ -10244,7 +10244,7 @@ glycogenase
 guiltsick
 genesee
 generating
-guimbard
+guimbard 1
 gorsehatch
 geographics
 gershom
