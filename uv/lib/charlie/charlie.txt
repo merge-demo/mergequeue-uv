@@ -2600,7 +2600,7 @@ cephalodynia
 cowskins
 counterdisengage
 cryptocrystallization
-columnar
+columnar 1
 cyamelide
 castile
 caned
