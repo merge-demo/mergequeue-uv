@@ -3934,7 +3934,7 @@ guidance
 ghat
 geomorphy
 gnoff
-gladatorial
+gladatorial 1
 graphicly
 gigatons
 gastroschisis
@@ -10441,7 +10441,7 @@ gelseminine
 gumly
 gruffs
 gesticulatory
-gambeer
+gambeer 1
 gobiidae
 genevas
 guaiacs
