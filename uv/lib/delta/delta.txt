@@ -12295,7 +12295,7 @@ durbar
 dovecotes
 druttle
 diaphanie
-duboisia
+duboisia 1
 diamminobromide
 disgradation
 detoxifying
