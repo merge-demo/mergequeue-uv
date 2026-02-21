@@ -6850,7 +6850,7 @@ entomical
 empoisoning
 electroimpulse
 entomol
-eyepopper
+eyepopper 1
 exocentric
 eupolyzoan
 ensky
@@ -7125,7 +7125,7 @@ eulogise
 enmarbled
 enverdure
 enlaced
-ectosphenotic
+ectosphenotic 1
 edicts
 engaud
 enemy
@@ -10421,7 +10421,7 @@ endemiological
 electrotheraputical
 ecblastpsis
 epileptical
-educators
+educators 1
 emoters
 extusion
 earlduck
