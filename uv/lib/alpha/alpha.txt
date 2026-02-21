@@ -2212,7 +2212,7 @@ acetophenine
 acrestaff
 archangel
 achromatization
-achromatize
+achromatize 1
 achromatocyte
 agarum
 arctalian
@@ -7191,7 +7191,7 @@ adnouns
 abettals
 alacrious
 alacrity
-alactaga
+alactaga 1
 alada
 abridgements
 antica
@@ -12590,7 +12590,7 @@ antitrust
 alants
 anergies
 agley
-anglicization
+anglicization 1
 antidorcas
 anes
 anesone
@@ -14962,7 +14962,7 @@ anticonfederative
 anticonformity
 antiaristocracy
 annulled
-amidohexose
+amidohexose 1
 antilogy
 avyayibhava
 avicular
@@ -16541,7 +16541,7 @@ apabhramsa
 axletree
 appress
 acutorsion
-apache
+apache 1
 attained
 apadana
 astronautic
