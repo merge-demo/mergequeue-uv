@@ -639,7 +639,7 @@ faltere
 flavored
 frequenter 1
 frithsoken
-falx
+falx 1
 further
 fallbacks
 fluocarbonate
