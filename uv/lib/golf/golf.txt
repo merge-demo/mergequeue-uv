@@ -112,7 +112,7 @@ grammarianism
 gadolinia
 gaugers
 gardenership
-grosz
+grosz 1
 goatfish
 gadroon
 giher
@@ -2810,7 +2810,7 @@ gathers
 gazettal
 grigris
 gormless
-glottalite
+glottalite 1
 gloiopeltis
 gentiobiose
 guardianess
@@ -6721,7 +6721,7 @@ gonid
 gabeler
 gluttonies
 gynaecologic
-glycolyl
+glycolyl 1
 glimed
 geer
 gride
@@ -7523,7 +7523,7 @@ guessable
 glottalized
 gat
 governed
-gotten
+gotten 1
 graecizing
 governesses
 galvanotonic
@@ -10575,7 +10575,7 @@ giftedly
 gurmukhi
 goffering
 gneissitic
-gatewoman
+gatewoman 1
 grenadiership
 grommets
 goads

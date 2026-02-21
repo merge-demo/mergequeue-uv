@@ -2271,7 +2271,7 @@ exploitive
 electrically
 extensometer
 enciente
-embryony
+embryony 1
 embraceable
 encoach
 ethnarchies
@@ -2602,7 +2602,7 @@ exhilarator
 empididae
 erythroblastosis
 eirenicon
-essaying
+essaying 1
 embassies
 elysian
 electropathy 1
@@ -3859,7 +3859,7 @@ entreasured
 emerizing
 engrieve
 emerods
-epitomator
+epitomator 1
 emersed
 estivator
 eggcupful
@@ -6943,7 +6943,7 @@ esau
 entoprocta
 entoptic
 entoptical
-entoptics
+entoptics 1
 evections
 expense
 embargoed
@@ -7500,7 +7500,7 @@ eugenia
 epidiascopic
 effluency
 ephor
-encounterer
+encounterer 1
 ekphory
 euda
 ephraimite
@@ -11661,7 +11661,7 @@ enfire
 exactitude
 electrohydraulic
 eleusinian
-endopolyploid
+endopolyploid 1
 exactness
 edeology
 exactors 2
@@ -12131,7 +12131,7 @@ excudate
 entwite
 ennoblment
 erotizing
-excurrent
+excurrent 1
 edility
 eavesdrops
 excrementitiously
@@ -13605,7 +13605,7 @@ extemporized
 escallonia
 emendation
 epencephal
-experientially
+experientially 1
 esopgi
 englishwomen
 expurgates
@@ -14056,7 +14056,7 @@ euemerism
 emulsibility
 extravaganza
 eutectoid
-extravaginal
+extravaginal 1
 electrify
 exteroceptist
 exorcists
