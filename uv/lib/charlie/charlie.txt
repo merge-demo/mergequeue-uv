@@ -9015,7 +9015,7 @@ criterions
 celestiality
 countergauge
 cookings
-charlatanic
+charlatanic 1
 charlatanistic
 cgs
 charlatans
