@@ -10490,7 +10490,7 @@ becharming
 blatjang
 bakestone
 biologistic
-bepastured
+bepastured 1
 blastogenic
 bandfiled
 bop
@@ -15811,7 +15811,7 @@ brainlessness
 brokenheartedly
 binder
 buddha
-beggarwise
+beggarwise 1
 bibacious
 bullied
 balas

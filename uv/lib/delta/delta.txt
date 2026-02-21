@@ -788,7 +788,7 @@ devolatilize
 dandles
 discute
 delirament
-dissections 1
+dissections 2
 diapsidan
 dandruffs
 dialytic
@@ -3795,7 +3795,7 @@ disseizoress
 defibrillation
 deicers
 defacingly
-deicides
+deicides 1
 dismutation
 deictical
 devilkin
@@ -4419,7 +4419,7 @@ dementedly
 dementholize
 disseated 1
 demiatheism
-dementia
+dementia 1
 desoxyribonucleoprotein
 dulcetness
 dictionally
@@ -5310,7 +5310,7 @@ droitsman
 dysmorphism
 diancecht
 dentality
-dentaliums
+dentaliums 1
 dakoit
 dentalized
 delphinapterus
@@ -14039,7 +14039,7 @@ denominable
 distressing
 deglamorization
 distressingly
-devast
+devast 1
 dockyardman
 dishorner
 dragging
