@@ -18011,7 +18011,7 @@ diplex
 denitrated
 disgallant 1
 doroscentral
-damping
+damping 1
 dulcitude
 dacryocystalgia
 duteous
