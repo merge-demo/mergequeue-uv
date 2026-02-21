@@ -5592,7 +5592,7 @@ geochemist
 geophysical
 gefilte
 gownlet
-glottogonist
+glottogonist 1
 gervais
 gurges
 garuda
