@@ -9949,7 +9949,7 @@ feelingness
 flairs
 floatingly
 fishworks
-frumentum
+frumentum 1
 flatlanders
 flanche
 frantic
