@@ -10489,7 +10489,7 @@ etrog
 equatoreal
 etruscology
 etta
-endosteally
+endosteally 1
 equation
 embouchure
 ettercap
