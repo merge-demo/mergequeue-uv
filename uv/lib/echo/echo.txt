@@ -4235,7 +4235,7 @@ emprizes
 epicycloid
 erubescite
 ebbs
-enunciative
+enunciative 1
 eduction
 erotically
 emigrations
@@ -5076,7 +5076,7 @@ editorialized
 endoaortitis
 endoappendicitis
 entoolitic
-economization
+economization 1
 emerited
 endoauscultation
 effervescently
@@ -5764,7 +5764,7 @@ eyeglance
 extraverted
 extemporised
 endofaradism
-enolases
+enolases 1
 exition
 ethicize
 enteroanastomosis
@@ -7680,7 +7680,7 @@ epithalamus
 encefalon
 enringed
 engagingly
-ectocrine
+ectocrine 1
 espece
 epicuticle
 extroversion
@@ -9458,7 +9458,7 @@ epicism
 erythron
 egests
 exegetes
-eschrufe
+eschrufe 1
 escopeta
 euphemistical
 evulgate
@@ -10965,7 +10965,7 @@ esparcet
 equivocalness
 echiurid
 erythematous
-embrittlement
+embrittlement 1
 echinus 1
 embosk
 eperva
@@ -12131,7 +12131,7 @@ excudate
 entwite
 ennoblment
 erotizing
-excurrent
+excurrent 1
 edility
 eavesdrops
 excrementitiously
@@ -12529,7 +12529,7 @@ euphemy
 emissaria
 enhalos
 eugeny
-enneacontahedron
+enneacontahedron 1
 exoskeleton
 exist
 existed
