@@ -10158,7 +10158,7 @@ edgier
 emmove
 earlyish
 exhausts
-encroaching
+encroaching 1
 embroideress
 emeraldine
 etherially
@@ -12308,7 +12308,7 @@ equilucent
 exerce
 equimultiple
 exceptious
-extramarginal
+extramarginal 1
 epanisognathous
 endotracheitis
 equimolecular
@@ -13866,7 +13866,7 @@ encyst
 endgame
 extraneity
 ethiop
-executancy
+executancy 1
 euglobulin 1
 expo
 etamine
