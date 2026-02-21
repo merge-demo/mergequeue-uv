@@ -14623,7 +14623,7 @@ divulge
 divulged
 diminuted
 drivelling
-despite
+despite 1
 dyslalia
 divulger
 dianodal
