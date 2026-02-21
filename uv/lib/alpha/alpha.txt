@@ -17150,7 +17150,7 @@ averin 1
 apolysis
 apolista
 alaunt
-aproctia
+aproctia 1
 apollinarian
 apollo
 apollonian
