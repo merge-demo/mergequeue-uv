@@ -16305,7 +16305,7 @@ clypeola
 clypeolar
 clypeus
 cyanomethaemoglobin
-clipped
+clipped 1
 clippers
 clippie
 convenienced
