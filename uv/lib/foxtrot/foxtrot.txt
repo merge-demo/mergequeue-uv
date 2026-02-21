@@ -282,7 +282,7 @@ fotive
 flakily
 fourierite
 foreshortening
-ford
+ford 1
 febrifacient
 footpounds
 firbolg
@@ -2073,7 +2073,7 @@ flocky
 foggara
 filibuster
 feudalisation
-famishes
+famishes 1
 foremasthand
 felicity
 fructidor
@@ -4315,7 +4315,7 @@ fennig
 fanner
 fiddling
 forficulate
-freshest
+freshest 1
 fease
 florescence
 forequarters
@@ -5689,7 +5689,7 @@ fluffer
 ferratin
 footpound
 folioliferous
-fresnels
+fresnels 1
 factional
 facilitator
 flyovers 1
@@ -6600,7 +6600,7 @@ fullness
 fettled
 fidgetation
 fertilized
-freemanship
+freemanship 1
 frothily
 floodway
 fingerstone
@@ -6705,7 +6705,7 @@ forecontrive
 fenner
 flingers
 flaggily
-faubourg
+faubourg 1
 faintheartedly
 fundamentalism
 frontrunner
@@ -6896,7 +6896,7 @@ feasible
 fallace
 folklores
 fp
-floatages
+floatages 1
 fruity
 fifes
 fleme
@@ -8152,7 +8152,7 @@ ferberite
 fructuosity
 fossilology
 foretrace
-forecastleman
+forecastleman 1
 fountful
 foreuse
 foreutter 1
@@ -8367,7 +8367,7 @@ freedoms
 formicative
 forklift
 flebile
-forklike
+forklike 1
 forswornness
 finickily
 foundations
@@ -8903,7 +8903,7 @@ fjeld
 fiques
 flitty
 ferritins
-fowells
+fowells 1
 foumart
 falciparum
 forayer
@@ -9640,7 +9640,7 @@ farthest
 foresign
 fecklessly
 feliform
-fulcrumage
+fulcrumage 1
 flabrum
 freewheelingness
 forfoughen
@@ -9949,7 +9949,7 @@ feelingness
 flairs
 floatingly
 fishworks
-frumentum
+frumentum 1
 flatlanders
 flanche
 frantic
