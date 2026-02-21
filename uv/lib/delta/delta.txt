@@ -12823,7 +12823,7 @@ devolutive
 deliquiesce
 demiparadise
 dismals
-dithalous
+dithalous 1
 disman
 dismantles
 darksome
