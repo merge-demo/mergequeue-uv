@@ -6629,7 +6629,7 @@ diaporthe
 dermatrophy
 dicarboxylate
 demembration
-demerol
+demerol 1
 deperming
 dreamwhile
 desert
