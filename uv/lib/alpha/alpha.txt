@@ -8946,7 +8946,7 @@ alloo
 annelids 1
 allopathetic
 achievers
-allopathic
+allopathic 1
 anticoagulan
 actiniaria
 adlerian
