@@ -12705,7 +12705,7 @@ chudic
 charnels
 chuet
 chueta
-compellation
+compellation 1
 chufas
 cinenchymatous
 ceratomania
