@@ -1263,7 +1263,7 @@ devitalizing
 diarrheal
 discovert
 datiscosid
-delacerate
+delacerate 1
 drosograph
 datisi 1
 dative
@@ -8827,7 +8827,7 @@ dyspraxia
 dibbing
 deliberates
 deterring
-drachmas
+drachmas 1
 dibbled
 degame
 dybbuk
