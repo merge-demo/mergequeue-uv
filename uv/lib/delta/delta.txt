@@ -6720,7 +6720,7 @@ deoxidant
 desiderative
 drunkard
 disorderliness
-darnex
+darnex 1
 diatribes
 desiderta
 diptycas
