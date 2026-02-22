@@ -645,7 +645,7 @@ damnificatus
 disoccupation
 debarration
 depolarizer
-damnifies
+damnifies 1
 damningly
 disposals
 damnonians
