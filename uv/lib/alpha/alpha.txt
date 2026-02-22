@@ -10919,7 +10919,7 @@ amnions
 assurors
 amnios
 anvilling
-amniotes
+amniotes 1
 antipreparedness
 amniotic
 amidases
