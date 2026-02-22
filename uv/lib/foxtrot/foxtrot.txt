@@ -5114,7 +5114,7 @@ forthy
 fireweed
 fishiest
 fainness 1
-flashgun 1
+flashgun 2
 fifteenth
 factitive
 fict
