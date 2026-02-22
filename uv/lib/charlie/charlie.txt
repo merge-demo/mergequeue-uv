@@ -21723,7 +21723,7 @@ condoled
 condolence
 calyptro
 condolent
-cruiserweight
+cruiserweight 1
 cuna
 condoler
 coaxers
