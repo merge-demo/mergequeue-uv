@@ -941,7 +941,7 @@ cal
 calaba
 crawfoot
 calabari
-cornices
+cornices 1
 collared
 colpotomy
 calorically
