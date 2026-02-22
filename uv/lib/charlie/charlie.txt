@@ -7739,7 +7739,7 @@ ceroplastics
 cyanocrystallin
 cerosin
 cerote
-chastises
+chastises 1
 cerotin
 chorogi
 cerotypes
