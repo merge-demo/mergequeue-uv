@@ -12635,7 +12635,7 @@ algosis
 aneurisms
 arithmetician
 anfract
-ameliorating
+ameliorating 1
 anfractuose
 anchusin
 absorbable
