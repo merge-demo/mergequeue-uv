@@ -13342,7 +13342,7 @@ dishorse
 disputator
 disputeful
 dacrydium
-disfeature
+disfeature 1
 deceitful
 disputer
 definitising
