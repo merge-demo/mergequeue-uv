@@ -6224,7 +6224,7 @@ beakful
 benne
 bennes
 beveling
-bungalow
+bungalow 1
 bennets
 bootlace
 bookism 1
