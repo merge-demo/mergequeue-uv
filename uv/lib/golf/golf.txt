@@ -6873,7 +6873,7 @@ gymsia
 gluteoinguinal
 gauntlets
 glucoprotein
-geaster
+geaster 1
 galeas
 genitival
 geed
