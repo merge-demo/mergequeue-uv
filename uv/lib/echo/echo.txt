@@ -10819,7 +10819,7 @@ euodic
 entrepots
 euonymy
 exochorda
-exsibilate
+exsibilate 1
 echinid
 extrusive
 enthralling
