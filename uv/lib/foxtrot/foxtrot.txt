@@ -1546,7 +1546,7 @@ flowcontrol
 fishbowl
 fauvism
 funk
-fause
+fause 1
 fauvisms
 foreprepare
 fodderer
