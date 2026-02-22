@@ -4522,7 +4522,7 @@ escudo
 encephalomeningocele
 evenglome
 endoerythrocytic
-entothorax
+entothorax 1
 embiidae
 encephalomyelitic
 epochally
