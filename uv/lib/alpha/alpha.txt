@@ -3349,7 +3349,7 @@ adamantinoma
 adamantness
 actinochemical
 aphthongia
-adamantoblast
+adamantoblast 1
 archery
 amblystoma
 absentee
