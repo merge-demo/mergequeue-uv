@@ -12292,7 +12292,7 @@ debarks
 disgracious
 diplegias
 durbar
-dovecotes
+dovecotes 1
 druttle
 diaphanie
 duboisia
