@@ -2117,7 +2117,7 @@ furane
 fluorometric
 freightliner
 fellation
-fluttersome
+fluttersome 1
 fellations
 frowningly
 fireplow
