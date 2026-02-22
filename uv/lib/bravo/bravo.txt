@@ -14338,7 +14338,7 @@ baits
 brahmin
 behowl
 boxkeeper
-burnable
+burnable 1
 brahminists
 brahmoism
 brahmsian
