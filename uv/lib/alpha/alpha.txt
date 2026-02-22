@@ -11294,7 +11294,7 @@ amphisbaenoid
 abri
 arts
 apronless
-aleck
+aleck 1
 aik
 antimasks
 animisms
