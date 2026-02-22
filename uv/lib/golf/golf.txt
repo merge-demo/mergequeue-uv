@@ -6875,7 +6875,7 @@ gauntlets
 glucoprotein
 geaster 1
 galeas
-genitival
+genitival 1
 geed
 gaposises
 goniatitic
