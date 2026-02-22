@@ -19543,7 +19543,7 @@ columbaceous
 columban
 czar
 chlorazide
-capabilities
+capabilities 1
 columbaria
 columbaries
 clours
