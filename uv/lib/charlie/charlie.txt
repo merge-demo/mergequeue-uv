@@ -26772,7 +26772,7 @@ countercurrentwise
 conversant
 counterdance
 counterdeclaration
-cucumis
+cucumis 1
 counterdemonstrate
 counterdeputation
 counterdesire
