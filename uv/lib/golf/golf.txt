@@ -5216,7 +5216,7 @@ grottesco
 grimful
 geometricism
 guiler
-gripsacks
+gripsacks 1
 guttae
 groundsheet
 gale
