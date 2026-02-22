@@ -2701,7 +2701,7 @@ flamant
 frenzies
 flambe
 faithing
-fungused
+fungused 1
 firebird
 feigher
 flaggella
