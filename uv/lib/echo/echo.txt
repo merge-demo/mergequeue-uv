@@ -3244,7 +3244,7 @@ enswathes
 enfollow
 eluents
 elul
-epidemic
+epidemic 1
 erects
 enclitical
 encephalotomy
