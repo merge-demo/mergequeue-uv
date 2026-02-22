@@ -2881,7 +2881,7 @@ disfurnishment
 deistically
 dugdug
 danais
-doloroso
+doloroso 1
 daedalist
 devotions
 drepanis
