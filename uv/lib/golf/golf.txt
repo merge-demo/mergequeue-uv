@@ -9473,7 +9473,7 @@ griffonne
 gabled
 glandulosity
 genitalial
-glycose
+glycose 1
 gladiate
 glossy
 ganser
