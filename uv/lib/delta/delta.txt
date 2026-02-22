@@ -15527,7 +15527,7 @@ drams
 decrew
 doni
 diopsides
-deliquesced
+deliquesced 1
 disaffection
 disintegrationist
 disvalued
