@@ -5385,7 +5385,7 @@ affusion
 afghan
 acroneurosis
 amylopectin
-anapnea
+anapnea 1
 afghanistan
 arided
 aphacia
