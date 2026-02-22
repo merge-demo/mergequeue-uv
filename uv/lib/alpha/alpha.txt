@@ -20915,7 +20915,7 @@ asbestos 1
 ancylostomum
 atm
 axiniform
-antihuman
+antihuman 1
 aldamine
 amylophosphate
 arthritic
