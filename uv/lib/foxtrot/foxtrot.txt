@@ -10878,7 +10878,7 @@ furore
 fullish
 foeman
 frigorifico
-fulgurated
+fulgurated 1
 forgathers
 freedwomen
 finished
