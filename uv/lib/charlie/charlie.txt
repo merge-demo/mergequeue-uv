@@ -25560,7 +25560,7 @@ cauf
 coroplastic
 camelias
 corotate
-corotates
+corotates 1
 compulsoriness
 corotomy
 commemorized
