@@ -10854,7 +10854,7 @@ franciscan
 frousy
 fabledom
 faddism
-fulgidity
+fulgidity 1
 flaite
 functionally
 fantasizing
