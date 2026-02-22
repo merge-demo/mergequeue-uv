@@ -22698,7 +22698,7 @@ counterevidence
 cryosphere
 conquerer
 conquerers
-conqueress
+conqueress 1
 conquering
 coenure
 conquerment
