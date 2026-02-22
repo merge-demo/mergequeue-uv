@@ -13464,7 +13464,7 @@ eatanswill
 emf
 elizabethanize
 expurgate
-equivocate
+equivocate 1
 ethionine
 equivocated
 embraceorr
