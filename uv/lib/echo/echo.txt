@@ -12513,7 +12513,7 @@ extraviolet
 errantia
 electicism
 everyway
-embarrel
+embarrel 1
 enchiridia
 exinguinal
 effare
