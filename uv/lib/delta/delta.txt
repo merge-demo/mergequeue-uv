@@ -3132,7 +3132,7 @@ disestablisher
 disbodied
 demihuman
 defamy
-delegating 1
+delegating 2
 desmoneme
 delicious
 dihydrite
