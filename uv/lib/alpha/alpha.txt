@@ -24205,7 +24205,7 @@ autology
 autological
 antiatheist
 alalite
-autoluminescent
+autoluminescent 1
 ahistoric
 axseeds
 azyme
