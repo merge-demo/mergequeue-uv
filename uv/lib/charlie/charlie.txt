@@ -21858,7 +21858,7 @@ confecting
 confection
 confectionary
 confectioner
-confed
+confed 1
 chukkers
 confederalist
 confederate
