@@ -4579,7 +4579,7 @@ arianists
 alestake
 accrease
 atactic
-argols
+argols 1
 advisees
 autobiology
 advisement
