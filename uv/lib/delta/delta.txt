@@ -5843,7 +5843,7 @@ disestablishes
 desistance
 depots
 dasyure
-deprave
+deprave 1
 disanagrammatize
 doxologizing
 dreidel
