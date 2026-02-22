@@ -4213,7 +4213,7 @@ delphically
 diversifiable
 disparpling
 dasyurus
-delphin
+delphin 1
 doeskin
 drabbish
 delphine
