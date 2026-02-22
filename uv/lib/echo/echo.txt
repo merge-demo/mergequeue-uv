@@ -14011,7 +14011,7 @@ elderbrotherly
 extrasocial
 ectophyte
 eshin
-enripen
+enripen 1
 embittered
 emulsin
 emmet
