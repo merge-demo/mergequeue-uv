@@ -8870,7 +8870,7 @@ antigropelos
 allochroic
 anticosmetic
 aeolodicon
-allochthon
+allochthon 1
 antlike
 askant
 ambilevous
