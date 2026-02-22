@@ -3439,7 +3439,7 @@ gravipause 1
 grandiosely
 greenlandish
 gertie
-geggery
+geggery 1
 glamourize
 greyware
 gesturist
