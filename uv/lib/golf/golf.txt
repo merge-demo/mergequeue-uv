@@ -7372,7 +7372,7 @@ gramas
 granulosis
 gamming
 gullishness
-glisky
+glisky 1
 gardenful
 gossipped
 glochidial
