@@ -1919,7 +1919,7 @@ glommox
 gastrozooid
 glaikit
 gonadotrophic 1
-globulet
+globulet 1
 gunboat
 gaudless
 ganglia
