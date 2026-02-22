@@ -2574,7 +2574,7 @@ behowls
 babiroussa
 bochism
 bracteate
-bidentate
+bidentate 1
 broadwives
 biscuit
 ballons
