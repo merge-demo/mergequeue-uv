@@ -1052,7 +1052,7 @@ darlingness
 darn
 darndest
 darnels
-destandardize
+destandardize 1
 diplohedral
 dishes
 diacodium
