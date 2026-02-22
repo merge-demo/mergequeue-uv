@@ -1066,7 +1066,7 @@ grandfatherly
 gynomonoecism
 gambesons
 gentlewomanhood
-gipsology
+gipsology 1
 gomphiasis
 gradus
 gasserian
