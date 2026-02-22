@@ -9900,7 +9900,7 @@ eerily
 exponents
 eluders
 exilian
-elongative
+elongative 1
 earmarks
 estimations
 eprosy
