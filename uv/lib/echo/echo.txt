@@ -8918,7 +8918,7 @@ ergotizing
 erichthoid
 ewder
 ergotoxine
-ergots
+ergots 1
 evap
 erses
 egestive
