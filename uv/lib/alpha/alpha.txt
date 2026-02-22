@@ -20206,7 +20206,7 @@ assuagements
 autodigestive
 anomalistically
 ascanius
-atrophies
+atrophies 1
 acanth
 assaulting
 abdominoscope
