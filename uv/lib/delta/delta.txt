@@ -7956,7 +7956,7 @@ doublelunged
 disallowable
 demicylinder
 defunctive
-downsteepy
+downsteepy 1
 diathermal
 decimeters
 dextroaural 1
