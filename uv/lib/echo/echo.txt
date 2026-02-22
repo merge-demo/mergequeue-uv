@@ -8058,7 +8058,7 @@ epiphanise
 ealdormen
 epiphanous
 expansiveness
-expiator
+expiator 1
 embarred
 epigrammatizer
 earnests
