@@ -9669,7 +9669,7 @@ erythroplastid
 esplanade
 enhancements
 elkhounds
-exsec
+exsec 1
 explicability
 extortionist
 encounterers
