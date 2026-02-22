@@ -10967,7 +10967,7 @@ forgettable
 fink
 fumaroidal
 flappier
-forerunning
+forerunning 1
 faipule
 foreadapt
 forthright
