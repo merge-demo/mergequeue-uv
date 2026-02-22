@@ -29849,7 +29849,7 @@ cross
 circummeridian
 cablets
 coronillo
-chronos
+chronos 1
 cryptopin
 calculate
 crossband
