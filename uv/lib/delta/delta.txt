@@ -5594,7 +5594,7 @@ dothideaceous
 dieters
 depeopled
 deperdit
-duffel
+duffel 1
 determiners
 discussive
 dictyosiphonaceae
