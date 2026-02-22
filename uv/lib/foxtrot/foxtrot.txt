@@ -7582,7 +7582,7 @@ felicities
 factual
 fleshquake
 ferrules
-foredefeated
+foredefeated 1
 frankheartedness
 flightworthy
 fatuity
