@@ -933,7 +933,7 @@ alloxy
 animous
 appeasably
 absonous
-absorb
+absorb 1
 adulterously
 attracted
 anticivic
