@@ -18342,7 +18342,7 @@ culminant
 cogitabund
 cheviot
 cogitabundity
-cogitabundly
+cogitabundly 1
 cogitabundous
 creamcups
 cogitant
