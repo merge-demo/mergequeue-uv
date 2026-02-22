@@ -1039,7 +1039,7 @@ calatrava
 calavance
 calbroben
 calcaire
-calcanea
+calcanea 1
 chimpanzee
 calcanean
 calcaneoastragaloid

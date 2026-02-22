@@ -2078,7 +2078,7 @@ enthusiasm
 embalm
 enterocinesia
 elaphurus
-enology
+enology 1
 expedites
 enjoyers
 encumberer
