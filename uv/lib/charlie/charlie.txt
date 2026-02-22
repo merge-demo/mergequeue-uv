@@ -17470,7 +17470,7 @@ characterize
 calixtin
 categorematically
 crowning
-cobdenite
+cobdenite 1
 cobelief
 cobeliever
 chowderheaded
