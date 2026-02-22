@@ -18983,7 +18983,7 @@ archival
 atopic
 archiver
 archjockey 1
-amoroso
+amoroso 1
 archknave
 ageless
 aponeurology
