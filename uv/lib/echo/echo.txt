@@ -5137,7 +5137,7 @@ electrosensitive
 emanatistic
 epilogic
 eobiont
-estray
+estray 1
 exsanguinous
 endocoele
 enaliosaurian
