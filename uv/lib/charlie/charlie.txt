@@ -10683,7 +10683,7 @@ cutlass
 calciclase
 chytridial
 cantharidated 1
-chalk
+chalk 1
 chimneyless
 counterdefender
 chimneylike
