@@ -6437,7 +6437,7 @@ barangay
 biternate
 benzothiofuran
 burs
-benzothiophene 1
+benzothiophene 2
 benzotrichloride
 bolection
 benzoxyacetic
