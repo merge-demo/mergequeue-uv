@@ -8389,7 +8389,7 @@ grandisonant
 gadolinite
 gunport
 gallivanting
-genipa
+genipa 1
 galeeny
 gyroscopically
 gaucherie
