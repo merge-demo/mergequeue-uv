@@ -7996,7 +7996,7 @@ glazy
 gables
 grandmotherly
 groutnoll
-glistens
+glistens 1
 gymnastical 1
 gomarist
 gunnies
