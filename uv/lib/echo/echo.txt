@@ -9693,7 +9693,7 @@ enterorrhexis
 esq
 esquires
 existence
-exurbs 1
+exurbs 2
 evacue
 euselachii
 esquisse
