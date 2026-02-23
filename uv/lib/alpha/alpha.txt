@@ -10072,7 +10072,7 @@ awakes
 appulsive
 axmen
 antiformant
-amblycephalus
+amblycephalus 1
 atmology
 amblydactyla
 asymptomatically
