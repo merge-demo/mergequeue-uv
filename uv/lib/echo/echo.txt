@@ -606,7 +606,7 @@ echt
 ecchymosed
 excommenge
 exostoses
-eciliate
+eciliate 1
 emporia
 emetics
 eurypharynx
