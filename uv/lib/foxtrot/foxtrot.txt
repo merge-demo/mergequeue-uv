@@ -5291,7 +5291,7 @@ flabbergasted
 footloose
 flawlessness
 fangy
-foamed
+foamed 1
 floppily
 frangulinic
 fleshlily
