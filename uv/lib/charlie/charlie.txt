@@ -18293,7 +18293,7 @@ cofighter
 cellmate
 casearia
 coforeknown
-clownishness
+clownishness 1
 cofounding
 cathedrals
 cofoundress
