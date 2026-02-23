@@ -3040,7 +3040,7 @@ geomantically
 garnerage
 geoponics
 galvayning
-grammatical
+grammatical 1
 graspable
 glitteringly
 gibbed
