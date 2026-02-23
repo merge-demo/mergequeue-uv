@@ -8222,7 +8222,7 @@ graphemics
 graphically
 glutamates
 glorioso
-graphiological
+graphiological 1
 gemotes 1
 gynaecocrat
 gelders
