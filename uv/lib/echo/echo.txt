@@ -10703,7 +10703,7 @@ egosyntonic
 etiquet
 endfile
 excusable 1
-eugonic
+eugonic 1
 eggheaded
 epithecicia
 embrangled
