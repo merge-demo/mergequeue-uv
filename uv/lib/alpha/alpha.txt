@@ -14868,7 +14868,7 @@ ameliorate
 aphotic
 anticyclone
 arthroempyema
-ankylodactylia
+ankylodactylia 1
 armer
 anticyclones
 abaculi
