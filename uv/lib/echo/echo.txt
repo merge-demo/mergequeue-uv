@@ -5531,7 +5531,7 @@ equiformity
 enzymosis
 enervation
 ethnically
-enetophobia
+enetophobia 1
 enfaces
 earthshattering
 elizabethans
