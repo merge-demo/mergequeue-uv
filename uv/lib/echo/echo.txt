@@ -639,7 +639,7 @@ empiricist
 ecphorable
 embryogeny
 epizoite
-eluviating
+eluviating 1
 etwees
 elocute
 eclegma
