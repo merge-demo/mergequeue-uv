@@ -10697,7 +10697,7 @@ flary
 fleckered
 faradays
 fartlek
-fortran
+fortran 1
 flunkeyistic
 flashtubes
 forelaid
