@@ -3621,7 +3621,7 @@ fragmentised 1
 fableland
 fundal
 factories
-fogus
+fogus 1
 fanwort
 fenagler
 figurize
