@@ -15822,7 +15822,7 @@ bradykinesia
 barding 1
 broking
 bushfighter
-brainwash
+brainwash 1
 battiks
 broletti
 bi
