@@ -8036,7 +8036,7 @@ buckbeans
 busked
 bluntness
 bicornate
-bowery
+bowery 1
 brutal
 bicorned
 booby
