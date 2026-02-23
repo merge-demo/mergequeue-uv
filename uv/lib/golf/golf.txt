@@ -6984,7 +6984,7 @@ goof 1
 goofah
 guaniferous
 greystone
-gebanga
+gebanga 1
 guirlande
 gauntries
 gushiest
