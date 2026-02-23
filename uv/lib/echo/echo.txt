@@ -8099,7 +8099,7 @@ encover
 extrasyphilitic
 extraordinaries
 expressable
-epiplasmic
+epiplasmic 1
 epiplectic
 exhausting
 epiploce
