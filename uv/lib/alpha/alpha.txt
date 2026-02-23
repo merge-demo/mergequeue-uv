@@ -19570,7 +19570,7 @@ akpek
 argutely
 affluency
 arhauaco
-asphaltic
+asphaltic 1
 aphanitism
 adiadochokinesia
 awatch
