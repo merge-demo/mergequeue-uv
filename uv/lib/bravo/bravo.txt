@@ -3014,7 +3014,7 @@ baggywrinkle
 boogyman 1
 barter
 blechnoid
-brilliancy
+brilliancy 1
 blood
 bullace
 bartholomewtide
