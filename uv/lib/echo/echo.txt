@@ -12593,7 +12593,7 @@ earthpeas
 embrawn
 epsomite
 etymologist
-euphon
+euphon 1
 ethion
 eunuchry
 exocoelar
