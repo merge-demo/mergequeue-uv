@@ -30330,7 +30330,7 @@ consonantizing
 constructions
 chiragra
 cruorin
-counteracts
+counteracts 1
 carombolette
 crup
 cruppen
