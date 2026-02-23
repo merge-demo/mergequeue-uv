@@ -5640,7 +5640,7 @@ gyrators
 genicular
 grunth
 gloomily
-gloomings
+gloomings 1
 graveward
 gunyang
 germanics
