@@ -18439,7 +18439,7 @@ cogovernor
 cellularity
 chokey
 carboxylate
-capillitial
+capillitial 1
 crystalloblastic
 centrale
 cograil
