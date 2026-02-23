@@ -8803,7 +8803,7 @@ actinautography
 aspersions
 alimental
 anfractuousness
-airtightness
+airtightness 1
 ascoma
 apterygote
 acetylcholinesterase
