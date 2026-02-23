@@ -3918,7 +3918,7 @@ galeoid
 gravidae
 goral
 glossem
-geminated
+geminated 1
 gnostic
 glens
 glossocarcinoma

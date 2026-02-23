@@ -5168,7 +5168,7 @@ butles
 bluebead
 bordereau
 befretting
-befume
+befume 1
 blellum 1
 buoyage
 befriended
