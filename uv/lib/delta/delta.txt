@@ -1447,7 +1447,7 @@ disoccident
 decenniums
 dearsenicize
 deprest
-disparagingly
+disparagingly 1
 dawnward
 dud
 drooliest
