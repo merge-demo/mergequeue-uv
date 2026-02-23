@@ -2655,7 +2655,7 @@ expansion
 esoterica
 estadel
 eiry
-entad
+entad 1
 exemplarity
 ethnocentrism
 electrosmosis
