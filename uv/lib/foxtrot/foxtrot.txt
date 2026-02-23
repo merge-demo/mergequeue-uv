@@ -8067,7 +8067,7 @@ formentation
 facetting
 folial
 forestful
-freezes
+freezes 1
 frigger
 forestial
 forepost
