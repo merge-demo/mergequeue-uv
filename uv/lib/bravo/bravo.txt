@@ -17539,7 +17539,7 @@ burdensome
 beslushed
 birettas
 burlesque
-burdigalian
+burdigalian 1
 basipoditic
 blowpoint
 burds
