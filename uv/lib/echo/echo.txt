@@ -9909,7 +9909,7 @@ emmensite
 earthnuts
 elaterium
 enterritoriality
-ephedrin
+ephedrin 1
 executes
 eduskunta
 ectrodactylous
