@@ -15328,7 +15328,7 @@ clangour
 clangoured
 clangouring
 cakewalks
-campings
+campings 1
 clangours
 clangs
 conquests
