@@ -11007,7 +11007,7 @@ acheat
 apoplectic
 aoife
 atrichous
-autogeny
+autogeny 1
 avowter
 arcsine
 acetphenetid
