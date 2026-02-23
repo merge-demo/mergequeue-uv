@@ -16278,7 +16278,7 @@ anilid
 antitintinnabularian
 antitypal
 antityphoid
-amaroid
+amaroid 1
 adeeming
 antitypical
 antitypous
