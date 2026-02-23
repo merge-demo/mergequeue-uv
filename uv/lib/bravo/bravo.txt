@@ -3250,7 +3250,7 @@ blushfulness
 basilicate 1
 basilicock
 basilics
-bohairic
+bohairic 1
 basilidian
 bursitises
 basilidianism
