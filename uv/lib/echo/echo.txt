@@ -5807,7 +5807,7 @@ englut
 emhpasizing
 encored
 eyot
-excedent
+excedent 1
 ependymitis
 ectropionizing
 englutted
