@@ -26430,7 +26430,7 @@ cuprein
 cotingoid
 chancel
 cotype
-cusparine
+cusparine 1
 calycophoran
 crackpot
 cotised
