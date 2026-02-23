@@ -2924,7 +2924,7 @@ electrocardiographically
 elfland
 entelodon
 elflocks
-encaustic
+encaustic 1
 endermic
 epiphyseolysis
 elfwife
