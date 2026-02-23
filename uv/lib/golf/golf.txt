@@ -10821,7 +10821,7 @@ ghazis
 greenhide
 guttus
 galactophthysis
-gyokuro
+gyokuro 1
 glimmers
 gargol
 gelatinizing
