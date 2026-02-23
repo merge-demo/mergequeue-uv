@@ -4751,7 +4751,7 @@ cogredient 1
 conclaves
 carping
 canceration
-carpiodes
+carpiodes 1
 carpium
 carpocace
 contagia
