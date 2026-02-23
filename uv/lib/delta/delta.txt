@@ -15068,7 +15068,7 @@ dehors
 determinable
 doggonest
 doggoning
-detant
+detant 1
 dislady
 difunctional
 dogget
