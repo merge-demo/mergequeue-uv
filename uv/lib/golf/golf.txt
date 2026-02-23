@@ -1962,7 +1962,7 @@ gauleiter
 gastrohepatic
 grated
 grasser
-gulonic
+gulonic 1
 grossing
 gaultherin
 gaunch
