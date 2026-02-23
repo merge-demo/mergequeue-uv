@@ -5613,7 +5613,7 @@ distinctest
 deperms
 disserves
 dichromatopsia
-depersonalise
+depersonalise 1
 depersonalising
 desponded
 diplomatology
