@@ -11600,7 +11600,7 @@ digester
 dunkle
 dysoxidizable
 divulgator
-disposable
+disposable 1
 discontentedness
 discriminantal
 dognaped
