@@ -7739,7 +7739,7 @@ antiprudential
 awfuller
 adhesional
 apostatical
-armscye
+armscye 1
 aldehydine
 alderamin
 ape
