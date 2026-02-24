@@ -11742,7 +11742,7 @@ frights
 fathom
 foliiform
 flneur
-foresin
+foresin 1
 fremdly
 florimanist
 flanking
