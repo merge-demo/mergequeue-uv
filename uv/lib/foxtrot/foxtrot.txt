@@ -4070,7 +4070,7 @@ freefd
 finitism
 frankest
 finitive
-felapton
+felapton 1
 formants
 foppishness
 finitude
