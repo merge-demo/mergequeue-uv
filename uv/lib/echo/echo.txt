@@ -6064,7 +6064,7 @@ epistolical
 epistles
 edgemaker
 ecumenopolis
-escroll
+escroll 1
 eolith
 exhusband
 elastin
