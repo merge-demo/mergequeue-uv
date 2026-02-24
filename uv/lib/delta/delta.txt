@@ -8970,7 +8970,7 @@ dated
 dichroitic
 dichromasia
 defrayed
-deltafication
+deltafication 1
 disafforestation
 dippiest
 dichromatic
