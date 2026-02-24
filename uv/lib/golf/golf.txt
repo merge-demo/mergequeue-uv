@@ -1657,7 +1657,7 @@ gastroenteroptosis
 graculus
 grammates
 gonnardite
-geratic
+geratic 1
 gladder
 greenhouses
 graftage
