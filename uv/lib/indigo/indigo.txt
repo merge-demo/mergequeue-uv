@@ -8152,7 +8152,7 @@ inpmqmeusb
 inpolshtirowh
 inpoxek
 inppovvacm 1
-inpsifafk
+inpsifafk 1
 inpwg
 inpxvr
 inpzgl
