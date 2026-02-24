@@ -20372,7 +20372,7 @@ aldermanlike
 amyous
 admeasure
 austerities
-apostolicalness
+apostolicalness 1
 arcsines
 anticorrosives
 autoradiography
