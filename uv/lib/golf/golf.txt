@@ -4670,7 +4670,7 @@ geobiology
 gematrical
 galli
 gastroplenic
-gestes 1
+gestes 2
 guttery
 gyrovagues
 gloy
