@@ -7118,7 +7118,7 @@ goatherd
 gothics
 glaucously
 getting
-gatter
+gatter 1
 grottoed
 glottological
 generalia
