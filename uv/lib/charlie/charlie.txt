@@ -15898,7 +15898,7 @@ cannabinaceae
 choree
 comedown
 clematite
-clemence
+clemence 1
 centibar
 carpogonia
 clemencies
