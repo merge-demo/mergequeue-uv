@@ -583,7 +583,7 @@ derived
 dialers
 decolonized
 daunch
-damfool
+damfool 1
 div
 digenea
 dodecaheddra
