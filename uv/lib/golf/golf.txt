@@ -6633,7 +6633,7 @@ glassine
 gaed
 goncalo
 gyrectomy
-geminating
+geminating 1
 globulysis
 glycosuria
 gossans
