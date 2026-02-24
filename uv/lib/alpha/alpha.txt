@@ -17477,7 +17477,7 @@ ama
 adrammelech
 aerostatics
 abstentious
-appar
+appar 1
 actinoidea
 apparat
 antidiabetic
