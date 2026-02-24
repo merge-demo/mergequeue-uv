@@ -11153,7 +11153,7 @@ chondrite
 churlishly
 chlamyd
 chlamydate
-chlamydobacteriaceous
+chlamydobacteriaceous 1
 cantion
 chlamydobacteriales
 clamours
