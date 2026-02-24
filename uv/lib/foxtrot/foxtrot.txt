@@ -5453,7 +5453,7 @@ furfuration
 fanatic
 fretsome
 fleeter
-fermentatively
+fermentatively 1
 flex
 fusionless
 firefighter
