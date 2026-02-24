@@ -1054,7 +1054,7 @@ channellers
 calcareous
 chironomidae
 calcareousness
-capitalise
+capitalise 1
 chiliaedron
 counsellorship
 calcariferous
