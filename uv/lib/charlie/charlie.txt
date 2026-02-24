@@ -4257,7 +4257,7 @@ carene
 carer
 chyometer
 capsulotome
-caress
+caress 1
 cir
 caressed
 captainries
