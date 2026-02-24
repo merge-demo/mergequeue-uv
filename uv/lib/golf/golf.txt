@@ -5279,7 +5279,7 @@ galvanism
 geomedicine
 gymnogenous
 gurish
-glaucophane
+glaucophane 1
 garish
 galoubet
 gringolee
