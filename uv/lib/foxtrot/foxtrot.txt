@@ -4164,7 +4164,7 @@ firebombing
 fairlike
 fractionlet
 faithwise
-figments
+figments 1
 figuredly
 forthrights
 firebox
