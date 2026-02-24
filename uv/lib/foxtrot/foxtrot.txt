@@ -11473,7 +11473,7 @@ fevergum
 fastgoing 1
 feminacies
 fairleader
-froggery
+froggery 1
 formular 1
 fuzzle
 foothill
