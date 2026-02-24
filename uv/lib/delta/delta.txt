@@ -6939,7 +6939,7 @@ despatches
 deoxidise
 despatching
 despecialization
-disembarrassed
+disembarrassed 1
 dispute
 domineer
 despecialize
