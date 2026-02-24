@@ -1048,7 +1048,7 @@ brasswork
 bailiwicks
 bolete
 babyhouse
-becost
+becost 1
 blousier
 buzzards
 burghal
