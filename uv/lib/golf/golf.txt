@@ -1576,7 +1576,7 @@ ghegish
 gregarinoidea
 gluelikeness
 gout
-gassing
+gassing 1
 gismos
 gondoliere
 globicephala
