@@ -975,7 +975,7 @@ eddied 1
 eponymic
 edits
 enterococcus
-eastwards
+eastwards 1
 esoterics
 exhumes
 entera
