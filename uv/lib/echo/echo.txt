@@ -13650,7 +13650,7 @@ earths
 extenuations
 enskying
 ecphonesis
-extenuative
+extenuative 1
 exorcisation
 epilogism
 earners
