@@ -6177,7 +6177,7 @@ beltian
 barrigudo
 barbless
 buchmanism
-befinger
+befinger 1
 biliary
 boarishly
 buttinsky
