@@ -6632,7 +6632,7 @@ fireweeds
 fairgrass
 fruitery
 funds
-fancymonger
+fancymonger 1
 fatuousness
 focussed
 fetlocked
