@@ -1986,7 +1986,7 @@ fulvid
 feedstock
 fibroserous
 floccosely
-firespout
+firespout 1
 forerake
 fitched
 flossflower

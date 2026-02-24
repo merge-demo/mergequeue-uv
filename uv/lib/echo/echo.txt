@@ -1034,7 +1034,7 @@ edentata
 egesting
 epinicion
 ethyls
-edentulate
+edentulate 1
 edeodynia
 edeomania
 enhamper
