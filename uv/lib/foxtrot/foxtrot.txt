@@ -1864,7 +1864,7 @@ frutify
 fatuously
 fec
 fight
-fantoddish
+fantoddish 1
 feelingly
 fecundate
 fianchetti
