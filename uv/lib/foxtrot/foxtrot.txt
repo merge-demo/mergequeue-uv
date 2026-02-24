@@ -5746,7 +5746,7 @@ fisher
 foredeserved 1
 farth
 fecket
-fringepod
+fringepod 1
 flyspecking
 folate
 fill

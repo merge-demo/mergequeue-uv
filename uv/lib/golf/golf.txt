@@ -9919,7 +9919,7 @@ gallop
 galiots
 glamorizing
 groundnut 1
-gratulatorily
+gratulatorily 1
 growingly
 grata
 genevese

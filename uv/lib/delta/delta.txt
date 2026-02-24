@@ -4563,7 +4563,7 @@ demilustre
 diaskeuasis
 demiman
 dali
-detax
+detax 1
 dungyard
 disproportionality
 demimondain
