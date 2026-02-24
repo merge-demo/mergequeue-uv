@@ -11659,7 +11659,7 @@ cholinic
 caitifty
 cotangents
 cholinolytic
-conjugably
+conjugably 1
 cequi
 clerkdoms
 cardiopneumatic

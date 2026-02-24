@@ -1910,7 +1910,7 @@ germaniums
 groundable 1
 gowd
 grails
-golland 1
+golland 2
 grelot
 gaudiest
 gogetting

@@ -1441,7 +1441,7 @@ fatuism
 filasse
 firmness
 futhork
-fatuitous
+fatuitous 1
 foothil 1
 familiarise
 floorwalkers
