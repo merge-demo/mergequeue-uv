@@ -3970,7 +3970,7 @@ carcajou
 carcajous
 carcake
 carcanet
-carousel
+carousel 1
 carcanetted
 carcases
 crueler 1
