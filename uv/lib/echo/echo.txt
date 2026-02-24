@@ -5004,7 +5004,7 @@ ebonises
 exiguous
 essentia
 exul
-effuses
+effuses 1
 enschedule
 exomphalous
 endemicity
