@@ -4591,7 +4591,7 @@ esoterism
 executionist
 enlightened
 exploited
-enchanting
+enchanting 1
 englante
 expel
 expatiations
