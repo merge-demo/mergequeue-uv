@@ -17525,7 +17525,7 @@ biograph
 bitrochanteric
 burdenless
 bakuninism
-blasty
+blasty 1
 bookrest
 burdenous
 bleep
