@@ -9989,7 +9989,7 @@ guggled
 gelsemiumia
 gubbins
 geoethnic
-glutamic
+glutamic 1
 gubernative
 gunwale
 grills
