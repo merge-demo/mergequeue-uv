@@ -12840,7 +12840,7 @@ erythrolysis
 eupomatia
 ern
 ecphorization
-echoic
+echoic 1
 emendated
 extinctor
 eisteddfods
