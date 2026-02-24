@@ -12257,7 +12257,7 @@ exasperative
 execrated
 elegists
 extemporizer
-exegetics
+exegetics 1
 exing
 ecphorias
 ensheaths 1
