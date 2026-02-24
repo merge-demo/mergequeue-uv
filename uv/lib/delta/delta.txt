@@ -6575,7 +6575,7 @@ desdemona
 disinvest
 desecrated
 dilemmatical
-dipole
+dipole 1
 dockize
 disematism
 deavely
