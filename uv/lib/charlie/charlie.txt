@@ -8076,7 +8076,7 @@ chafed
 chafery 1
 chiles
 cagayan
-capitulum
+capitulum 1
 chaferies
 chafers
 caranx
