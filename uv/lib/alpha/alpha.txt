@@ -19946,7 +19946,7 @@ arbitrageur
 aesture
 adossed
 armoured
-armourer
+armourer 1
 antipatriarchal
 andrographolide
 arguses

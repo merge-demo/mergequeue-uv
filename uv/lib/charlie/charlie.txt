@@ -10186,7 +10186,7 @@ chia
 chyack
 chianti
 chiao
-capsicum
+capsicum 1
 chiapanec
 chiapanecan
 chlorochrous
