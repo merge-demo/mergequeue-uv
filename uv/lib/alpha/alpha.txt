@@ -22167,7 +22167,7 @@ ascensive
 asthmas
 angolans
 arviculture
-asthmatical
+asthmatical 1
 aceric
 aeromantic
 asthmatoid
