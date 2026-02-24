@@ -17804,7 +17804,7 @@ analphabetic
 agent 1
 assertory
 anastatic
-apposability
+apposability 1
 anthranone
 aegialitis
 attacapan
