@@ -8100,7 +8100,7 @@ definienda
 di
 diabetes
 diaphyses
-debeaker
+debeaker 1
 duodial
 dentex
 developpes
