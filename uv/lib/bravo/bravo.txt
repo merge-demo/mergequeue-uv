@@ -3707,7 +3707,7 @@ brookflower
 beild
 battier
 brightest
-batting
+batting 1
 battings
 battledores
 bywork
