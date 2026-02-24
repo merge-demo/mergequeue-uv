@@ -4445,7 +4445,7 @@ dolos
 diapyesis
 demesman
 depravities
-declarers
+declarers 1
 disentitle
 doctrinalism
 demesnial
