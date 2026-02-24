@@ -12875,7 +12875,7 @@ endamoeba
 expandedly
 engrace
 endsheet
-excommunicating
+excommunicating 1
 elvish
 eserines
 extorting
