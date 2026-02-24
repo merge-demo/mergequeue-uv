@@ -6608,7 +6608,7 @@ desegregates
 destroyed
 dilettant
 denumerative
-dipentene
+dipentene 1
 decipherable
 digested
 deprecations
