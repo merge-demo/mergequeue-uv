@@ -3220,7 +3220,7 @@ douses
 defeminized
 dipsadine
 dryth
-drool
+drool 1
 dens
 dolichocnemic
 demoniac
