@@ -7311,7 +7311,7 @@ gambled
 ganglion 1
 gyrostatic
 genet
-gutturally
+gutturally 1
 guze
 gravelling
 gangly
