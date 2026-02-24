@@ -20397,7 +20397,7 @@ comites
 compacture
 crumbliness
 compadre
-curstfully
+curstfully 1
 conjurison
 calycanthemous
 compadres

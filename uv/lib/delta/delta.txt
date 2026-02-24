@@ -11581,7 +11581,7 @@ disconnectedness
 diphtheroidal
 diphead
 disconnecting
-disconnection
+disconnection 1
 diplococcic
 disconnector
 demicannon
