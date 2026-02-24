@@ -402,7 +402,7 @@ farfara
 fairishly
 fister
 fronde
-farcy
+farcy 1
 ficoes
 frislet
 faq
