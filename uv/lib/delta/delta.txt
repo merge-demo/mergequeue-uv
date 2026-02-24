@@ -4484,7 +4484,7 @@ dysprosium
 decadentism
 demicanon
 dishling
-dauntlessly
+dauntlessly 1
 disjointedly
 duomachy
 devalorize
