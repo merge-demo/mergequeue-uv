@@ -9331,7 +9331,7 @@ gigantostracan
 grinder
 geomagnetically
 grond
-gront
+gront 1
 gamodeme
 genuflect
 gangtide
