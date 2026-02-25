@@ -16919,7 +16919,7 @@ bereaver
 buggers
 buggy
 bakshi
-bluestockingish
+bluestockingish 1
 buggier
 bushboy
 bombardon
