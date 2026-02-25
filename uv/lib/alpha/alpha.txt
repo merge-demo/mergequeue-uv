@@ -24182,7 +24182,7 @@ achroodextrinase
 awakens
 autokinesy
 allentiacan
-autokinesis
+autokinesis 1
 arythmia
 apteryxes
 assuage
