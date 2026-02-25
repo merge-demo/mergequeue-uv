@@ -10736,7 +10736,7 @@ caligo
 contracivil
 churnability
 chinchona
-chincof
+chincof 1
 ciliium
 chauffeurs
 counterplotted
