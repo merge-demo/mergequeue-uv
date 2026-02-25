@@ -5940,7 +5940,7 @@ flowerpots
 flooder
 fowlpoxes
 freakiness
-fichtean
+fichtean 1
 foggers
 falstaffian
 flatwash
