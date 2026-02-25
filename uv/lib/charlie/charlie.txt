@@ -15881,7 +15881,7 @@ cleidoic
 chiromance
 cherts
 cleidomancy
-cleidorrhexis
+cleidorrhexis 1
 chiripa
 cleidotripsy
 cleistocarp
