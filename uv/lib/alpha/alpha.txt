@@ -923,7 +923,7 @@ acanthopteri
 absolvatory
 aestuary
 absolves
-absolving
+absolving 1
 abstort
 astriction
 atomistics
