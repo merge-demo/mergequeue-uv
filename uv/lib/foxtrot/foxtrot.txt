@@ -7785,7 +7785,7 @@ flyblew
 flickery
 faint
 fraenum 1
-forgathering
+forgathering 1
 finning
 fluorescein
 ferrotyped
