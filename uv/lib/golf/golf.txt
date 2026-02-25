@@ -148,7 +148,7 @@ geryon
 galipot
 graniteware
 gasthauser
-ghettoized
+ghettoized 1
 glunimie
 galactosyl
 galvanosurgery
