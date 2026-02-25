@@ -15539,7 +15539,7 @@ arianism
 aviating 1
 albin
 almondlike
-ancoral
+ancoral 1
 angiocarp
 alcotate
 anoxemic
