@@ -2502,7 +2502,7 @@ glunches
 geyan
 gastroalbuminorrhea
 gerontoxon
-gubbin
+gubbin 1
 gigacycle
 garlanding
 gittith
