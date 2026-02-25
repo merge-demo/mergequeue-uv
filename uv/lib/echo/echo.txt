@@ -9721,7 +9721,7 @@ evangelizing
 elementarism 1
 embryol
 escopette
-external
+external 1
 epicoelar
 extraterritorial
 ethylhydrocupreine
