@@ -2687,7 +2687,7 @@ geniculately
 geniculation
 granule
 gemarist
-gigantocyte
+gigantocyte 1
 genioglossal
 gastroenterologists
 globoids
