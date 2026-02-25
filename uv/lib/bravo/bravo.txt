@@ -8406,7 +8406,7 @@ burp
 bookmen
 bilalo
 bacony
-beaverette
+beaverette 1
 bocage
 balolo 1
 bleareye
