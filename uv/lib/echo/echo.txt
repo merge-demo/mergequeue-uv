@@ -12485,7 +12485,7 @@ escalading
 escheatable
 exility
 exanthem
-eyestones
+eyestones 1
 educatory
 enneadic
 electrifying
