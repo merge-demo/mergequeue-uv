@@ -1896,7 +1896,7 @@ disconcertingness
 digladiator
 discourse
 debouchment
-diarial
+diarial 1
 debout 1
 deervetch
 donging
