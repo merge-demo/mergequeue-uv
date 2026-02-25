@@ -10599,7 +10599,7 @@ ecstasis
 expensing
 englobing
 evernioid
-elvanite
+elvanite 1
 eparchate
 eledone
 enterpriseless
