@@ -17063,7 +17063,7 @@ canceling
 cultureless
 coachmen
 contestably
-cormoid
+cormoid 1
 chorobates
 countertrench
 colpostat
