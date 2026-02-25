@@ -8699,7 +8699,7 @@ gibier
 greedless
 grecism
 guttled
-gawkier
+gawkier 1
 guttling
 germiniparous
 greekize
