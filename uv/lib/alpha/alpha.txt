@@ -10766,7 +10766,7 @@ amitate
 antighostism
 abandonments
 anteinitial
-amities
+amities 1
 amitotic 1
 azotizes
 anormality
