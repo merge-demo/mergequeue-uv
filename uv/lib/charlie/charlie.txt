@@ -10258,7 +10258,7 @@ chicaners
 convallarin
 chicanes
 chicano
-coimmense
+coimmense 1
 crocodilidae
 chicaric
 cathexis
