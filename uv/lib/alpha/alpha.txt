@@ -5518,7 +5518,7 @@ actuarial
 aerolith
 aristos
 aftergas
-abstractedness
+abstractedness 1
 ablings
 articulatorily
 afterglow
