@@ -12641,7 +12641,7 @@ chubascos
 coons
 cellulating
 candlepin
-chubby
+chubby 1
 cayuco
 chubbier 1
 colorless
