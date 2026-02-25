@@ -20487,7 +20487,7 @@ asg
 arcula
 anticorrosively
 admov
-aristological
+aristological 1
 asterospondylous
 arteriocapillary
 arteriogenesis 1
