@@ -6409,7 +6409,7 @@ ensemble
 engastrimyth
 engrained
 electrocontractility
-exes
+exes 1
 equilocation
 enanguish
 espaliered
