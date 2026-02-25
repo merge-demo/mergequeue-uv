@@ -11228,7 +11228,7 @@ archpractice
 appellable
 amphigastrium
 aspersed
-amphigene
+amphigene 1
 aimers
 advocating
 amphigenous
