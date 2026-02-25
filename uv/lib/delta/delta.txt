@@ -10594,7 +10594,7 @@ displants
 domestic
 dolorimeter
 documented
-decoctible
+decoctible 1
 diploidic
 dunderbolt
 dominus
