@@ -15388,7 +15388,7 @@ barghests
 bowsed 1
 basicytoparaplastin
 blackfish
-bombe
+bombe 1
 baronetcy
 benzylidene
 brighid
