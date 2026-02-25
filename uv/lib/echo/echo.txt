@@ -13106,7 +13106,7 @@ experientialism
 eschevin
 encarpuspi
 entosarc
-extensionality
+extensionality 1
 ergology
 euphonizing
 engarrison
