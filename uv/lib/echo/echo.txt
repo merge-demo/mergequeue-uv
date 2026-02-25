@@ -6902,7 +6902,7 @@ ellipsoidal
 endangered 1
 electrum
 etiquettes
-endamageable
+endamageable 1
 epispore
 ectocardia
 endometria
