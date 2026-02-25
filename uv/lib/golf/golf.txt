@@ -1427,7 +1427,7 @@ gnamma
 gothicism
 grapenuts
 golfs
-gemologists
+gemologists 1
 gn
 gargle
 gynoeciumcia
