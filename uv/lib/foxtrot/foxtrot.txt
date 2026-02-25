@@ -4693,7 +4693,7 @@ forefeeling
 fixidity
 fixing
 flannelleaf
-fixt
+fixt 1
 furca
 flopwing
 fangs
