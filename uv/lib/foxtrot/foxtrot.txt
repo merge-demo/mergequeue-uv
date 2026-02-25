@@ -281,7 +281,7 @@ folk
 fotive
 flakily
 fourierite
-foreshortening
+foreshortening 1
 ford
 febrifacient
 footpounds
