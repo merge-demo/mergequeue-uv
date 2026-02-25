@@ -7381,7 +7381,7 @@ dowagerism
 dwine
 dadayag
 demilunes
-deselect
+deselect 1
 discount
 demoniacally
 demiadult
