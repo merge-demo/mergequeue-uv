@@ -8050,7 +8050,7 @@ dolorously
 discombobulated
 dumpies
 dharmic
-dharnas
+dharnas 1
 dhaura
 defilements
 dialleli
