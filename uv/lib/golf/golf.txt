@@ -965,7 +965,7 @@ graptolite
 gunshot
 glist
 genomic
-gamostele
+gamostele 1
 gallinule
 glottogony
 genetically
