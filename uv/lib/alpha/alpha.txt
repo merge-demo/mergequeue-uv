@@ -7142,7 +7142,7 @@ amusements
 abarthrosis
 atopite
 akre
-akrochordite
+akrochordite 1
 allophore
 akroter
 akroteria
