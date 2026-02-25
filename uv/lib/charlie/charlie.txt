@@ -5556,7 +5556,7 @@ catakinomeric
 corkscrewy
 catalanganes
 conceptionist
-catalatic
+catalatic 1
 circulatories
 cycledom
 cedre
