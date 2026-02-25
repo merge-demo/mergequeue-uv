@@ -14674,7 +14674,7 @@ chirurgy
 calyxes
 cystourethrography
 cistron
-cistronic
+cistronic 1
 cochon
 cistrons
 conventionality
