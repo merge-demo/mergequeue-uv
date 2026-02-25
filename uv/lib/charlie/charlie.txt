@@ -8447,7 +8447,7 @@ confiscator
 choribi
 cuttable 1
 chamoisite
-chamoline
+chamoline 1
 chamorro
 copalcocote
 cunei
