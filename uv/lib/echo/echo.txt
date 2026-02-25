@@ -11746,7 +11746,7 @@ examinatorial
 echopraxia
 ethoxyls
 explanations
-envision
+envision 1
 esc
 eveque
 episcopise
