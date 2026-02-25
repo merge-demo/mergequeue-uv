@@ -8012,7 +8012,7 @@ chacker
 cannelon
 chackle
 cachets
-coinstantaneity
+coinstantaneity 1
 chackled
 chackler
 chacma
