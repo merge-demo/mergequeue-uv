@@ -9844,7 +9844,7 @@ chemiotropism
 crinet
 chemisette
 chemism
-choosy
+choosy 1
 chemisorb
 coprophilic
 copperytailed
