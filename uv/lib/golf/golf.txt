@@ -8061,7 +8061,7 @@ guttulae
 geminiflorous
 gravels
 glenoidal
-granitiform
+granitiform 1
 geomancer
 gastrostomus
 granitite
