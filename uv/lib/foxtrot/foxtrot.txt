@@ -10578,7 +10578,7 @@ fluorimetry
 fustier
 fragmental
 forks
-furfurals
+furfurals 1
 filiation
 francophobe
 feeblebrained
