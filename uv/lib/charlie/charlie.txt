@@ -5592,7 +5592,7 @@ catalyze
 catalyzer
 catchalls
 compunctionary
-catallactic
+catallactic 1
 catallum
 cladocerans
 catalo
