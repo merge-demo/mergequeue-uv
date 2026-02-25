@@ -1931,7 +1931,7 @@ evertebral
 envenomed
 erotogeneses
 ecdysial
-ejaculations
+ejaculations 1
 explore
 enjoin
 epiphylaxis
