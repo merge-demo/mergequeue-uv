@@ -2905,7 +2905,7 @@ cantaloup
 careerer
 cantaloupes
 catboat
-cantando
+cantando 1
 cantankerous
 capsizable
 cantankerously
