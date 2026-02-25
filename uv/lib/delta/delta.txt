@@ -1213,7 +1213,7 @@ datapac
 decrepitated
 deleterious
 developoid
-disinvolve
+disinvolve 1
 dextrans
 datary
 dataries

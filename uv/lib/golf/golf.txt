@@ -4339,7 +4339,7 @@ garrulity
 gingerline
 glomerular
 gingerness
-guestimated
+guestimated 1
 greing
 griping
 gouging 1
