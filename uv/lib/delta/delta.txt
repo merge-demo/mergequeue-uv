@@ -9522,7 +9522,7 @@ decontaminated
 digital
 drunkest
 digitalin
-dispergator
+dispergator 1
 diathermanous
 digitated
 demissly
