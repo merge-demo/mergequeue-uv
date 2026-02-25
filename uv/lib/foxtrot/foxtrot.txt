@@ -10525,7 +10525,7 @@ frowners
 faciend 1
 freq
 forstand
-frowsily
+frowsily 1
 footslogging
 famishment
 frictionless
