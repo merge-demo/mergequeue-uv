@@ -10065,7 +10065,7 @@ gelofer
 gimmal
 gyneconitis
 grabens
-goblinize
+goblinize 1
 gumshoed
 gonomere
 gorgerin
