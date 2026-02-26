@@ -695,7 +695,7 @@ abortive
 afebrile
 abortiveness
 allegorising
-american
+american 1
 animadversion
 antiaesthetic
 aboulia
