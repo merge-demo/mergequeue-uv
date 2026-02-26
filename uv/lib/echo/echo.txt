@@ -11097,7 +11097,7 @@ engagedness
 enlisted
 electrocapillary
 evangelisation
-energized
+energized 1
 evans
 expiate
 eusthenopteron
