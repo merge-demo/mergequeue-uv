@@ -10858,7 +10858,7 @@ gweed
 gravidation
 gweeon 1
 growlers
-geomagnetician
+geomagnetician 1
 gyri
 grozet
 guideress
