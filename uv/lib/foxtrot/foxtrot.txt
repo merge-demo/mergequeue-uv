@@ -10573,7 +10573,7 @@ fructificative
 fussock
 formagen
 fattish
-froggier
+froggier 1
 fluorimetry
 fustier
 fragmental
