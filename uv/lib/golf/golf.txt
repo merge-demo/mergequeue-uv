@@ -1650,7 +1650,7 @@ groovier
 grousewards
 grosgrain
 garawi
-gumlikeness
+gumlikeness 1
 geode
 goyish
 gastroenteroptosis
