@@ -8674,7 +8674,7 @@ exfoliate
 encharging
 encharge
 episcleritis
-earth
+earth 1
 epiglottides
 evangelists
 equiperiodic
