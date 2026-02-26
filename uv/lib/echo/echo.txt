@@ -10962,7 +10962,7 @@ eggy
 eupotamic
 encoignure
 esparcet
-equivocalness
+equivocalness 1
 echiurid
 erythematous
 embrittlement
