@@ -4250,7 +4250,7 @@ gunsling
 gasteralgia
 garrisoning
 gilty
-gluttonise
+gluttonise 1
 gynantherous
 gonadectomized
 goliath
