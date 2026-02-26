@@ -8101,7 +8101,7 @@ flavouring
 feeble
 flasklet
 factorist
-fumacious
+fumacious 1
 farceur
 floodplain
 foret
