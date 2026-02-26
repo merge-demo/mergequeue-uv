@@ -7150,7 +7150,7 @@ bawling
 bevatron
 brambliest
 bifoliate 1
-biologist
+biologist 1
 brightly
 bessel
 bessemer
