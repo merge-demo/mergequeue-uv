@@ -5442,7 +5442,7 @@ castoffs
 coldly
 castoreum
 caftaned
-castorite
+castorite 1
 castra
 castrates
 covertical
