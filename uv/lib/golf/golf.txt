@@ -157,7 +157,7 @@ glacialize
 graphorrhea 1
 guesthouse
 gingerroot
-guaiaretic
+guaiaretic 1
 gardenmaker
 geophagy
 gamond
