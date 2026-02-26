@@ -1574,7 +1574,7 @@ dominancy
 defilades
 deadish
 dysgenesic
-dhanush
+dhanush 1
 demand
 disposition
 determinatively
