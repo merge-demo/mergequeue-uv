@@ -318,7 +318,7 @@ ebon
 eradicate
 esotericism
 extrema
-eirenarch
+eirenarch 1
 excitement
 ependymal
 ethmopresphenoidal
