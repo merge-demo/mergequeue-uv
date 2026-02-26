@@ -5755,7 +5755,7 @@ depolarization
 dernly
 depolarize
 dextrorsal
-decouple
+decouple 1
 downstroke
 diaphany
 downloads
