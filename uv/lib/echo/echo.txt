@@ -8383,7 +8383,7 @@ etherealism
 enhaloes
 euphuist
 everylike
-epitomized
+epitomized 1
 epitomizes
 electrohydraulically
 echiurus
