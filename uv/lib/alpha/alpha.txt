@@ -341,7 +341,7 @@ abelian 1
 allophylian
 alcoate
 auletris
-apodia
+apodia 1
 acetonemia
 aftwards
 abends
