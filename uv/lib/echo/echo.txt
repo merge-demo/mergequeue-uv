@@ -4655,7 +4655,7 @@ eminence
 engaged 1
 etherealised
 enhydrite
-extratensive
+extratensive 1
 erythroxyline
 endarchies
 exuberantness
