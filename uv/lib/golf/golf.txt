@@ -5143,7 +5143,7 @@ gutturine
 gentlehearted
 goldylocks
 gyps
-glaucophanite
+glaucophanite 1
 goldcrest
 gimpiest
 gallinaginous
