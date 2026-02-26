@@ -29158,7 +29158,7 @@ crioceratitic
 companionably
 chirruping
 cheque
-cranioscopist
+cranioscopist 1
 cotillons
 cryoconite
 cryogeny
