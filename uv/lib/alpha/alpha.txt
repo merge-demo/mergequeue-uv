@@ -4865,7 +4865,7 @@ amoebous
 arkwright
 aerodermectasia
 aerodynamical
-aerodynamically 1
+aerodynamically 2
 astrolater
 appoggiatura
 apopetalous
