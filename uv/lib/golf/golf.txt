@@ -4034,7 +4034,7 @@ gildhall
 gastrotrich
 grandness
 gildship
-gutturals
+gutturals 1
 gerundive
 gushingly
 graybacks
