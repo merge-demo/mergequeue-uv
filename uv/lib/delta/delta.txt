@@ -5858,7 +5858,7 @@ dermatocoptic
 deprecable
 deprecating
 doorbrand
-desolations
+desolations 1
 diachoresis
 domal
 demeaning
