@@ -18212,7 +18212,7 @@ detonatability
 deadlocks
 dermatorrhoea
 dode
-decurrent
+decurrent 1
 dunderfunk
 debbies
 dunderheadedness
