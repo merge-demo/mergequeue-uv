@@ -7309,7 +7309,7 @@ alaudine
 asters
 accessoriusorii
 alaund
-adoptant
+adoptant 1
 aglauros
 angioplerosis
 alba
