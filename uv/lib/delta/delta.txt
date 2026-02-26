@@ -9652,7 +9652,7 @@ dihydroxysuccinic
 dulse
 digitise
 dalasis
-decretals
+decretals 1
 disasterly
 dowcet
 diverting
