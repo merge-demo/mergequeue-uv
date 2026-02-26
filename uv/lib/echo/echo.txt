@@ -10823,7 +10823,7 @@ exsibilate
 echinid
 extrusive
 enthralling
-extracultural
+extracultural 1
 eupatorium
 ethnobiology
 eupatrids
