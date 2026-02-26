@@ -6193,7 +6193,7 @@ derisiveness
 dejeuners
 deferable
 derival
-derivant
+derivant 1
 dendrogaea
 dillier
 derivates
