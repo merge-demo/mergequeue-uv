@@ -11446,7 +11446,7 @@ evese
 entomostraca
 entheate
 embryotic
-expdt
+expdt 1
 elided
 evetide
 extirpating
