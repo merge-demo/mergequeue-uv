@@ -1296,7 +1296,7 @@ bedust
 boleite
 bacterioprecipitin
 beltings
-bate
+bate 1
 binational
 balanorrhagia
 balanta
