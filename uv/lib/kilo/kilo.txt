@@ -1115,7 +1115,7 @@ kaueturte
 kaueuk
 kaufr
 kaug
-kaugg
+kaugg 1
 kaugnmdev
 kaugzsywp
 kauhdc
