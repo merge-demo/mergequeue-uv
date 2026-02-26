@@ -158,7 +158,7 @@ exorcise
 expired
 effervescent
 erotopath
-enunciations
+enunciations 1
 earthly
 enriched
 exequy
