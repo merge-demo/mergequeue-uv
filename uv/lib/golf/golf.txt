@@ -655,7 +655,7 @@ givey
 gravimetry
 glower
 gantryman
-genecologically
+genecologically 1
 galeated
 gunkhole
 grihyasutra
