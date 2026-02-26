@@ -7827,7 +7827,7 @@ fowlerite
 fleshen
 fritterers
 foreordinate
-forespent
+forespent 1
 finns
 filterman
 furiousity
