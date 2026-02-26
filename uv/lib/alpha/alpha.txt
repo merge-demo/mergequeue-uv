@@ -25057,7 +25057,7 @@ antelation
 anaesthetist
 arcadianism
 aguinaldo
-adaptations
+adaptations 1
 aggregation
 awrist
 angiokinetic
