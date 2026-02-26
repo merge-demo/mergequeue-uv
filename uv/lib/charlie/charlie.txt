@@ -9896,7 +9896,7 @@ cameograph
 catalogic
 chronobiology
 chemosorption
-chemosphere
+chemosphere 1
 collateral
 cancers
 chemosurgery
