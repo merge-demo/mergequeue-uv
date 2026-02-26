@@ -10309,7 +10309,7 @@ forecourt
 feaze
 foss
 footcandles
-forewarning
+forewarning 1
 fiaunt
 fraenula
 floodlighted
