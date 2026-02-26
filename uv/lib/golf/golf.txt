@@ -1148,7 +1148,7 @@ gander
 gravamens
 guava
 goners
-gantelope
+gantelope 1
 genitors
 gantlet
 grocer
