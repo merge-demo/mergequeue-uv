@@ -2131,7 +2131,7 @@ amakosa
 alts
 adawlut
 arend
-apiculate
+apiculate 1
 achymia
 aganice
 arracks
