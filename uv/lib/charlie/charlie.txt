@@ -30651,7 +30651,7 @@ collegial
 chymotrypsin
 cucupha
 chlorids
-cucurb
+cucurb 1
 compole
 cucurbita
 cucurbitaceous
