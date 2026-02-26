@@ -10459,7 +10459,7 @@ greetings
 grakle
 gummatous
 gneissy
-gerrymandered
+gerrymandered 1
 geistlich
 gastrolienal
 graphitization
