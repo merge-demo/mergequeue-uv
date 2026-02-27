@@ -4548,7 +4548,7 @@ advertence
 advertently
 adverting
 appertise
-advertisers
+advertisers 1
 attunes
 albication
 assuagable
@@ -7560,7 +7560,7 @@ artificiality
 amphipodal
 amercer
 alcahests
-apertion
+apertion 1
 alcaics
 acrosarca
 ankylorrhinia
@@ -8594,7 +8594,7 @@ alleviations
 allatrate
 abaction
 autosuggestibility
-admitty
+admitty 1
 alineation
 alkoxid
 architectonically
@@ -9058,7 +9058,7 @@ animant
 ancylostome
 allowableness
 alkalises
-ammonoid
+ammonoid 1
 allowed
 attorned
 assertiveness
@@ -24008,7 +24008,7 @@ autochthon
 aunthoods
 autochthonism
 abutilons
-atmometer
+atmometer 1
 autocide
 acetylbiuret
 alumnus

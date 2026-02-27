@@ -3238,7 +3238,7 @@ galoot
 greatish
 getatability
 gally
-graffage
+graffage 1
 gazement
 gormandizer
 gynecologists
@@ -4639,7 +4639,7 @@ grapeshot
 gustatorially
 gallup
 greenheart
-gyrating
+gyrating 1
 galvanise
 gorillaship
 goatbush
@@ -6894,7 +6894,7 @@ goodenia
 gestated
 gatling
 guyed
-gitterns
+gitterns 1
 guttiferae
 gombay
 guglio
