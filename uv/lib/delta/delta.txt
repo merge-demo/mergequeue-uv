@@ -12285,7 +12285,7 @@ disgospel
 diminuendos
 disgospelize
 disgracer
-dipicrate
+dipicrate 1
 disenchanted
 delicacies
 debarks
@@ -14917,7 +14917,7 @@ dehumidifiers
 destructive
 dodecarch
 dodecasemic
-decadi
+decadi 1
 dodecasyllable
 discretionarily
 demonising
