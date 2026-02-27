@@ -4124,7 +4124,7 @@ gesnerad
 geotaxes
 gettysburg
 gargoyle
-glosts
+glosts 1
 genetor
 grimoire
 geoglossum
@@ -6106,7 +6106,7 @@ golcondas
 grogging
 gnetales 1
 gude
-gastrogenous
+gastrogenous 1
 guffy
 geogen
 guessworker
