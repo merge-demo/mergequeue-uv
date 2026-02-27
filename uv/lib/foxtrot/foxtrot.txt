@@ -464,7 +464,7 @@ facticity
 faithworthiness
 fireplaces
 faitours
-fornicatress
+fornicatress 1
 fomented
 fainant
 fawningly
@@ -1910,7 +1910,7 @@ forgiver
 farrowing
 flattery
 franklinization
-federalised
+federalised 1
 fanglike
 federalism
 fykes
@@ -5156,7 +5156,7 @@ flywheels
 fjords
 flatman
 foreseeingly
-formnail
+formnail 1
 filtering
 frotteur
 frankfurter 1
@@ -6219,7 +6219,7 @@ fluctuational
 factioneer
 fluegelhorn
 foalfoot
-forefence
+forefence 1
 fairgrounds
 forlana
 fatlings
@@ -7570,7 +7570,7 @@ furuncles
 faille
 fifers
 forerecited
-felsite
+felsite 1
 fanal
 felicitous
 folliful
@@ -8572,7 +8572,7 @@ featherer
 frogtongue
 futurities
 fasciation
-ferules
+ferules 1
 favourless
 foxhole
 fornication
