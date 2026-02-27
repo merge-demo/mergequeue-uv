@@ -6434,7 +6434,7 @@ frivoled
 frogeye
 fluoaluminate
 fainted
-frictionable
+frictionable 1
 flatcap
 fairs
 fibrinolysis
