@@ -738,7 +738,7 @@ gonoplasm
 galvanoglyph
 gerbillinae 1
 gar
-goniometric
+goniometric 1
 gnawer
 greenshank
 gasted
@@ -1931,7 +1931,7 @@ garnet
 gynecocratic
 gnomesque
 gravewards
-guideship
+guideship 1
 galactosuria
 goalkeepers
 greaseless
@@ -3630,7 +3630,7 @@ gogos
 grewhound
 ghees
 garaged
-gladen
+gladen 1
 guanylic
 granilla 1
 glottalize
@@ -4141,7 +4141,7 @@ galeidae
 genitivally
 grapsidae
 gentilities 2
-grundy
+grundy 1
 geochronology
 gnawing
 gregarian
@@ -4355,7 +4355,7 @@ gauge
 gamps
 graham
 gallacetophenone
-golfdom
+golfdom 1
 gravitated
 glittersome
 ganancial
@@ -5125,7 +5125,7 @@ glinting
 glaucidium
 gainyield
 generalissima
-gandhist
+gandhist 1
 gummas
 glaucionetta
 gromatics
@@ -7087,7 +7087,7 @@ garbell
 garnetberry
 grumpily
 gentiledom
-gercrow
+gercrow 1
 grottos
 glossorrhaphy
 galletas
@@ -8377,7 +8377,7 @@ gladsomeness
 ganoid
 granites
 genro
-guisards
+guisards 1
 gerundival
 gingerbread
 guns
@@ -10854,7 +10854,7 @@ grewsomer
 granoblastic
 garruline
 grewsomeness
-gweed
+gweed 1
 gravidation
 gweeon 1
 growlers
