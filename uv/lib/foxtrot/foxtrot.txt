@@ -5163,7 +5163,7 @@ frankfurter 1
 flavanone
 flambes
 formicidae
-funambulism
+funambulism 1
 forz
 flatness
 fadged
