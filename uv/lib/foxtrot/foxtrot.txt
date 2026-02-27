@@ -213,7 +213,7 @@ factrix 1
 footmanship
 factorials
 fanons
-fatiscence
+fatiscence 1
 forborne
 futurist
 fenestellidae
