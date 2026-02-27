@@ -2247,7 +2247,7 @@ elysee 1
 electic
 ethnal
 electioneer
-elaphurine
+elaphurine 1
 elections
 elevatory
 exocolitis
@@ -3553,7 +3553,7 @@ ergographic
 entozoon
 emboweled
 epithecial
-ethanamide
+ethanamide 1
 electrosurgically
 eschewance
 extortionary
@@ -4977,7 +4977,7 @@ endowed
 expertly
 entopical
 epineurial
-enthronise
+enthronise 1
 exigenter
 entoplastron
 endeavourer
@@ -5214,7 +5214,7 @@ expedition
 endogenous
 enlistment
 electo
-embroider
+embroider 1
 endoglobular
 eleme
 existibility
@@ -6850,7 +6850,7 @@ entomical
 empoisoning
 electroimpulse
 entomol
-eyepopper
+eyepopper 1
 exocentric
 eupolyzoan
 ensky
@@ -11507,7 +11507,7 @@ exoergic
 echinopanax
 exhibited
 expended
-electromyogram
+electromyogram 1
 emendate
 engouled
 eunuchize
@@ -12640,7 +12640,7 @@ epexegeses
 exodic
 equipped
 encincturing
-emeralds
+emeralds 1
 essancia
 ergotize
 elateroid
