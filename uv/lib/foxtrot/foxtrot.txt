@@ -6090,7 +6090,7 @@ fanfare
 flauntingly
 forsook
 feak
-foretriangle
+foretriangle 1
 fleyland
 forecome
 floush
