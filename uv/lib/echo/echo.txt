@@ -782,7 +782,7 @@ epitheliliums
 ecroulement
 emden
 emydidae
-enolizing
+enolizing 1
 extramedullary
 eolotropic
 emotionalization
@@ -2078,7 +2078,7 @@ enthusiasm
 embalm
 enterocinesia
 elaphurus
-enology
+enology 1
 expedites
 enjoyers
 encumberer
@@ -2179,7 +2179,7 @@ eructate
 endocyclic
 evanescently
 elbowy
-elbowpiece
+elbowpiece 1
 elbows
 explores 1
 everywoman
@@ -2345,7 +2345,7 @@ epicenity
 epically
 effulge
 enchants
-epistroma
+epistroma 1
 electrocardiogram
 enclear
 ever
@@ -11678,7 +11678,7 @@ erept
 embracers
 exogenism
 eadish
-exaggerate
+exaggerate 1
 electrize
 etiotropic
 epitra
