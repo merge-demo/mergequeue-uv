@@ -743,7 +743,7 @@ aedicula
 alpiniaceae 1
 abramis
 abranchious
-apeling
+apeling 1
 abrase
 accersitor
 aswail
@@ -3461,7 +3461,7 @@ addictions
 aids
 ampassy
 abodah
-alai
+alai 1
 autofluorescence
 arthroclasia 1
 adeleidae
@@ -17150,7 +17150,7 @@ averin 1
 apolysis
 apolista
 alaunt
-aproctia
+aproctia 1
 apollinarian
 apollo
 apollonian
@@ -17591,7 +17591,7 @@ antiapostle
 archorrhea
 amenities
 ancillaries
-appendicularia
+appendicularia 1
 aboulias
 azygosperm
 appendiculate
@@ -19111,7 +19111,7 @@ archspy
 akenes
 archspirit
 aquadag
-arachnites
+arachnites 1
 ayuyu
 ashiness
 availers
@@ -20298,7 +20298,7 @@ arround
 auditual 1
 arbute
 arrouse
-abhorrers
+abhorrers 1
 austria
 arrowbush
 accounting
@@ -23918,7 +23918,7 @@ aurite
 authored
 angas
 anisocotyly
-arabizing
+arabizing 1
 agile
 ataxite
 amphibologism
@@ -25241,7 +25241,7 @@ azeotropic
 azerbaijani
 azerbaijanian
 agrology
-antitax
+antitax 1
 avigators
 attrition
 afrogaean
