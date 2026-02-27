@@ -16819,7 +16819,7 @@ antiunion
 aphrodisiacs
 annule
 aphrodisiomania
-aphrodisiomaniac
+aphrodisiomaniac 1
 arrivism
 annotinous
 anagalactic
