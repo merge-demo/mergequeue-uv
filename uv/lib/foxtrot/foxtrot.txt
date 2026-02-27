@@ -5118,7 +5118,7 @@ flashgun 1
 fifteenth
 factitive
 fict
-furnishment
+furnishment 1
 furculae
 flashiest
 flashiness
@@ -5471,7 +5471,7 @@ ferreter
 flora
 funniness
 frequentness
-flemishes
+flemishes 1
 flensed
 frillers
 flensers
@@ -10559,7 +10559,7 @@ feudalist
 funambulation
 fruchtschiefer
 fructescent
-flumadiddle
+flumadiddle 1
 filmily
 framable
 formylate

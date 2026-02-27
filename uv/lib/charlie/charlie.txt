@@ -218,7 +218,7 @@ cowgirls
 carpological
 cabrilla
 cabrillas
-cabrit
+cabrit 1
 cabs
 comprend
 cabstands
@@ -21056,7 +21056,7 @@ computing
 conenose
 chiam
 celoms
-comradely
+comradely 1
 comradeliness
 comradeship
 caulked
@@ -30204,7 +30204,7 @@ crud
 canful
 crudded
 convivialize
-carree
+carree 1
 crudely
 coregonus
 clinicopathologic
