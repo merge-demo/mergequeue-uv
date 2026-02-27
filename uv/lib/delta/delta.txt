@@ -6949,7 +6949,7 @@ desperado
 darky
 dioptre
 digits
-desperados 1
+desperados 2
 dorsointercostal
 dichasial
 didgeridoo
@@ -8341,7 +8341,7 @@ dockmaster
 dialectician
 dual
 decapodous
-droopingness
+droopingness 1
 diplois
 dejerate
 dargue
@@ -8375,7 +8375,7 @@ dermamycosis
 diminutal
 deplanes
 dialysable
-dorobo
+dorobo 1
 dahabiahs
 deaconess
 dinitrophenylhydrazine
@@ -9812,7 +9812,7 @@ dills
 delusiveness
 dillseed
 deputations
-dimetria
+dimetria 1
 decarbonised
 distends
 dromos
@@ -12429,7 +12429,7 @@ deterrability
 defers
 dimerlie
 dialectical
-diastereoisomer
+diastereoisomer 1
 dampne
 dishome
 dishonor 1
@@ -15052,7 +15052,7 @@ dhamma
 depressingness
 defoliators
 dibbukim
-deludher
+deludher 1
 demulsify
 diskery
 desmic
