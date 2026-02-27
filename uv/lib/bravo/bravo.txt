@@ -5922,7 +5922,7 @@ berber
 belowground
 brandenburgs
 biggety
-buffaloes
+buffaloes 1
 beltane
 belauding
 bimetalic
