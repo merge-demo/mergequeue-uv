@@ -1283,7 +1283,7 @@ fastnesses
 fhrer
 fancywork
 florinda 1
-frigs
+frigs 1
 factitiously
 foins
 footlocker
@@ -1782,7 +1782,7 @@ fadingness
 femorococcygeal
 freewill 1
 firefanging
-freckledness
+freckledness 1
 fishgarth
 feathertop
 frogmen 1
@@ -2734,7 +2734,7 @@ fyce
 fraela
 folklore
 faunas
-framing
+framing 1
 feedy
 fedity
 fascis
@@ -3088,7 +3088,7 @@ foreclosing
 feroce
 fishtails
 flitter
-flakeboard
+flakeboard 1
 foreboot
 fillmass
 fibrinose
@@ -3504,7 +3504,7 @@ finnic
 fluctuated
 fended
 federary
-figurable
+figurable 1
 fixture
 figurae
 forebowels
@@ -3723,7 +3723,7 @@ frousiest
 facebread
 fillies
 feetless
-firedogs
+firedogs 1
 foalfoot
 flaccidities
 fillings
@@ -11255,7 +11255,7 @@ funny 1
 fundamentality
 flagellants
 frumaryl
-filibusterer
+filibusterer 1
 fenks
 felly
 finbacks
