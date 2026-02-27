@@ -5050,7 +5050,7 @@ denationalize
 dedicator
 decaesarize
 densification
-dayal
+dayal 1
 drivingly
 denaturalised
 denaturalising
@@ -6225,7 +6225,7 @@ dithyramb
 degrades
 drabness
 dipsades
-disbenchment
+disbenchment 1
 dactylopodite
 dermanaplasty
 dermapterous
@@ -14623,7 +14623,7 @@ divulge
 divulged
 diminuted
 drivelling
-despite
+despite 1
 dyslalia
 divulger
 dianodal
