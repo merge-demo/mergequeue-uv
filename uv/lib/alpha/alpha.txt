@@ -2660,7 +2660,7 @@ acreage
 anamirta
 arrythmic
 angara
-acreman
+acreman 1
 adiadochokinesis
 acremen
 acres
@@ -4598,7 +4598,7 @@ amphibious
 avidnesses
 advisy
 advising
-antechapel
+antechapel 1
 altercate
 arbith
 apersee
@@ -6103,7 +6103,7 @@ ablock
 agamospore
 agitatrix
 agitprops
-aglance
+aglance 1
 anchoritess
 aglaozonia
 alkanal
@@ -7998,7 +7998,7 @@ aleurone
 antimicrobic
 argynnis
 annotto
-aurigo
+aurigo 1
 aleuronic
 aleurons
 alevin 1
@@ -15311,7 +15311,7 @@ anthracite
 adapters
 amperages
 antihero
-amphoriskos
+amphoriskos 1
 azulejo
 anticonscriptive
 antihierarchy
@@ -17699,7 +17699,7 @@ argils
 avignonese
 acetoarsenite
 ambiguity
-aganippe
+aganippe 1
 axhead
 antiquities
 applejohn
@@ -19260,7 +19260,7 @@ areg
 areic
 armchair
 arena
-arenaria
+arenaria 1
 annam
 auditives
 anthocyan
@@ -19508,7 +19508,7 @@ argonne
 argons
 argosy
 archaizes
-acanthuses
+acanthuses 1
 antimediaeval
 argots 1
 allianced

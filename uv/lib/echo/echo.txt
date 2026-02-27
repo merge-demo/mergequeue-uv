@@ -1340,7 +1340,7 @@ eriocomi
 eisteddfodism
 effeminise
 especial
-elemin
+elemin 1
 explosives
 eelspear
 effeminising
@@ -2596,7 +2596,7 @@ entertainable
 etua
 enantioblastous
 eruginous
-eighteenthly
+eighteenthly 1
 ensnarl
 exhilarator
 empididae
@@ -4308,7 +4308,7 @@ enjoined
 extirpation
 epicarides
 ejectment
-exaltedness
+exaltedness 1
 electrochemical 1
 entangle
 exosmoses
@@ -6531,7 +6531,7 @@ entrenchments
 entails
 eaglet
 embarrassedly
-egipto
+egipto 1
 ensmall
 encephalorrhagia
 eleventhly
@@ -7797,7 +7797,7 @@ electropneumatic
 expectably
 elementality
 encyclopaedize
-engjateigur
+engjateigur 1
 epigastria
 engagement
 embiotocidae
@@ -10173,7 +10173,7 @@ elodeaceae
 emerant 1
 exegetic
 eponymies
-eunuchoid
+eunuchoid 1
 empestic
 esteemer
 engraphically
@@ -11257,7 +11257,7 @@ epidictical
 exserts
 earthquake
 exundate
-ectoloph
+ectoloph 1
 entelluses
 ethnologic
 eeling
@@ -11432,7 +11432,7 @@ edgebone
 ependymary
 everted
 euouae
-eli
+eli 1
 exhaustion
 emys
 elitists
@@ -12183,7 +12183,7 @@ ethmoturbinate
 excussed
 estranges
 eusol
-epigraphically
+epigraphically 1
 eucolite
 enlistee
 empory
