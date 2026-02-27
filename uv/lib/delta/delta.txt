@@ -7270,7 +7270,7 @@ deifier
 dextrally
 dournesses
 defalk
-disarrest
+disarrest 1
 deteriorating
 deterioration
 deuce
