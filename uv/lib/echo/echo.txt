@@ -4976,7 +4976,7 @@ embole
 endowed
 expertly
 entopical
-epineurial
+epineurial 1
 enthronise
 exigenter
 entoplastron
