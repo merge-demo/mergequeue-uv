@@ -1558,7 +1558,7 @@ doublure
 deadlier
 deaden
 droops
-docked
+docked 1
 drippings
 dices
 deputising
