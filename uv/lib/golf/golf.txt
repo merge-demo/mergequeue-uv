@@ -942,7 +942,7 @@ gammock
 grouched
 gillnetted
 galactically
-gainsaid
+gainsaid 1
 garrottes
 gnathonically
 goldenlocks
@@ -6689,7 +6689,7 @@ gimlets
 gayway
 garce
 guarnieri
-gumboils
+gumboils 1
 gastropancreatic
 gymnoglossa
 genuflected
@@ -6875,7 +6875,7 @@ gauntlets
 glucoprotein
 geaster 1
 galeas
-genitival
+genitival 1
 geed
 gaposises
 goniatitic
