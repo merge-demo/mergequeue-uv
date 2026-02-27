@@ -8400,7 +8400,7 @@ espontoon
 enwreathe
 entertain
 ethylenation
-elroquite
+elroquite 1
 exindusiate
 epitrope
 exclusionism
