@@ -3725,7 +3725,7 @@ carates
 candor
 changuina
 campanological
-carauna
+carauna 1
 coventrize
 caravaneer
 cyclists
@@ -10574,7 +10574,7 @@ consumerism
 calamariales
 chillish
 choes
-chillness
+chillness 1
 crucifixes
 concremation
 celebrator
@@ -12362,7 +12362,7 @@ chromatium
 chromatize
 credensiveness
 chromatogenous
-coiny
+coiny 1
 cinchonia
 chromatographic
 chromatographically
@@ -21858,7 +21858,7 @@ confecting
 confection
 confectionary
 confectioner
-confed
+confed 1
 chukkers
 confederalist
 confederate
@@ -26221,7 +26221,7 @@ coequality
 conform
 crustification
 chandeliers
-cyanite
+cyanite 1
 cossaean 1
 cosse
 carnivority
