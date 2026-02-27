@@ -141,7 +141,7 @@ flashforwards
 flagellist
 feedhead
 fibre
-fossiled
+fossiled 1
 facsimiled
 fracturable
 frigidaria
@@ -275,7 +275,7 @@ favi
 filander
 fadmongering
 felsic
-flooders
+flooders 1
 fairly
 folk
 fotive
@@ -3553,7 +3553,7 @@ foulsome
 filamentary
 filament
 flannelleaves
-fishfall
+fishfall 1
 flagrancy
 frowziness
 fath
@@ -3719,7 +3719,7 @@ flavorlessness
 featherers
 frail
 feodal
-frousiest
+frousiest 1
 facebread
 fillies
 feetless
@@ -4125,7 +4125,7 @@ feuilletons
 frameworks
 floridan
 fiorin
-fusiladed
+fusiladed 1
 fiorite
 flamberg
 foreseen
@@ -5432,7 +5432,7 @@ fleecy
 flyblown
 forager 1
 fashion
-frolickly
+frolickly 1
 forseek
 fitchery
 fusobteria
@@ -6102,7 +6102,7 @@ filibusterism
 flossiness
 ferrer
 frondeur
-fortnights
+fortnights 1
 fervidity
 freighter
 frettation
@@ -8422,7 +8422,7 @@ formulize
 fierier
 flushers
 fatheadedly
-formaliser
+formaliser 1
 fozinesses
 fritting
 freshman
@@ -10587,7 +10587,7 @@ forwarn
 freakouts
 fibrination
 finement
-fatefulness
+fatefulness 1
 fuzzes
 fulgent
 foiling
@@ -11184,7 +11184,7 @@ forcipal
 fireplugs
 frenzelite
 forepaling
-flinter
+flinter 1
 fluorophosphate
 fullgrownness
 frontiersman
