@@ -988,7 +988,7 @@ aggregable
 abstertion
 anthropopathic
 abstinential
-abstinently
+abstinently 1
 anthos
 abstractable
 alsikes
@@ -2873,7 +2873,7 @@ anilopyrine
 amidopyrine
 adaptation
 achromatin
-amygdales
+amygdales 1
 acrophonetic
 avengingly
 acrophonic
@@ -8833,7 +8833,7 @@ anglophobes
 autoimmunization
 asthmatics
 accentors
-allocations
+allocations 1
 amyosthenia
 amender
 adeptly
@@ -11067,7 +11067,7 @@ anonymous
 alaskans
 amounter
 adduction
-amounters
+amounters 1
 amouli
 anathematiser
 apogeic
@@ -13271,7 +13271,7 @@ acetifying
 anisocytosis
 aval
 apograph
-allwhere
+allwhere 1
 appetit
 anisocotyledonous
 anisodactyla
@@ -13407,7 +13407,7 @@ astringe
 aristulate
 archphylarch
 ankusha
-ankushes
+ankushes 1
 anomala
 anlace
 albinistic
@@ -22070,7 +22070,7 @@ amplexicaudate
 aloddia
 adaptably
 applier
-agastreae
+agastreae 1
 anthemy
 anviltop
 arethuse
@@ -22756,7 +22756,7 @@ ahurewa
 anglewing
 arhar
 antipedobaptism
-auditorially
+auditorially 1
 australianize
 arras
 antispast
@@ -24577,7 +24577,7 @@ agedly
 aimable
 argentamine
 availabilities
-aciliate
+aciliate 1
 arthrodynia
 antineutrality
 availed
