@@ -538,7 +538,7 @@ gnetaceous
 gamodemes
 galler
 grandmammy
-grandsirs
+grandsirs 1
 germanium
 gastraea
 gallera
@@ -673,7 +673,7 @@ giddify
 geoaesthesia
 gript
 giterne
-grapelet
+grapelet 1
 gelosine
 gooney
 gynecomaniac
@@ -2764,7 +2764,7 @@ gonangia
 grover
 gekkonidae
 glaister
-girling
+girling 1
 genteelize
 gelating
 gentiana 1
@@ -4833,7 +4833,7 @@ glacieret
 gouaches
 garookuh
 glacierist
-graphemes
+graphemes 1
 glaciers
 gowns
 gymnothorax
@@ -9999,7 +9999,7 @@ goodsome
 geophysically
 graveness
 gargled
-gelatinify
+gelatinify 1
 galago
 grignet
 gaslike
