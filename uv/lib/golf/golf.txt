@@ -5733,7 +5733,7 @@ grandmother
 gantline
 gallant 1
 gaskins
-globoseness
+globoseness 1
 guanyl
 grieshuckle
 girasols
