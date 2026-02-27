@@ -5155,7 +5155,7 @@ gratins
 greek
 glomerulitis
 genetmoil
-gazania
+gazania 1
 glazers
 geldant
 grouch
@@ -10178,7 +10178,7 @@ gastropathy
 granulated
 greed 1
 governable
-gloriana
+gloriana 1
 goosery
 genethliac
 garages 1

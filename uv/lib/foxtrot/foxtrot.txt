@@ -3945,7 +3945,7 @@ fraple
 ferrocyanogen
 falsehearted
 furrowed
-fireboxes
+fireboxes 1
 fluoresces
 flemish
 fluoranthene
@@ -9833,7 +9833,7 @@ fordicidia
 flaggers
 fissileness
 frib
-fruitage
+fruitage 1
 faden
 fribbler
 friskle
