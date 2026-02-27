@@ -13036,7 +13036,7 @@ blackberry
 bucking
 bordering
 bemantle
-balangay
+balangay 1
 bolster
 blousing
 borders
@@ -14954,7 +14954,7 @@ blastful
 baedeker
 breastwood
 beset
-brisses
+brisses 1
 bicamerist 1
 breastwork
 beterschap
@@ -16027,7 +16027,7 @@ bowess
 bronchotyphus
 bronchotome
 belucki
-bronchotracheal
+bronchotracheal 1
 bozos
 bespectacled
 brindle
@@ -16477,7 +16477,7 @@ brushwood
 brushwork 1
 burdock
 beecher
-brusker
+brusker 1
 brushlet
 bendayed
 burrhel
@@ -17631,7 +17631,7 @@ bullfighting
 burgomastership
 burgundy
 bishareen
-burhel
+burhel 1
 bombic
 bisson
 bisie
