@@ -9097,7 +9097,7 @@ frisure
 fenlander
 frankist
 forespeaker
-featy
+featy 1
 falsification
 fossilise
 flourisher
