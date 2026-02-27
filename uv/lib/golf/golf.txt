@@ -430,7 +430,7 @@ growl
 garnishees
 grapeys
 galeage 1
-goober
+goober 1
 gair
 guests
 glucic
