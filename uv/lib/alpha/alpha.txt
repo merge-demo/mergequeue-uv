@@ -2873,7 +2873,7 @@ anilopyrine
 amidopyrine
 adaptation
 achromatin
-amygdales
+amygdales 1
 acrophonetic
 avengingly
 acrophonic
@@ -13407,7 +13407,7 @@ astringe
 aristulate
 archphylarch
 ankusha
-ankushes
+ankushes 1
 anomala
 anlace
 albinistic
@@ -22756,7 +22756,7 @@ ahurewa
 anglewing
 arhar
 antipedobaptism
-auditorially
+auditorially 1
 australianize
 arras
 antispast

@@ -4821,7 +4821,7 @@ fullwords
 faena
 fellowshipping
 falsen
-forties
+forties 1
 footbath
 frostbiter
 fibrinuria
