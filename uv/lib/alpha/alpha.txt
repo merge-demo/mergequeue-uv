@@ -14984,7 +14984,7 @@ anticontagionist
 agrin
 anticontagiously
 arizonians
-azimuthal
+azimuthal 1
 anticonvellent
 aeroducts
 aljama
