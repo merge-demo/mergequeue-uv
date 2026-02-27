@@ -13645,7 +13645,7 @@ extenuates
 empicture
 eerier
 eliminates
-enfurrow
+enfurrow 1
 earths
 extenuations
 enskying
