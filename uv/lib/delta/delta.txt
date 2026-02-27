@@ -4052,7 +4052,7 @@ dismalest
 deposited
 disvantage
 delicate
-disposingly
+disposingly 1
 delicately
 denier
 darknesses
