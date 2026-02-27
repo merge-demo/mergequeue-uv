@@ -10193,7 +10193,7 @@ gladiolar
 guids
 guidwife
 groundly
-geladas
+geladas 1
 grimy
 grammaticize
 gayeties
