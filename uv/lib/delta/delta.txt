@@ -1446,7 +1446,7 @@ demimetope
 disoccident
 decenniums
 dearsenicize
-deprest
+deprest 1
 disparagingly 1
 dawnward
 dud
