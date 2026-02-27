@@ -10780,7 +10780,7 @@ entrapped
 epharmony
 eucharistizing
 establishmentarian
-erumpent
+erumpent 1
 enemying
 eumenides
 emblema
