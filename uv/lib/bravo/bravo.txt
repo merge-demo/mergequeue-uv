@@ -1747,7 +1747,7 @@ biome
 biretta
 bedraggling
 balustrading
-bulbed
+bulbed 1
 bivvy
 bakshis
 bam
