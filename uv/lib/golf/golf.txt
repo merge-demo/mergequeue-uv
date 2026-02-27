@@ -2634,7 +2634,7 @@ gonocalyx
 gynecia
 galores
 grayware
-graal
+graal 1
 glims
 gymnosophist
 genethlic
@@ -6674,7 +6674,7 @@ glossopyrosis
 generational
 gong
 gekkota
-gild
+gild 1
 gundelow
 gynodioeciously
 gunsman
@@ -9506,7 +9506,7 @@ groutier
 gaes
 gins
 gyving
-gyroscope
+gyroscope 1
 groupwise
 garvey
 glenn
