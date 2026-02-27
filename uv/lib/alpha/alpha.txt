@@ -10865,7 +10865,7 @@ acholias
 arctiidae
 ammonion
 ammonitess
-ammonitic
+ammonitic 1
 ammonitoidea
 affording
 ammocoetiform
