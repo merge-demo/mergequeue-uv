@@ -14891,7 +14891,7 @@ antilogs
 anticipative
 attensity
 activeness 1
-antinepotic
+antinepotic 1
 abnormality
 ateleological
 antliate
