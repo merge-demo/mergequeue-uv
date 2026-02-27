@@ -5995,7 +5995,7 @@ dilettantist
 discommoded
 dept
 diaschistic
-depth
+depth 1
 dispraise
 droopy
 devitation
