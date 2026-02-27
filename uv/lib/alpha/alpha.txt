@@ -12590,7 +12590,7 @@ antitrust
 alants
 anergies
 agley
-anglicization
+anglicization 1
 antidorcas
 anes
 anesone
@@ -16541,7 +16541,7 @@ apabhramsa
 axletree
 appress
 acutorsion
-apache
+apache 1
 attained
 apadana
 astronautic
