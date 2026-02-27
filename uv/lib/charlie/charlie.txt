@@ -3570,7 +3570,7 @@ curricular
 capuan
 capuched
 chortler
-counterbase
+counterbase 1
 conacaste
 chiropterygious
 capucine
@@ -3665,7 +3665,7 @@ caviler
 caramboling
 cardsharper
 comicotragedy
-caramelisation
+caramelisation 1
 coillen
 caramelise
 conveyorize
@@ -9223,7 +9223,7 @@ chasubled
 cooper
 categorize
 chataka
-chatchka
+chatchka 1
 croziers
 coterminal
 chatchke
@@ -10283,7 +10283,7 @@ chichicaste
 chontawood
 chichimec
 chichipe
-carvyl
+carvyl 1
 corometer
 charlies
 calctuffs
@@ -17405,7 +17405,7 @@ coawareness
 coaxal
 coaxation
 coaxes
-coaxy
+coaxy 1
 cordigeri
 coaxial
 cellarman
@@ -30064,7 +30064,7 @@ curriculum
 cabbagewood
 complicating
 cycloconium
-crout
+crout 1
 cumbersomely
 croute
 cotice
@@ -30939,7 +30939,7 @@ crotched
 culturize
 cleanliness
 culturological
-culturologically
+culturologically 1
 cavaliero
 cardinalitial
 caroid
