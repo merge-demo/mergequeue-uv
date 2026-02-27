@@ -556,7 +556,7 @@ fainest
 ff
 fertilely
 figless
-frim
+frim 1
 foxwood
 federative
 fallectomy
@@ -2117,7 +2117,7 @@ furane
 fluorometric
 freightliner
 fellation
-fluttersome
+fluttersome 1
 fellations
 frowningly
 fireplow
@@ -3227,7 +3227,7 @@ fougade
 flexibly
 forgoes
 fusicoccum
-ficklest
+ficklest 1
 ficklety
 forel
 fosterable
@@ -5887,7 +5887,7 @@ flinted
 forehear
 ferrichloride
 furnishings
-flocculent
+flocculent 1
 flushes
 flaxier
 flocker
@@ -5996,7 +5996,7 @@ folkways
 foreplays 1
 fawny
 fluidrachm
-fidia
+fidia 1
 fireproof
 foliole
 fictioneering
@@ -6832,7 +6832,7 @@ fructifier
 forger
 foliaged
 firetower
-fustigator
+fustigator 1
 fussify
 flipjack
 fourhanded
@@ -10303,7 +10303,7 @@ fustilugs
 futurely
 farriers
 fingerleaf
-fingering
+fingering 1
 frondeurs
 forecourt
 feaze
