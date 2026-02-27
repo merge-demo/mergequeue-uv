@@ -941,7 +941,7 @@ cal
 calaba
 crawfoot
 calabari
-cornices
+cornices 1
 collared
 colpotomy
 calorically
@@ -21723,7 +21723,7 @@ condoled
 condolence
 calyptro
 condolent
-cruiserweight
+cruiserweight 1
 cuna
 condoler
 coaxers
@@ -22139,7 +22139,7 @@ cigala
 confreres
 circumcorneal
 cupric
-crocheters
+crocheters 1
 colpeurynter
 confrerie
 cass
@@ -22698,7 +22698,7 @@ counterevidence
 cryosphere
 conquerer
 conquerers
-conqueress
+conqueress 1
 conquering
 coenure
 conquerment
@@ -29015,7 +29015,7 @@ crimelessness
 crozzly
 crimeproof
 chickasaws
-charlatanship
+charlatanship 1
 charlemagne
 ceorlish
 codiscoverer
@@ -30874,7 +30874,7 @@ chabouks
 cancels
 croakiness
 culpae
-capreoline
+capreoline 1
 cathop
 cosmologygy
 culpeo
@@ -30999,7 +30999,7 @@ cumbrian
 conferee
 chnuphis
 cherkesser
-counterflight
+counterflight 1
 clinchpoop
 cumbrous
 correctrice
