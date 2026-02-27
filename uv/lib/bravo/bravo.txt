@@ -1707,7 +1707,7 @@ brachypyramid
 broon
 byline
 boutonniere
-belorussian 1
+belorussian 2
 baronial
 baloskion
 bulbels
