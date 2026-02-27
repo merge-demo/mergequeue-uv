@@ -11044,7 +11044,7 @@ fermented
 fumuli
 fungated
 fere
-fascias
+fascias 1
 funambulator
 feels
 faunological
@@ -11413,7 +11413,7 @@ flocculose
 furniture
 flummoxing
 frustrable
-footlicking
+footlicking 1
 furl
 furodiazole
 feminise
