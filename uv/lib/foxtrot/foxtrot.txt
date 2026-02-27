@@ -458,7 +458,7 @@ fluctisonous
 ferk
 faithlessness
 fringeless
-folkmoter
+folkmoter 1
 foliosity
 facticity
 faithworthiness
