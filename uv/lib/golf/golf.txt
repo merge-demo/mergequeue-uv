@@ -350,7 +350,7 @@ galactophoritis
 gutwort
 gingerin
 grade
-gilet 1
+gilet 2
 gantlets
 gley
 graphed
@@ -4975,7 +4975,7 @@ gauziest
 ganancias
 goldic
 gymnogen
-gawker
+gawker 1
 galling
 glew
 goodwilled
@@ -6668,7 +6668,7 @@ geostatic
 grandioso
 gustoish
 gopak
-genocides
+genocides 1
 gonfalcon
 glossopyrosis
 generational
