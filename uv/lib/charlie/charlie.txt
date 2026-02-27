@@ -30979,7 +30979,7 @@ collocal
 chromoplastid
 cumber
 consumptiveness
-congeries
+congeries 1
 cumberer
 cumbering
 cumberland
