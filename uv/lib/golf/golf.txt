@@ -2202,7 +2202,7 @@ gombo
 graphanalysis
 granitiferous
 granes
-guarantying
+guarantying 1
 ghosting
 guberniya
 ganophyllite
@@ -2634,7 +2634,7 @@ gonocalyx
 gynecia
 galores
 grayware
-graal
+graal 1
 glims
 gymnosophist
 genethlic
@@ -3861,7 +3861,7 @@ glossophorous
 gonococcic
 gigelira
 gaolerness
-gold
+gold 1
 granthi
 gell
 galanas
@@ -6674,7 +6674,7 @@ glossopyrosis
 generational
 gong
 gekkota
-gild
+gild 1
 gundelow
 gynodioeciously
 gunsman
@@ -9506,7 +9506,7 @@ groutier
 gaes
 gins
 gyving
-gyroscope
+gyroscope 1
 groupwise
 garvey
 glenn
@@ -9664,7 +9664,7 @@ grueled
 ghana
 guipures
 gamogony
-gibuses
+gibuses 1
 gowdie
 gastroscopy
 gascons
@@ -10127,7 +10127,7 @@ galavanting
 glia
 gipsyhead
 guffer
-glaziers
+glaziers 1
 guggle
 glottologic
 gaby
