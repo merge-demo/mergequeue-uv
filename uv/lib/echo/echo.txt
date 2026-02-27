@@ -3979,7 +3979,7 @@ exilarch
 embroglio
 empale
 empalers
-eyepit
+eyepit 1
 empall
 excurvation
 empanelling
@@ -11751,7 +11751,7 @@ esc
 eveque
 episcopise
 ensurer
-easier
+easier 1
 entoptoscopy
 examinee
 emoted
