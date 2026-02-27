@@ -6360,7 +6360,7 @@ emily
 elucidates
 exciters
 eulamellibranchiate
-enseem
+enseem 1
 exuberant
 enserfed
 ekamanganese
@@ -10459,7 +10459,7 @@ emplume
 electrodialytic
 erstwhile
 etypic
-ensheath
+ensheath 1
 equiponderation
 elytrtra
 enoplan
@@ -11459,7 +11459,7 @@ ectonephridium
 erinnic
 effectually
 electrotypist
-escapades
+escapades 1
 empyreumatize
 electrolytes
 eductions
