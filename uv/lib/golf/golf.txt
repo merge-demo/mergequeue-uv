@@ -350,7 +350,7 @@ galactophoritis
 gutwort
 gingerin
 grade
-gilet 1
+gilet 2
 gantlets
 gley
 graphed
@@ -6668,7 +6668,7 @@ geostatic
 grandioso
 gustoish
 gopak
-genocides
+genocides 1
 gonfalcon
 glossopyrosis
 generational
