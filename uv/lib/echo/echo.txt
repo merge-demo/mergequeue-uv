@@ -452,7 +452,7 @@ equivoke
 exurbia
 emperize
 embiodea
-explicated
+explicated 1
 engager
 escapements
 erf
@@ -3424,7 +3424,7 @@ ephoral
 erinize
 embassadress
 exumbral
-elaine
+elaine 1
 embassy
 eustomatous
 eriometer
@@ -3655,7 +3655,7 @@ electrocuted
 ennoic
 epichilium
 enwheeled
-embrectomy
+embrectomy 1
 emergency
 epiphloedic
 embrica
@@ -3836,7 +3836,7 @@ emerge
 ecart
 escapology
 emerged
-edulcorated 1
+edulcorated 2
 echinostomiasis
 emergentness
 espriella
@@ -3968,7 +3968,7 @@ emotioned
 emotionize
 eugregarinida
 epimeron
-emolument
+emolument 1
 elevator
 emotivity
 epileptology
@@ -10680,7 +10680,7 @@ eugenie
 eugenism
 epikouros
 elatedness
-erioglaucine
+erioglaucine 1
 elaterins
 effetmen
 enterpriser
