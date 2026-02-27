@@ -1112,7 +1112,7 @@ flatwoods
 foes
 forbade 1
 familiarizing
-fervidness
+fervidness 1
 fusileer
 frizzling
 farthing
@@ -3629,7 +3629,7 @@ filibusterers
 faecula
 fourble
 fomento
-freddie
+freddie 1
 ferroinclave
 fence
 forehalf 1
@@ -7818,7 +7818,7 @@ florette
 fluidimeter
 fashes
 frounces
-forenote
+forenote 1
 fastness
 feltyflier
 fleamy
