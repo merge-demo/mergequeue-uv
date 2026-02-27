@@ -4024,7 +4024,7 @@ apprise
 athodyd
 antacids
 anastomus
-allegiantly
+allegiantly 1
 administrates
 antihemolytic
 administrational
@@ -4719,7 +4719,7 @@ abush
 aetheling
 antedawn
 allographic
-acrotisms
+acrotisms 1
 alphard
 aeluropodous
 aenach
@@ -8870,7 +8870,7 @@ antigropelos
 allochroic
 anticosmetic
 aeolodicon
-allochthon
+allochthon 1
 antlike
 askant
 ambilevous
@@ -14807,7 +14807,7 @@ anadipsic
 antiscii
 abbreviations
 arricciatos
-ascribes
+ascribes 1
 antichance
 animatograph
 amperes 1
@@ -16380,7 +16380,7 @@ antiwedge
 ariidae
 alyssums
 arcos
-amazes
+amazes 1
 anguidae
 adamancy
 antizoea
@@ -17770,7 +17770,7 @@ aortorrhaphy
 azoxybenzene
 asphyxiate
 avoke
-antipole
+antipole 1
 arthrosclerosis
 astrier
 anchoring
@@ -20915,7 +20915,7 @@ asbestos 1
 ancylostomum
 atm
 axiniform
-antihuman
+antihuman 1
 aldamine
 amylophosphate
 arthritic
