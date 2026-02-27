@@ -15088,7 +15088,7 @@ dekabrist
 dufrenite
 delicti
 domitian
-dedicative
+dedicative 1
 dumping
 deficits
 dogeless
@@ -18011,7 +18011,7 @@ diplex
 denitrated 1
 disgallant 1
 doroscentral
-damping
+damping 1
 dulcitude
 dacryocystalgia
 duteous
