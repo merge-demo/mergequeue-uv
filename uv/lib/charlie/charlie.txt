@@ -1680,7 +1680,7 @@ carboxylating
 caloric
 caloriduct
 calorie
-claytonia
+claytonia 1
 cele
 curlicuing
 circ
@@ -12930,7 +12930,7 @@ cocurrent
 chutnees
 chuttie
 chutzpa
-carbanion
+carbanion 1
 chutzpanik
 concentre
 cuesta
