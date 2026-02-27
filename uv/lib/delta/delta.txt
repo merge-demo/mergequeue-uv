@@ -2238,7 +2238,7 @@ diocesan
 droschken
 derrire
 dosages
-dispensate
+dispensate 1
 drongo
 drivescrew
 drch
@@ -4510,7 +4510,7 @@ destruction
 demiculverin
 dodgiest
 divulsed
-demidistance
+demidistance 1
 diaphane
 diabetogenic
 downtrend
@@ -4580,7 +4580,7 @@ demineralized
 demonstrators
 dumontia
 demineralizes
-deadhouse
+deadhouse 1
 demineralizing
 demiofficial
 demiorbit
@@ -6720,7 +6720,7 @@ deoxidant
 desiderative
 drunkard
 disorderliness
-darnex
+darnex 1
 diatribes
 desiderta
 diptycas
@@ -7170,7 +7170,7 @@ diductor 1
 drawboring
 deerkill
 desulphurize
-depauperate
+depauperate 1
 depullulation
 diplospondylism
 doves
@@ -7709,7 +7709,7 @@ darwinism
 devilfish
 decelerators
 devily
-detail
+detail 1
 deviling
 deeded
 devilishness 1
@@ -8093,7 +8093,7 @@ dispersedye
 dhritarashtra
 disables
 disembowelled
-drawable
+drawable 1
 dhurra
 detrimentalness
 definienda
@@ -9030,7 +9030,7 @@ dicoumarin
 disembed
 dissemilative
 depravate
-deaconhood
+deaconhood 1
 dermatoplast
 dicoumarol
 dicranaceous
