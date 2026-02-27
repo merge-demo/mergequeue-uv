@@ -9971,7 +9971,7 @@ edibleness
 endophagy
 erythromelalgia
 esugarization
-endowers
+endowers 1
 entonement
 entreatment
 esurient
