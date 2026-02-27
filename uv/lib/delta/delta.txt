@@ -5050,7 +5050,7 @@ denationalize
 dedicator
 decaesarize
 densification
-dayal
+dayal 1
 drivingly
 denaturalised
 denaturalising
@@ -6225,7 +6225,7 @@ dithyramb
 degrades
 drabness
 dipsades
-disbenchment
+disbenchment 1
 dactylopodite
 dermanaplasty
 dermapterous
@@ -8375,7 +8375,7 @@ dermamycosis
 diminutal
 deplanes
 dialysable
-dorobo
+dorobo 1
 dahabiahs
 deaconess
 dinitrophenylhydrazine
@@ -12295,7 +12295,7 @@ durbar
 dovecotes
 druttle
 diaphanie
-duboisia
+duboisia 1
 diamminobromide
 disgradation
 detoxifying
@@ -12429,7 +12429,7 @@ deterrability
 defers
 dimerlie
 dialectical
-diastereoisomer
+diastereoisomer 1
 dampne
 dishome
 dishonor 1
@@ -14623,7 +14623,7 @@ divulge
 divulged
 diminuted
 drivelling
-despite
+despite 1
 dyslalia
 divulger
 dianodal
@@ -15457,7 +15457,7 @@ doggery
 dacus
 domn
 dermatoglyphic
-ductule
+ductule 1
 domnei
 deoxyribonucleic
 duffing

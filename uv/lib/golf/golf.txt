@@ -825,7 +825,7 @@ gambogian
 gombroons
 grangerise
 genistin
-granulater
+granulater 1
 groutiest
 geonegative
 gamboled
@@ -7111,7 +7111,7 @@ gasterotrichan
 granger
 gambrels
 gopherberry
-guernsey
+guernsey 1
 gopherberries
 garbologist
 goatherd
@@ -9572,7 +9572,7 @@ gymnostomata
 galactopoiesis
 giftlike
 geophones
-granted
+granted 1
 gazed
 gynecologist
 galactoscope
