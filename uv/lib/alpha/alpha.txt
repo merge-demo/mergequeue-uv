@@ -9308,7 +9308,7 @@ adjustive
 alouette
 androsphinxes
 alout
-acierate
+acierate 1
 alliterations
 aloxite
 alpacas
@@ -17015,7 +17015,7 @@ apocalyptically
 auslander
 amizilis
 anamorphose
-acouophonia
+acouophonia 1
 agonia
 apjohnite
 ables
@@ -18819,7 +18819,7 @@ arabian
 archetypes
 attributive
 asymmetrically
-archettos
+archettos 1
 auroauric
 assever
 assumptiveness
@@ -19746,7 +19746,7 @@ arithmography
 azulejos
 aggressiveness
 arithmomancy
-arivaipa
+arivaipa 1
 amphoral
 anhistous
 amortized
@@ -24639,7 +24639,7 @@ aralkyl
 ambassador
 antischolastically
 avena
-agouti
+agouti 1
 acclaim
 accessibility
 arbutuses
