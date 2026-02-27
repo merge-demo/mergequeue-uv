@@ -1987,7 +1987,7 @@ feedstock
 fibroserous
 floccosely
 firespout 1
-forerake
+forerake 1
 fitched
 flossflower
 fortunel
