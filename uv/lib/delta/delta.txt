@@ -188,7 +188,7 @@ diel
 diaplasma
 daedalous
 divulgated
-defilable
+defilable 1
 decontamination
 daemony
 deforesting
@@ -1826,7 +1826,7 @@ discovered
 demagnetiser
 debauched
 debauchedly
-dobson
+dobson 1
 debauchees
 debauches
 diphenylguanidine
@@ -3836,7 +3836,7 @@ deindividualize
 diplocephaly
 darryl
 dodecatheon
-dronishly
+dronishly 1
 demodocus
 diremption
 dentalised
@@ -8614,7 +8614,7 @@ dyskinetic
 deathin
 douanier
 dyarchy
-deadbeat
+deadbeat 1
 dehydrant
 drainless
 duckhouse
@@ -12285,7 +12285,7 @@ disgospel
 diminuendos
 disgospelize
 disgracer
-dipicrate
+dipicrate 1
 disenchanted
 delicacies
 debarks
@@ -12486,7 +12486,7 @@ dumky
 discontinuations
 disconform
 disillusionising
-disdeceive
+disdeceive 1
 decimalize
 disillusionments
 diaphanousness
@@ -13816,7 +13816,7 @@ dindle
 distain
 distaining
 denumeration
-diatomic
+diatomic 1
 dryers
 doable
 delphinin
@@ -14172,7 +14172,7 @@ disunion
 drolly
 download
 disunites
-duffs
+duffs 1
 dithyrambic
 disunity
 disprofess
@@ -14917,7 +14917,7 @@ dehumidifiers
 destructive
 dodecarch
 dodecasemic
-decadi
+decadi 1
 dodecasyllable
 discretionarily
 demonising
@@ -16524,7 +16524,7 @@ dodderer
 dithiol
 distrix
 ditheism
-diagrammatic
+diagrammatic 1
 demoralise
 draftings
 diesinker
