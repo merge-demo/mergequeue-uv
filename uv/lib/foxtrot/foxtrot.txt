@@ -3242,7 +3242,7 @@ fuchsone
 forefend
 flunkies
 falern
-forewarnings
+forewarnings 1
 flinthearted
 flameholder 1
 fictioner
