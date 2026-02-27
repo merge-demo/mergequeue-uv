@@ -5892,7 +5892,7 @@ flushes
 flaxier
 flocker
 filaree
-fasts
+fasts 1
 frogged
 furandi
 flockiest
