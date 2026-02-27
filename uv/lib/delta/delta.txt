@@ -3243,7 +3243,7 @@ defenestrating
 danae
 dayside
 derricking
-defenseless
+defenseless 1
 defenselessness
 devitalising
 dolichostylous
@@ -11920,7 +11920,7 @@ disease
 dentalisation
 defectively
 deductile
-diseased
+diseased 1
 deifying
 dissyllabify
 dianoetic
