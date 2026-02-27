@@ -11461,7 +11461,7 @@ downcomes
 dissuasive
 discodactylous
 damasse
-dispositive
+dispositive 1
 deskbound
 dyotheletic
 dividuous
