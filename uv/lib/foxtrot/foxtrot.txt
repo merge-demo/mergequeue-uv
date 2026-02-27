@@ -224,7 +224,7 @@ flatway
 facular
 fruitworm
 feverroot
-fluorotype
+fluorotype 1
 faculous
 firelock
 filibranch
@@ -995,7 +995,7 @@ formyl
 fondlings
 forritsome
 fontanges
-filmsets
+filmsets 1
 foreshop
 fulmina
 fucuses
@@ -7692,7 +7692,7 @@ forehooves
 forpit
 foreboding 1
 fissidentaceae
-foreween
+foreween 1
 fogramite
 flarfish
 falsified
@@ -11585,7 +11585,7 @@ fusionist
 fusions
 freity
 floscular 1
-fissional
+fissional 1
 foregallery
 fussbudgety
 fevers
