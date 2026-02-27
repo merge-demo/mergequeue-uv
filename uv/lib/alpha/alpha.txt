@@ -3684,7 +3684,7 @@ artist
 acuating
 anureses
 arrant
-assurge
+assurge 1
 adenosine
 abepithymia
 adenotyphus
