@@ -2843,7 +2843,7 @@ front
 flossie
 freeways
 fizzy
-fatigating
+fatigating 1
 fortyfives
 flirtingly
 faithed
@@ -5015,7 +5015,7 @@ flashtester
 faith 1
 fissive
 filmcard
-flaneur
+flaneur 1
 frescoes
 functioned
 foremartyr
