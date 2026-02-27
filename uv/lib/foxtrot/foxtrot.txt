@@ -243,7 +243,7 @@ finify
 fetials
 fopship
 fannel
-fostress
+fostress 1
 fleshed
 formalising
 furmint
@@ -339,7 +339,7 @@ fayumic
 fricandelle
 francisc
 fearsomely
-forkful
+forkful 1
 failingness
 facultative
 foresound
@@ -1311,7 +1311,7 @@ feculency 1
 fulvous
 flear
 flirtation
-fluoridised
+fluoridised 1
 flookan
 flout
 fallowness
@@ -2932,7 +2932,7 @@ fumier
 flagonless
 flyboy
 fingian
-farinha
+farinha 1
 furazane
 frustums
 fencing
@@ -3015,7 +3015,7 @@ foreordained
 flirts
 flaggelation
 forbs
-furiousness
+furiousness 1
 fossiform
 faintheartedness
 filmiform
@@ -4233,7 +4233,7 @@ fallotomy
 firelight
 flab
 feistier
-felicide
+felicide 1
 footsies
 fowls
 farinosely
@@ -6712,7 +6712,7 @@ frontrunner
 frustrations
 folksily
 flame
-felted
+felted 1
 fogless
 frounced
 fogo
@@ -7054,7 +7054,7 @@ fimbriae
 functioning
 foodful
 fulfilled
-fribby
+fribby 1
 fatalities
 foreknow
 flowk
@@ -9287,7 +9287,7 @@ fistulization
 frowsiness
 filthiest
 frances
-figurants
+figurants 1
 forcelet
 franchisees
 foulings
