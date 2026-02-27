@@ -11244,7 +11244,7 @@ eely
 exceptionably
 effulgently
 excisemanship
-enclothe
+enclothe 1
 evangelistary
 enthronements
 earflower
