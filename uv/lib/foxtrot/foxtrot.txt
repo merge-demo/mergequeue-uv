@@ -1315,7 +1315,7 @@ fluoridised
 flookan
 flout
 fallowness
-frictionally
+frictionally 1
 fineleaf
 foramination
 falser
