@@ -4297,7 +4297,7 @@ dysarthria
 dissemble
 draggletail
 delver
-dernful
+dernful 1
 disannexation
 demasculinise
 divisors
