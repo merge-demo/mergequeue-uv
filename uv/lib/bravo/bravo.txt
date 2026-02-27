@@ -12590,7 +12590,7 @@ bonnwis
 bionomist
 bonorum
 bisector
-bagatelle
+bagatelle 1
 bills
 brainchild
 blackballer
@@ -15405,7 +15405,7 @@ bandannaed
 bertha
 boloing
 bechauffeur
-bichir
+bichir 1
 bimonthly
 babajaga
 brigs
