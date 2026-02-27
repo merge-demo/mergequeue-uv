@@ -5471,7 +5471,7 @@ ferreter
 flora
 funniness
 frequentness
-flemishes
+flemishes 1
 flensed
 frillers
 flensers
