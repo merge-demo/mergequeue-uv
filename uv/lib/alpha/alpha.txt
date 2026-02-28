@@ -23474,7 +23474,7 @@ autocomplexes
 augh
 aughts
 algebraists
-astringer
+astringer 1
 augite
 augitophyre
 autotomies
