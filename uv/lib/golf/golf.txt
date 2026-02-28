@@ -1698,7 +1698,7 @@ guadagnini
 gester 1
 gluts
 galactopoietic
-geitjie
+geitjie 1
 gelatination
 gastightness
 grudgefulness
