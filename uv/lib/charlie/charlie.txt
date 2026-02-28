@@ -9583,7 +9583,7 @@ cheechaco
 corrodent
 coutumier
 cheeful
-chanfrin
+chanfrin 1
 cheefuller
 cheek
 cheekbone
