@@ -991,7 +991,7 @@ edaphology 1
 etymological
 edaphon
 ecchymotic
-expositors 1
+expositors 2
 endorsing
 excel
 enquiring
