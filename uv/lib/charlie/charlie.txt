@@ -26994,7 +26994,7 @@ counterinsurgency
 critteria
 cartilaginean
 compartmentize
-counterpaned
+counterpaned 1
 counterparry
 counterpart
 counterpassant
