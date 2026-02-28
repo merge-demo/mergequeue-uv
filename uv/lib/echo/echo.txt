@@ -10092,7 +10092,7 @@ eschatocol
 ebb
 erythrosin
 etheostominae
-elytroid
+elytroid 1
 exasperates 1
 esthetician
 encrinitic
