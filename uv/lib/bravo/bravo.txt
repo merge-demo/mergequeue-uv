@@ -15341,7 +15341,7 @@ blisterwort
 bohorok
 boisterously
 brieflessly
-besieges
+besieges 1
 briefness
 bleeds
 bedstaves
