@@ -12588,7 +12588,7 @@ embezzlement
 exochorion 1
 enterocolitis
 eaglestone
-escheat
+escheat 1
 earthpeas
 embrawn
 epsomite
