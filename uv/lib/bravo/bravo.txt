@@ -12650,7 +12650,7 @@ boodled
 braccia
 bestowable
 boogeymen
-bane
+bane 1
 bellical
 buhrs
 bec
