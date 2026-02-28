@@ -6623,7 +6623,7 @@ cebur
 cecal
 checkmated
 crewellery
-cecally
+cecally 1
 checkweigher
 cacafugo
 cecidomyiidae
