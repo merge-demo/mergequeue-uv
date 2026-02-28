@@ -6573,7 +6573,7 @@ entendre
 epidermophytosis
 extravagating
 exciter
-entente
+entente 1
 erythorbate
 ethnohistorian
 epipolism
