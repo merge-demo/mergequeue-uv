@@ -9707,7 +9707,7 @@ ghostlier
 gruffier
 greased
 gyarung
-gallinuline
+gallinuline 1
 geminal
 grugous
 gasoliery
