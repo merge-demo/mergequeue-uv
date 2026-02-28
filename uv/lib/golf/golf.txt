@@ -9319,7 +9319,7 @@ grolieresque
 gruffness
 granulative
 glycerole
-guessing
+guessing 1
 goldenback
 giggles
 gamesome
