@@ -7241,7 +7241,7 @@ centroids
 cyanophilous
 conte
 centromere
-centromeric
+centromeric 1
 centronote
 couth
 centropomidae
