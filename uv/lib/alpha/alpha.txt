@@ -10561,7 +10561,7 @@ automatism
 antibacchic
 algaesthesia
 amyelic
-amyelous
+amyelous 1
 agt
 aposematically
 alphamerical
