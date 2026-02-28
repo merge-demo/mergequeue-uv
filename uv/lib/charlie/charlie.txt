@@ -5578,7 +5578,7 @@ censused
 cofactor
 catalyses
 catalyte
-cyclopean
+cyclopean 1
 cabalassou
 cyniatria
 consigne
