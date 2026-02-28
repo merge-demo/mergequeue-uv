@@ -4581,7 +4581,7 @@ excrementitious
 eleazar
 enchancement
 empeoplement
-enchanted
+enchanted 1
 eschara
 eunuchise
 euthycomic
