@@ -8870,7 +8870,7 @@ excursively
 embossers
 eelworms
 enteron
-erewhile
+erewhile 1
 erewhiles
 ergane
 ethnohistorically
