@@ -2080,7 +2080,7 @@ boilinglike
 bivittate
 banovina
 banquet
-blindish
+blindish 1
 bardiest
 banqueting
 beseem
