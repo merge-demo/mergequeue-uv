@@ -7916,7 +7916,7 @@ experimentation
 epileny
 endopeptidase
 extensible
-exotospore
+exotospore 1
 entomeric 1
 exuccous
 exarchic
