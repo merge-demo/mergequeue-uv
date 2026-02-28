@@ -12251,7 +12251,7 @@ deliberativeness
 dossiere
 demoniacism
 drubbing
-desegregate
+desegregate 1
 dysadaptation
 demoralizing
 dispeoplement
