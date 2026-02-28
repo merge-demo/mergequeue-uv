@@ -17346,7 +17346,7 @@ apheliotropically
 anatiferous
 apostleship
 abaisse
-apostleships
+apostleships 1
 appeacher
 agmas
 ares
