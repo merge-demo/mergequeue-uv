@@ -4583,7 +4583,7 @@ carnivals
 carnivoral
 carnivore
 carnivorism
-cordialness
+cordialness 1
 carnivorously
 comart
 carnivorousness
