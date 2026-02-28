@@ -7011,7 +7011,7 @@ frison
 frittered
 fondues
 forestress
-frescoist
+frescoist 1
 fictionistic
 fusees
 fichtelite
