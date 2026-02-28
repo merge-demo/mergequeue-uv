@@ -5847,7 +5847,7 @@ flotas
 floatier
 flustrum
 fulcrums
-flidge
+flidge 1
 fitz
 farine
 fertilisable 1
