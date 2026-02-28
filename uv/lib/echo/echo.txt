@@ -10219,7 +10219,7 @@ ensporia
 externalisation
 exoticity
 eavesdropped
-equisized
+equisized 1
 eclair
 emotionalistic
 euphausia
