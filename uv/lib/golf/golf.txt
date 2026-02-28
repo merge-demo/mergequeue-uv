@@ -2267,7 +2267,7 @@ gangrel
 grandpaternal 1
 glamoury
 gigantoblast
-gunroom
+gunroom 1
 gammoning
 giust
 glazily
