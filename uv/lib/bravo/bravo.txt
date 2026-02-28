@@ -3202,7 +3202,7 @@ basidia
 bangash
 basidigital 1
 bouteselle
-bangwaketsi
+bangwaketsi 1
 barotactic
 breadth
 ballerinas
