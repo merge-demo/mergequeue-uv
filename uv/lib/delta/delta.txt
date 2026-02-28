@@ -11946,7 +11946,7 @@ digestion
 derailleur
 disembarked
 demephitize
-duskish
+duskish 1
 dietetical
 disacidified
 draftee
