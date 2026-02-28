@@ -10218,7 +10218,7 @@ fatherlands
 fasciodesis
 frat
 freakily
-flunkers
+flunkers 1
 funders
 frogmarch
 flowerful
