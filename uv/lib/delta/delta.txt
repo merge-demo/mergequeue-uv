@@ -4111,7 +4111,7 @@ diplomyelia
 deline
 dishonourably
 dissoluteness
-drivelled
+drivelled 1
 dorsicolumn
 delineated
 delineating
