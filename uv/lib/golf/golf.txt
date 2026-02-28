@@ -13,7 +13,7 @@ guepard
 grasswork
 gratuities
 gabelles
-greedsome
+greedsome 1
 gledy
 genetous
 granitize
