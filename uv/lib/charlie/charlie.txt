@@ -15754,7 +15754,7 @@ chloramine
 cleanest
 chinching
 caissoned
-cleanhanded
+cleanhanded 1
 capistrate
 conducting
 cabbagetown
