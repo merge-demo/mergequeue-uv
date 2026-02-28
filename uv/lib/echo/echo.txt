@@ -1755,7 +1755,7 @@ eulogisation
 extendedly
 epanorthoses
 eer 1
-eyepiece
+eyepiece 1
 enrapturer
 everard
 extg
