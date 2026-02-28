@@ -3191,7 +3191,7 @@ declaratives
 defectlessness
 delegatory
 dislevelment
-descendible
+descendible 1
 despiteous
 dulcineas
 determinant
