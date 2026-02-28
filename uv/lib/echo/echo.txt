@@ -608,7 +608,7 @@ excommenge
 exostoses
 eciliate 1
 emporia
-emetics
+emetics 1
 eurypharynx
 euro
 eciton
