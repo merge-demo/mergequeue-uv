@@ -1868,7 +1868,7 @@ anacoluthia
 athlothete
 acestes 1
 acceleration
-adstrict
+adstrict 1
 anthropomorphological
 advanced
 acetable
