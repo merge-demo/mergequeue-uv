@@ -11372,7 +11372,7 @@ disunifying
 dispensating
 dissociably
 discoherent
-decays
+decays 1
 dittany
 disciform
 diplopods
