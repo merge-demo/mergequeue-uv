@@ -21749,7 +21749,7 @@ abbroachment
 antiberiberin
 antiphonic 1
 assents
-asseour
+asseour 1
 assert
 asserta
 albanenses
