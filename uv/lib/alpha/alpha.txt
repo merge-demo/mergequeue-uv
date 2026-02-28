@@ -2535,7 +2535,7 @@ abolitionism
 atypical
 aconitums 1
 artmobile
-aposiopeses
+aposiopeses 1
 abjudicating
 acontia
 aircraftman
