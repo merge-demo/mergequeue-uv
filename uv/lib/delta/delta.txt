@@ -6511,7 +6511,7 @@ dactylogram
 demounted
 disanney
 dynamited
-demonist
+demonist 1
 doxological
 descends
 deviability
