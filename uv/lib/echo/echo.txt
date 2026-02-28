@@ -8056,7 +8056,7 @@ entertaining
 enteroscope
 epiphanise
 ealdormen
-epiphanous
+epiphanous 1
 expansiveness
 expiator
 embarred
