@@ -66,7 +66,7 @@ abadengo
 aerially
 argusfish
 arcadian
-abaiser
+abaiser 1
 abbadide
 avery
 androgynic
