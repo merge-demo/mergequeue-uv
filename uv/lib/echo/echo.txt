@@ -846,7 +846,7 @@ enchair
 exocarps
 elong
 ectodermosis
-ennuyante
+ennuyante 1
 erastianize
 exfetation
 epizootiologically
