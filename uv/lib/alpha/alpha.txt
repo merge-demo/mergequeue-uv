@@ -24942,7 +24942,7 @@ arrondissements
 awareness
 auribromide
 anovular
-awaruite
+awaruite 1
 awat
 atomizing
 awater
