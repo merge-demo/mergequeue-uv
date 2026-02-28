@@ -12382,7 +12382,7 @@ appropre
 adenomeningeal
 amblyopic 1
 allumine
-atheroma
+atheroma 1
 armoniac 1
 amebiasis
 aortolith
