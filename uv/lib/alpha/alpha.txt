@@ -6032,7 +6032,7 @@ appomattox
 ambiversive
 animalcular
 anatomists
-arioso
+arioso 1
 agility
 auxotrophic 2
 antemortal
