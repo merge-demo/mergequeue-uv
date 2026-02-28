@@ -3765,7 +3765,7 @@ aeroscepsis
 accessorial
 anticipatively
 archivolt
-adhesion
+adhesion 1
 adhesive
 architraved
 ananke
