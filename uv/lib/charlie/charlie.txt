@@ -27270,7 +27270,7 @@ complies
 countrified
 cephalanthous
 chlorophane
-countrifiedness
+countrifiedness 1
 countryfiedness
 countryfolk
 closewing
