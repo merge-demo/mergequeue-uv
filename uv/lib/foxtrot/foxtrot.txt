@@ -6535,7 +6535,7 @@ flasque
 foetid
 floccose
 frailish
-flutist 2
+flutist 3
 frenchman
 firebed
 forecover 1
