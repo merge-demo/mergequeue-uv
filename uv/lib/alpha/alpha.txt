@@ -6770,7 +6770,7 @@ airboat
 airboats
 anomal
 airbrained
-affluents
+affluents 1
 almagra
 amyelinic
 adipocerous 1
