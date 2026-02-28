@@ -8193,7 +8193,7 @@ foghorn
 forewings
 flossed
 frenate
-furtherances
+furtherances 1
 faldetta
 fribblery
 foothils
