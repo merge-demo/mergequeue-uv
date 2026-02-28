@@ -5168,7 +5168,7 @@ anamorphism
 aetomorphae
 almohade
 amphierotism
-aeviternal
+aeviternal 1
 anatomicomedical
 af
 avernal
