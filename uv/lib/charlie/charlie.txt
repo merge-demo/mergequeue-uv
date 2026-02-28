@@ -21787,7 +21787,7 @@ concentive
 corresponsive
 conductometric
 conductor
-conductorial
+conductorial 1
 commoners
 crossbearer
 conductus
