@@ -5216,7 +5216,7 @@ dis
 dellenite
 demicoronal
 dryopes
-distortedness
+distortedness 1
 decursion
 denominate
 decadent
