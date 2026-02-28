@@ -1106,7 +1106,7 @@ flatiron
 foretime
 farsightedness
 flooring
-forkedly
+forkedly 1
 faciocervical
 flatwoods
 foes
