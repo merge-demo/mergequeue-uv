@@ -116,7 +116,7 @@ grosz
 goatfish
 gadroon
 giher
-ginete
+ginete 1
 gastly
 gastrostomy
 gazogene
