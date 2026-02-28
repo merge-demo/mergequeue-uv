@@ -15262,7 +15262,7 @@ dollymen 1
 dolliness
 depainting
 dollishly
-dollishness
+dollishness 1
 dolcian
 dipleiodoscope
 damnonii
