@@ -713,7 +713,7 @@ grapholite
 grossify
 gooranut
 galvanised
-germanistic
+germanistic 1
 gawn
 gladdest
 grissen
