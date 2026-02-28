@@ -1617,7 +1617,7 @@ fawned
 fretize
 fleaseed
 fellmongery
-fawners
+fawners 1
 frowned
 facet
 faxed
