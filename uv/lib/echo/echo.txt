@@ -10885,7 +10885,7 @@ esclandre
 exsolve
 exrupeal
 emmetropia
-eutectic
+eutectic 1
 extensor
 embryoplastic
 esthetic
