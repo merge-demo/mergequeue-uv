@@ -234,7 +234,7 @@ dinnertime
 dorsula
 displanting
 diff
-discrepencies
+discrepencies 1
 duotoned
 discorrespondency
 distrest
