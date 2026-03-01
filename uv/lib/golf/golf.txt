@@ -4657,7 +4657,7 @@ gaonic
 gasconade
 gummosis
 gamori
-gentrice
+gentrice 1
 gironny
 graphophobia
 gyronny
