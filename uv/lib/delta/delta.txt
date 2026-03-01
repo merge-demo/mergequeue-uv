@@ -2996,7 +2996,7 @@ dyadically
 democratist
 dodecamerous
 daguerreotypist
-deedier
+deedier 1
 deonerate
 decillion
 deedily
