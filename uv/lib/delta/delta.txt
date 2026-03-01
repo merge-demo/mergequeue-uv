@@ -5502,7 +5502,7 @@ divestitures
 dilatation
 deoxyribonucleotide
 disportive
-diaphragm
+diaphragm 1
 dogtrot
 dudishness
 dolichos
