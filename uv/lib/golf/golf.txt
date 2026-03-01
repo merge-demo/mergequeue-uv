@@ -2056,7 +2056,7 @@ gutterize 1
 gavels
 gavia
 geminiform
-gio
+gio 1
 grapheme
 gaynesses
 grippit
