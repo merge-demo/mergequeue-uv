@@ -708,7 +708,7 @@ encephalolith
 employing
 enspell
 equidistant
-eidently
+eidently 1
 enode
 eyefuls
 enterozoa
