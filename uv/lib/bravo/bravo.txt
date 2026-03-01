@@ -8265,7 +8265,7 @@ bookling
 burden
 byzantinism
 berberine
-botte
+botte 1
 belittlement
 bigas
 bigbury
