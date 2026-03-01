@@ -5964,7 +5964,7 @@ amaranthaceous
 aggregative
 aggregatively
 aggregator
-alepole
+alepole 1
 ackman
 amatol
 antiroll
