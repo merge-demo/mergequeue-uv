@@ -9257,7 +9257,7 @@ dementis
 dochmii
 dieresis
 dihydrazone
-disemic
+disemic 1
 debite
 digitalic
 dateableness
