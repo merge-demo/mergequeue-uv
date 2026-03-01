@@ -10478,7 +10478,7 @@ forwearying
 fordid
 flegm
 fluitant
-fatness
+fatness 1
 frutescent
 frostings
 fanzine
