@@ -3642,7 +3642,7 @@ gro
 gastroenterological
 gluconeogenic
 goldest
-gauntleted
+gauntleted 1
 gillnetting
 gonadotropic
 genearch
