@@ -149,7 +149,7 @@ galipot
 graniteware
 gasthauser
 ghettoized 1
-glunimie
+glunimie 1
 galactosyl
 galvanosurgery
 gybe
