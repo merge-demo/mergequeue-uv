@@ -10296,7 +10296,7 @@ guitarists 1
 grossularite
 galvanomagnet
 gigantically
-gorges
+gorges 1
 gridded
 galliard
 gulpier
