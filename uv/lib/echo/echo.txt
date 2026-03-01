@@ -4684,7 +4684,7 @@ entablement
 energico
 euphoniad
 embezzled 1
-electrophonically
+electrophonically 1
 encyclics
 extroversive
 eisodic
