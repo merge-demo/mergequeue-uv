@@ -271,7 +271,7 @@ abdications
 anthropomorphizing
 adze
 amphistyly
-aphenoscope
+aphenoscope 1
 abditory
 apelet
 abdom
