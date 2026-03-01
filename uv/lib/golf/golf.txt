@@ -6638,7 +6638,7 @@ globulysis
 glycosuria
 gossans
 gurglingly
-gruss
+gruss 1
 grittiest
 gyrodyne
 gateman
