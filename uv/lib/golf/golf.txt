@@ -2878,7 +2878,7 @@ grasschat
 gasmetophytic
 generatrices
 gileadite
-galvvanoscopy
+galvvanoscopy 1
 gummosity
 gibbing
 genuflex
