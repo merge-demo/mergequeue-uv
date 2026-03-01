@@ -27290,7 +27290,7 @@ clap
 countrywomen
 chymification
 countship
-coupage
+coupage 1
 coupe
 couped
 cicrumspections
