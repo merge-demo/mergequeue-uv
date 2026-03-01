@@ -16379,7 +16379,7 @@ detray
 downturn
 downturns
 domy
-downway
+downway 1
 disdain
 drunkery
 downwardly
