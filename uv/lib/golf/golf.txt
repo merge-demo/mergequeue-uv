@@ -1486,7 +1486,7 @@ grotesque
 garner
 gasher
 galaginae
-glumly
+glumly 1
 gunmaker
 gymnarchus
 gluconate
