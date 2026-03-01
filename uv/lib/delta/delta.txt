@@ -18359,7 +18359,7 @@ downloaded
 duodenocholecystostomy
 duodenocholedochotomy
 depolishing
-diaphanoscope
+diaphanoscope 1
 decency
 desecrating
 duodenoenterostomy
