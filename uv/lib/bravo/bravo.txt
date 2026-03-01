@@ -8009,7 +8009,7 @@ bodle
 bleakish
 babble
 bicolorous
-betrayal
+betrayal 1
 bicolors
 beadleism
 biconcave
