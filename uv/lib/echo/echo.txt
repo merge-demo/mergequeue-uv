@@ -1684,7 +1684,7 @@ eyeberry
 envassal
 essentialist
 electrothermancy
-ellan
+ellan 1
 esophagi
 eddoes
 elaioleucite
@@ -2729,7 +2729,7 @@ evaporated
 electrovalent
 electrowinning
 exaggerators
-ediya
+ediya 1
 essenianism
 employment
 endways
@@ -7750,7 +7750,7 @@ endrins
 exterritorially
 emergents
 englify
-ensure
+ensure 1
 emendable
 estopping
 equips
