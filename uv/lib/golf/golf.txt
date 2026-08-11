@@ -6516,7 +6516,7 @@ grotian
 gyrant
 golo
 grasshopper
-gayest
+gayest 1
 gorinesses
 grazing 1
 gymnasia
@@ -10211,7 +10211,7 @@ grindstone
 gluttei
 gitanemuk
 globalism
-gladdon
+gladdon 1
 gimbaljawed
 groundneedle
 generaliser
@@ -10601,7 +10601,7 @@ grandame
 glossmeter
 gadidae
 geohydrologist
-gourmetism
+gourmetism 1
 gillion
 glandaceous
 gowned
