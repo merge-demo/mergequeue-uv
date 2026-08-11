@@ -5144,7 +5144,7 @@ budworm
 before
 biotic
 boomorah
-broadside
+broadside 1
 beggarer 1
 buccinatory
 bagpod
@@ -5293,7 +5293,7 @@ backstab
 beneficiaire
 buddy
 brachytic
-barretries
+barretries 1
 boltonia
 beforested
 breathlessness
