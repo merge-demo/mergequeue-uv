@@ -1680,7 +1680,7 @@ carboxylating
 caloric
 caloriduct
 calorie
-claytonia
+claytonia 1
 cele
 curlicuing
 circ
@@ -2600,7 +2600,7 @@ cephalodynia
 cowskins
 counterdisengage
 cryptocrystallization
-columnar
+columnar 1
 cyamelide
 castile
 caned
@@ -12930,7 +12930,7 @@ cocurrent
 chutnees
 chuttie
 chutzpa
-carbanion
+carbanion 1
 chutzpanik
 concentre
 cuesta
