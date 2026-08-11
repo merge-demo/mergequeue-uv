@@ -11582,7 +11582,7 @@ abvolts
 albinoism
 anacephalize
 amanitin
-aiery
+aiery 1
 amylopsin
 anacharis
 arriver
@@ -15169,7 +15169,7 @@ antepagment
 antiexpressionist
 antiexpressive
 ammocoetoid
-antiextreme
+antiextreme 1
 archidiaconal
 allocochick
 asplenieae
@@ -17342,7 +17342,7 @@ apostille
 argos
 antagonist
 aglycosuric
-apheliotropically
+apheliotropically 1
 anatiferous
 apostleship
 abaisse
@@ -24205,7 +24205,7 @@ autology
 autological
 antiatheist
 alalite
-autoluminescent
+autoluminescent 1
 ahistoric
 axseeds
 azyme
