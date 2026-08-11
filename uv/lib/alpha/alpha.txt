@@ -4448,7 +4448,7 @@ antipuritan
 adust
 adustion
 apsides
-amang
+amang 1
 aldoxime
 aftmost
 adv
@@ -15802,7 +15802,7 @@ antiphysicalness
 appropriament
 alkane
 acenesthesia
-agujon
+agujon 1
 asport
 antiphona
 aminobarbituric
