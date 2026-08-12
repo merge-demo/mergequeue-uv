@@ -7347,7 +7347,7 @@ epapophysis
 easeled
 evangeliser
 exosphere
-expulsing
+expulsing 1
 exile
 erinaceus
 eunomian 1
@@ -13070,7 +13070,7 @@ embassador
 eutaxite
 explications
 ergotisms
-ende
+ende 1
 ecchondrosis
 electability
 egotizing
