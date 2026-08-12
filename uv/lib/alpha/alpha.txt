@@ -2212,7 +2212,7 @@ acetophenine
 acrestaff
 archangel
 achromatization
-achromatize
+achromatize 1
 achromatocyte
 agarum
 arctalian
@@ -14962,7 +14962,7 @@ anticonfederative
 anticonformity
 antiaristocracy
 annulled
-amidohexose
+amidohexose 1
 antilogy
 avyayibhava
 avicular
