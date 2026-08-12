@@ -8416,7 +8416,7 @@ fullerboard
 folksy
 formalesque
 foistiness
-flatfootedly
+flatfootedly 1
 freshmanic
 formulize
 fierier
