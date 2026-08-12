@@ -5809,7 +5809,7 @@ encored
 eyot
 excedent 1
 ependymitis
-ectropionizing
+ectropionizing 1
 englutted
 edeoscopy
 enceintes
@@ -12055,7 +12055,7 @@ enlivenment 1
 excoriation
 enwwove
 excoriations
-epiclike
+epiclike 1
 electrostenolytic
 enforcible
 elflike
@@ -12447,7 +12447,7 @@ exhorts
 exaltations
 exhumate
 egoisms
-elusoriness
+elusoriness 1
 esquire
 evacuative
 eighteen
