@@ -3249,7 +3249,7 @@ backoff
 blushfulness
 basilicate 1
 basilicock
-basilics
+basilics 1
 bohairic
 basilidian
 bursitises
