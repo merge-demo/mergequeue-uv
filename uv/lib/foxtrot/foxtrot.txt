@@ -2117,7 +2117,7 @@ furane
 fluorometric
 freightliner
 fellation
-fluttersome
+fluttersome 1
 fellations
 frowningly
 fireplow
@@ -8286,7 +8286,7 @@ fractious
 feists
 flump
 forehoof
-frontlets
+frontlets 1
 forgiving
 flintify
 forgoer
@@ -9913,7 +9913,7 @@ fistfuls
 falconry
 filoplumaceous
 forkbeard
-fleabane
+fleabane 1
 formated
 feceris
 fortuitism
@@ -10854,7 +10854,7 @@ franciscan
 frousy
 fabledom
 faddism
-fulgidity
+fulgidity 1
 flaite
 functionally
 fantasizing
