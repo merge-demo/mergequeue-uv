@@ -1593,7 +1593,7 @@ depayse
 daikering
 disinfector
 deadwork
-deaerated
+deaerated 1
 dorsum
 deaf
 dynamogenous
