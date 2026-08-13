@@ -9259,7 +9259,7 @@ cagelings
 chattelhood
 cacks
 constructiveness
-chattelism
+chattelism 1
 chattelizing
 crassis
 chattels
