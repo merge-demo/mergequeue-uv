@@ -9060,7 +9060,7 @@ gimcracky
 grilse
 glossitis
 grimaced
-gulose
+gulose 1
 genoese 1
 gis
 goloch
