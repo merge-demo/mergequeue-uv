@@ -2478,7 +2478,7 @@ distinctly
 decisional
 decisions
 decisis
-dribbled
+dribbled 1
 delays
 dixy
 decisively
@@ -4063,7 +4063,7 @@ dynam
 dustoor
 dominance
 delice
-dualistic
+dualistic 1
 dogcarts
 delicense
 desiccant
@@ -8180,7 +8180,7 @@ drapeability
 druidism
 didodecahedral
 digitalism
-desertful
+desertful 1
 disconvenient
 dedentition
 dicotylous
@@ -9090,7 +9090,7 @@ discernable
 devotedly
 depickle
 decongestants
-dunted
+dunted 1
 desynaptic
 detraction
 downgyved
@@ -10588,7 +10588,7 @@ diplogenesis
 diagonalize
 deseam
 dirges
-doxographical
+doxographical 1
 dittology
 displants
 domestic
