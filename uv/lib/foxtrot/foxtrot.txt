@@ -9655,7 +9655,7 @@ fubbed
 fromage
 foredivine
 fletcher
-fregata
+fregata 1
 faunist
 freyalite
 frondent
