@@ -2499,7 +2499,7 @@ fatales
 ferociously
 flashforward
 fumarin
-fastus
+fastus 1
 fingers
 forehorse
 flerry
