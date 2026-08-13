@@ -1849,7 +1849,7 @@ drugmaker
 decriminalize
 degeneratively
 defeudalize
-debilitates
+debilitates 1
 debilitative
 dermatoglyphics
 devirginator
@@ -2547,7 +2547,7 @@ declares
 dimaris
 daneworts
 diplococcus
-declaring
+declaring 1
 dwined
 declasses
 dorn
@@ -4337,7 +4337,7 @@ demal
 diode
 dysacousia
 demanded
-dissyllabized
+dissyllabized 1
 dilos
 dewlap
 descrier
@@ -8007,7 +8007,7 @@ doxology
 doggess
 dietetically
 diagenetic
-dezymotize
+dezymotize 1
 dezincify
 dotations
 detonability
@@ -10338,7 +10338,7 @@ disnature
 denudation
 deducement
 desilverizer
-downtrends
+downtrends 1
 delightsomeness
 discophore
 dioptra
@@ -11109,7 +11109,7 @@ downflow
 disarrays
 disarranges
 do
-discernibility
+discernibility 1
 dulled
 dorhawk
 dotless
@@ -11312,7 +11312,7 @@ discases
 discasing
 discatter
 derailments
-dethroned
+dethroned 1
 damolic
 disced
 devaraja
@@ -12176,7 +12176,7 @@ depthometer
 diacetine
 dha
 deadlily
-disfavoured
+disfavoured 1
 discursion
 disfeaturement
 dialogised
@@ -12302,7 +12302,7 @@ detoxifying
 dappleness
 disincrustion 1
 decousu
-disgrading
+disgrading 1
 discreating
 disgruntlement
 driblet
@@ -12606,7 +12606,7 @@ diapiric
 downmost
 dragoness
 dechenite
-disintoxication
+disintoxication 1
 dankness
 daud
 dysyntribite
@@ -12994,7 +12994,7 @@ diastematomyelia
 disorients
 dysoxidation
 dollarfishes
-disoxygenation
+disoxygenation 1
 dioscuri
 debacchate
 dight
@@ -17034,7 +17034,7 @@ dextrine
 dekagram
 dearer
 diabolicalness
-doberman
+doberman 1
 dressline
 dumas
 divinityship
