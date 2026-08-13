@@ -3787,7 +3787,7 @@ giarre 1
 gastaldo
 governing
 geobios
-gallantry
+gallantry 1
 gibber
 gaslightness
 gibberellin
