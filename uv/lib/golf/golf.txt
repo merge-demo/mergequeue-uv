@@ -4941,7 +4941,7 @@ glaired
 geomaly
 gangway
 guvacoline
-gallimatia
+gallimatia 1
 gradational
 grasping
 gynecocentric
