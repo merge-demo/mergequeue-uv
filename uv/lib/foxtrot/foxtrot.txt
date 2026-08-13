@@ -1501,7 +1501,7 @@ fastens
 fermentatory
 fetchingly
 florizine
-fanaticism
+fanaticism 1
 foresend
 faulx
 flaunter
