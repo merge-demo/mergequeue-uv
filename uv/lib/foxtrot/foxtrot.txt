@@ -4292,7 +4292,7 @@ fastuous
 firk
 febrifuges
 filacer
-facsimilist
+facsimilist 1
 fleers
 fibroma
 fiancee
@@ -7774,7 +7774,7 @@ fabliau
 fogyish
 fondouk
 financial
-forejudging
+forejudging 1
 florentines
 funfairs
 feudalized
