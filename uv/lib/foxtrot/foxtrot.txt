@@ -8143,7 +8143,7 @@ fellable
 fanegadas
 fundmonger
 forcepses
-forevers
+forevers 1
 flectionless
 foregate
 forthwith
