@@ -16230,7 +16230,7 @@ diploidion
 dividualism
 destuff
 duplicated
-deplete
+deplete 1
 dendroceratina
 depurant
 dacryocystoblennorrhea
