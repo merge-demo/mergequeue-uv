@@ -12114,7 +12114,7 @@ amour
 anathematised
 administer
 alchemize
-antambulacral
+antambulacral 1
 accepter
 artou
 aegeriid
