@@ -1400,7 +1400,7 @@ fatnesses
 furaciousness
 fatshedera
 foodlessness
-forges
+forges 1
 fatsia
 formy 1
 fatsoes
