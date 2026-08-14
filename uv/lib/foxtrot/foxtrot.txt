@@ -3084,7 +3084,7 @@ forfeitableness
 festology
 familiarizes
 fooler
-foreclosing
+foreclosing 1
 feroce
 fishtails
 flitter
