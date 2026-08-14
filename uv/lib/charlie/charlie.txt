@@ -1157,7 +1157,7 @@ chinnam
 cranioclasis
 calcspars
 cotwal
-crunches
+crunches 1
 chilopoda
 calculability
 counterrampant
