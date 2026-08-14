@@ -11370,7 +11370,7 @@ chlorophylligerous
 communional
 cunili
 chlorophyllin 1
-counselful
+counselful 1
 chlorophyllite
 chlorophylloid
 chlorophyllous
