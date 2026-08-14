@@ -7792,7 +7792,7 @@ excitative
 entassment
 enlighteningly
 emblematic
-epigastraeum
+epigastraeum 1
 electropneumatic
 expectably
 elementality
