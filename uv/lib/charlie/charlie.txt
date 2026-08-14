@@ -15885,7 +15885,7 @@ cleidorrhexis 1
 chiripa
 cleidotripsy
 cleistocarp
-cleistocarpous
+cleistocarpous 1
 chirker
 cleistogamously
 cringe
