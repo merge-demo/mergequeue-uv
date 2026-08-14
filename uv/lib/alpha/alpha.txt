@@ -17862,7 +17862,7 @@ aegopodium
 allegorically
 aerify
 appreciators
-aerologies
+aerologies 1
 anaclisis
 artfulness
 aceship
