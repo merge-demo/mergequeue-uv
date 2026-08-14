@@ -13026,7 +13026,7 @@ curcumas
 craniates
 curies
 cyanophile
-cyanophoric
+cyanophoric 1
 cyanopia
 colloquize
 chresard
