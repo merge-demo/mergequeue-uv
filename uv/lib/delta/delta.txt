@@ -11809,7 +11809,7 @@ discriminatively
 despatch
 discriminativeness
 discriminator
-dirigibility
+dirigibility 1
 diegueno
 disembrangle
 deferrals
