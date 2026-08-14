@@ -7886,7 +7886,7 @@ galik
 graved
 grammatistical
 gratinated
-giglots
+giglots 1
 grammatite
 gumbo
 glossotherium

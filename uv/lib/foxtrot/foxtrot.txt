@@ -9951,7 +9951,7 @@ floatingly
 fishworks
 frumentum
 flatlanders
-flanche
+flanche 1
 frantic
 frigiddaria
 favor
