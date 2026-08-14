@@ -5592,7 +5592,7 @@ geochemist
 geophysical
 gefilte
 gownlet
-glottogonist
+glottogonist 1
 gervais
 gurges
 garuda
@@ -6303,7 +6303,7 @@ gobylike
 gnashed
 gobinism
 griece
-gymnasial
+gymnasial 1
 guidsire
 gyrons
 guijo
@@ -9262,7 +9262,7 @@ guts 1
 grizzly
 gunsel
 gaugeably
-grizzling
+grizzling 1
 groaned
 ghosts
 groanful
