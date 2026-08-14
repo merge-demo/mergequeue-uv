@@ -10588,7 +10588,7 @@ diplogenesis
 diagonalize
 deseam
 dirges
-doxographical
+doxographical 1
 dittology
 displants
 domestic
