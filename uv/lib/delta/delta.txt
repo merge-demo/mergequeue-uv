@@ -4769,7 +4769,7 @@ demodectic
 disarticulate
 detachably
 deaved
-diadochokinetic
+diadochokinetic 1
 dromophobia
 dejected
 diabolatry
@@ -6251,7 +6251,7 @@ dermatic
 dermatitises
 drupe
 dermatoconiosis
-dermatodynia
+dermatodynia 1
 demisability
 disown
 distrainer
@@ -9326,7 +9326,7 @@ diewise
 domoid
 diezeugmenon
 depolymerizing
-dread
+dread 1
 disorders
 dif
 dodos
@@ -11415,7 +11415,7 @@ deadbeats 1
 doctrinize
 disclass
 deuterogenesis
-dermorhynchous
+dermorhynchous 1
 disclimax
 dialogite
 drossing
@@ -12823,7 +12823,7 @@ devolutive
 deliquiesce
 demiparadise
 dismals
-dithalous
+dithalous 1
 disman
 dismantles
 darksome
@@ -16323,7 +16323,7 @@ drubs
 duratives
 dorothy
 daffled
-depictured
+depictured 1
 dials
 dumpiness
 dysanalyte
