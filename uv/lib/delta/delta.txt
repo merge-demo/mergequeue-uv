@@ -919,7 +919,7 @@ detractors
 devaporate
 descendentalistic
 duplicities
-deflective
+deflective 1
 dapifer
 devitalization
 dipnoi
@@ -5887,7 +5887,7 @@ dryopians
 deforceor
 depredate
 depersonalised
-depredated
+depredated 1
 definitiveness
 diagnoses
 deleting
