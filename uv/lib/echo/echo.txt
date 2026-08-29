@@ -13070,7 +13070,7 @@ embassador
 eutaxite
 explications
 ergotisms
-ende
+ende 1
 ecchondrosis
 electability
 egotizing
