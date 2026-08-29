@@ -275,7 +275,7 @@ favi
 filander
 fadmongering
 felsic
-flooders
+flooders 1
 fairly
 folk
 fotive
@@ -5432,7 +5432,7 @@ fleecy
 flyblown
 forager 1
 fashion
-frolickly
+frolickly 1
 forseek
 fitchery
 fusobteria
@@ -11184,7 +11184,7 @@ forcipal
 fireplugs
 frenzelite
 forepaling
-flinter
+flinter 1
 fluorophosphate
 fullgrownness
 frontiersman
