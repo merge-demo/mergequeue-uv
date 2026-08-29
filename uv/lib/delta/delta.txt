@@ -9486,7 +9486,7 @@ decline
 dinornithidae
 digesting
 dodecadrachm
-digestively
+digestively 1
 dural
 digestiveness
 dipteroi
@@ -15486,7 +15486,7 @@ durra
 donation
 donatist
 dentiloguy
-drag
+drag 1
 daymen
 diapery
 disbands
