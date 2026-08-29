@@ -1360,7 +1360,7 @@ duelli
 definer
 dauphine
 dauphines
-drooping
+drooping 1
 drawboard
 drapable
 dauri
@@ -6655,7 +6655,7 @@ deplump
 draughtswoman
 desertification
 dodecahedric
-deserting
+deserting 1
 drabs
 diastimeter
 desertlessly
@@ -8827,7 +8827,7 @@ dyspraxia
 dibbing
 deliberates
 deterring
-drachmas
+drachmas 1
 dibbled
 degame
 dybbuk

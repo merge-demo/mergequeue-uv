@@ -986,7 +986,7 @@ calaminaris
 callipygian
 calamine
 cervidae
-calamines
+calamines 1
 cypseline
 confiscating
 cuirie
@@ -23262,7 +23262,7 @@ consubstantiating
 culmen
 consubstantive
 consuetudinal
-consul
+consul 1
 consulage
 coloclysis
 chirurgical
@@ -24149,7 +24149,7 @@ carfax
 cantinier
 conviction
 convictional
-civilizatory
+civilizatory 1
 cibarium
 convictions
 convictism
