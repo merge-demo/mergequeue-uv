@@ -3203,7 +3203,7 @@ enamoring
 esperantist
 enamelwork
 emmeleia
-elopes
+elopes 1
 elops
 elicit
 emission
@@ -12296,7 +12296,7 @@ errorless
 exemptions
 ephemerist
 eviternal
-excerp
+excerp 1
 exemptive
 exendospermous
 environal
