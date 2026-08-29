@@ -271,7 +271,7 @@ gnomon
 glauconiferous
 groser
 gigavolt
-gummata
+gummata 1
 galiongee
 gainliness
 gamings
@@ -2575,7 +2575,7 @@ gaiterless
 giveaways
 generalized 1
 graywall
-guv
+guv 1
 gauchely
 gabbards
 gristy
@@ -4770,7 +4770,7 @@ gomarian
 giuseppe
 gamboised
 groundwork
-grouseless
+grouseless 1
 gosther
 giveable
 gederite
@@ -5592,7 +5592,7 @@ geochemist
 geophysical
 gefilte
 gownlet
-glottogonist
+glottogonist 1
 gervais
 gurges
 garuda
@@ -6303,7 +6303,7 @@ gobylike
 gnashed
 gobinism
 griece
-gymnasial
+gymnasial 1
 guidsire
 gyrons
 guijo
@@ -7546,7 +7546,7 @@ goldarns
 gravimeter
 gallycrow
 ganocephalous
-gilaki
+gilaki 1
 galinaceous
 guserid
 greywether
@@ -9262,7 +9262,7 @@ guts 1
 grizzly
 gunsel
 gaugeably
-grizzling
+grizzling 1
 groaned
 ghosts
 groanful
