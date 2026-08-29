@@ -3438,7 +3438,7 @@ ecalcavate
 errand
 exolete
 exemplar
-ecliptic
+ecliptic 1
 embatholithic
 enfiladed
 extradoses
@@ -9458,7 +9458,7 @@ epicism
 erythron 1
 egests
 exegetes
-eschrufe
+eschrufe 1
 escopeta
 euphemistical
 evulgate
