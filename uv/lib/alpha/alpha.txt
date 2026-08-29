@@ -22512,7 +22512,7 @@ alw
 arranging
 atamosco
 azafrin
-atar
+atar 1
 atrociousness
 aggros
 autodidactically
@@ -24992,7 +24992,7 @@ awhape
 awheft
 aganglionic
 antheriferous
-amphitheatric
+amphitheatric 1
 anthroic
 alliterating
 awhile
