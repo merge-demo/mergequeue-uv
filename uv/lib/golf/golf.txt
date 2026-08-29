@@ -2810,7 +2810,7 @@ gathers
 gazettal
 grigris
 gormless
-glottalite
+glottalite 1
 gloiopeltis
 gentiobiose
 guardianess
@@ -4397,7 +4397,7 @@ gambias
 glottitis
 gowdnook
 grindings
-groundhog 1
+groundhog 2
 gink
 goles
 gorgoneia
@@ -6721,7 +6721,7 @@ gonid
 gabeler
 gluttonies
 gynaecologic
-glycolyl
+glycolyl 1
 glimed
 geer
 gride
