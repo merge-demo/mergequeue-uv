@@ -556,7 +556,7 @@ fainest
 ff
 fertilely
 figless
-frim
+frim 1
 foxwood
 federative
 fallectomy
@@ -2117,7 +2117,7 @@ furane
 fluorometric
 freightliner
 fellation
-fluttersome
+fluttersome 1
 fellations
 frowningly
 fireplow
@@ -5887,7 +5887,7 @@ flinted
 forehear
 ferrichloride
 furnishings
-flocculent
+flocculent 1
 flushes
 flaxier
 flocker
