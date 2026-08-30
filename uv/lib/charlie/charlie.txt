@@ -11513,7 +11513,7 @@ chokeys
 camerata
 congenetic
 choker
-coredeemed
+coredeemed 1
 cratonic
 clipsheet
 clinkstone
