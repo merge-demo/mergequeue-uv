@@ -3124,7 +3124,7 @@ gurglet
 grees
 geopolar 1
 grips
-goan
+goan 1
 golandaas
 gooseherd
 germinative
