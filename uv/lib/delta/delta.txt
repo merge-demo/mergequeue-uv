@@ -13460,7 +13460,7 @@ disrest
 disillusionment
 disguiseless
 despotism
-disrobement
+disrobement 1
 dowdiest
 disrober
 douzaine
