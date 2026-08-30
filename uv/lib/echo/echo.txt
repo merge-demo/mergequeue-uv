@@ -6021,7 +6021,7 @@ extravillar
 estafa
 exigence
 electrodesiccate
-electricalness
+electricalness 1
 embolomerism
 electrodynamism
 exhortative
