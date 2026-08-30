@@ -11354,7 +11354,7 @@ equidifferent
 epitrochlear
 equiparate
 evenfall
-ennerve
+ennerve 1
 electroscission
 eupnoeic
 enervative
