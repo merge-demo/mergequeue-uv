@@ -7896,7 +7896,7 @@ expertizing
 extracurial
 edgingly
 emancipist
-enchantresses
+enchantresses 1
 elephancy
 extortionateness
 ecotones
