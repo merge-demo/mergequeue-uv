@@ -13877,7 +13877,7 @@ extradited
 extradomestic
 ecchymoma
 extradosed
-entireties
+entireties 1
 environments
 ectobronchium
 eucalyptus
