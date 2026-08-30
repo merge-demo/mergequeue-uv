@@ -10744,7 +10744,7 @@ flagstaves
 flirter
 fletches
 forgotten 1
-frustum
+frustum 1
 frutage
 faithlessly
 footraces
