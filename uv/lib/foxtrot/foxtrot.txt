@@ -4537,7 +4537,7 @@ fictive
 fissirostrate
 fusser
 fissura
-frugal
+frugal 1
 forwardsearch
 fractionized
 felinophile
