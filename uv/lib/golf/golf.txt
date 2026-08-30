@@ -7294,7 +7294,7 @@ gunl
 goofing
 gamostelic
 garcon
-gassendist
+gassendist 1
 gortonite
 gauffer
 graphiologist
@@ -9540,7 +9540,7 @@ groundkeeper
 glidder
 grumbler
 gleaners
-greenlander
+greenlander 1
 gadaea
 gastrophthisis
 gastrocentrous
@@ -10180,7 +10180,7 @@ greed 1
 governable
 gloriana
 goosery
-genethliac
+genethliac 1
 garages 1
 grovelings
 guido
@@ -10217,7 +10217,7 @@ groundneedle
 generaliser
 grippers
 guzzled
-guile
+guile 1
 gyrectomies
 galluses
 groundsel

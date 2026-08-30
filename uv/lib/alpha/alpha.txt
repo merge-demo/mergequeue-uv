@@ -4024,7 +4024,7 @@ apprise
 athodyd
 antacids
 anastomus
-allegiantly
+allegiantly 1
 administrates
 antihemolytic
 administrational
@@ -8870,7 +8870,7 @@ antigropelos
 allochroic
 anticosmetic
 aeolodicon
-allochthon
+allochthon 1
 antlike
 askant
 ambilevous
@@ -11294,7 +11294,7 @@ amphisbaenoid
 abri
 arts
 apronless
-aleck
+aleck 1
 aik
 antimasks
 animisms
@@ -15680,7 +15680,7 @@ antioxidants
 alderling
 atoneable
 amygdalectomy
-andamentos
+andamentos 1
 aphetic
 alehoof
 adsignify
@@ -20915,7 +20915,7 @@ asbestos 1
 ancylostomum
 atm
 axiniform
-antihuman
+antihuman 1
 aldamine
 amylophosphate
 arthritic
@@ -21845,7 +21845,7 @@ antimeningococcic
 amebas
 assigns
 assilag
-amiced
+amiced 1
 abusious
 assimilates
 assimilating
