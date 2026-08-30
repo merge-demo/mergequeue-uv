@@ -6133,7 +6133,7 @@ euchorda
 expiscating
 enlivener
 elvis
-encina
+encina 1
 erminites
 extremum
 elaterometer
