@@ -2475,7 +2475,7 @@ aforethought
 avile
 acocantherin
 and
-awaredom
+awaredom 1
 acockbill
 alcoholizable
 antireduction
@@ -4579,7 +4579,7 @@ arianists
 alestake
 accrease
 atactic
-argols
+argols 1
 advisees
 autobiology
 advisement
@@ -10511,7 +10511,7 @@ adfrozen
 antisensuous
 amidoazo
 anchoic
-amidofluorid
+amidofluorid 1
 aperulosid
 amidogen
 amidoguaiacol
@@ -11067,7 +11067,7 @@ anonymous
 alaskans
 amounter
 adduction
-amounters
+amounters 1
 amouli
 anathematiser
 apogeic
@@ -11582,7 +11582,7 @@ abvolts
 albinoism
 anacephalize
 amanitin
-aiery
+aiery 1
 amylopsin
 anacharis
 arriver
@@ -12943,7 +12943,7 @@ angiopoietic
 achievement
 agrope
 afraid
-algicide
+algicide 1
 ammeos
 actaeonidae
 ahsan
@@ -17342,7 +17342,7 @@ apostille
 argos
 antagonist
 aglycosuric
-apheliotropically
+apheliotropically 1
 anatiferous
 apostleship
 abaisse
@@ -24205,7 +24205,7 @@ autology
 autological
 antiatheist
 alalite
-autoluminescent
+autoluminescent 1
 ahistoric
 axseeds
 azyme
@@ -24577,7 +24577,7 @@ agedly
 aimable
 argentamine
 availabilities
-aciliate
+aciliate 1
 arthrodynia
 antineutrality
 availed
