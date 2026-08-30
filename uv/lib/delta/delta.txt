@@ -4977,7 +4977,7 @@ dissipate
 deified
 demotists
 duncedom
-dragontail
+dragontail 1
 dephosphorize
 draggled
 diamb
