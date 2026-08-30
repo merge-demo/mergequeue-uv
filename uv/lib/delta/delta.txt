@@ -7516,7 +7516,7 @@ deuteranomaly
 deuteranope
 deuterate
 deuteration 1
-denucleate
+denucleate 1
 demarcator
 desulfurized
 digitalizing
