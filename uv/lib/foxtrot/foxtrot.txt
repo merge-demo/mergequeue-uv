@@ -11029,7 +11029,7 @@ festal
 furzery
 fuming
 foresights
-fora
+fora 1
 filiferous
 fumarate
 flammulated
