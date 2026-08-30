@@ -322,7 +322,7 @@ futureness
 fagaceae
 firesafe
 flamingo
-fessed
+fessed 1
 fittage
 fornicatory
 fplot
