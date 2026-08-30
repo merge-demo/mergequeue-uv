@@ -293,7 +293,7 @@ foxfire
 fledges
 fragmentisation 1
 flanks
-fraenums
+fraenums 1
 forebar
 fistnotes
 flambeed
