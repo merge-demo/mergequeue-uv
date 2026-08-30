@@ -7170,7 +7170,7 @@ diductor 1
 drawboring
 deerkill
 desulphurize
-depauperate
+depauperate 1
 depullulation
 diplospondylism
 doves
