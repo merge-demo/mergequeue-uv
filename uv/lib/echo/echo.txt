@@ -6731,7 +6731,7 @@ epithecal
 evaginable
 emunge
 enuresis
-entertake
+entertake 1
 exstimulate
 exhumed
 eonism
