@@ -755,7 +755,7 @@ badiner
 birt
 badious
 betrays
-betterer
+betterer 1
 bellybutton
 bicentennially
 badland
