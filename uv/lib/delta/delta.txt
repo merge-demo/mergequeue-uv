@@ -4665,7 +4665,7 @@ demissory
 demystify
 deus
 demystification
-demurring
+demurring 1
 dismantle
 demisuit
 dumminess
@@ -8756,7 +8756,7 @@ demimonk
 decime
 distastefully
 dentalgia
-demythologisation
+demythologisation 1
 dichogamy
 diatonic
 doodle
@@ -18010,7 +18010,7 @@ dungon
 diplex
 denitrated 1
 disgallant 1
-doroscentral
+doroscentral 1
 damping
 dulcitude
 dacryocystalgia
