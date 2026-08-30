@@ -3171,7 +3171,7 @@ ghostship
 gutturalizing
 gramoches
 geoscopic
-geosphere
+geosphere 1
 gapless
 guerilla
 geochronologist
