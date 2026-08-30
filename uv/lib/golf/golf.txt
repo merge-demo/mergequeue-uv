@@ -3780,7 +3780,7 @@ gaub 1
 gonging
 genoblastic
 gobbets
-gouvernantes
+gouvernantes 1
 giarra
 gherao
 giarre 1
