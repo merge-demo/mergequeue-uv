@@ -9203,7 +9203,7 @@ almsful
 angevin
 antiaircraft
 almsmen
-acrophonically
+acrophonically 1
 apostematic
 attestative
 almuces
