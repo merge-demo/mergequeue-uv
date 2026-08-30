@@ -3022,7 +3022,7 @@ bartisan
 ballrooms
 barflies
 borts
-buccinum
+buccinum 1
 branglement
 bopping
 burgesses
