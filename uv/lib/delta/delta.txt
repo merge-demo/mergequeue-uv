@@ -4865,7 +4865,7 @@ durrie
 depredationist
 dispersity
 dormmice
-denicotinize
+denicotinize 1
 demagnetized
 devotionary
 dyspeptically
