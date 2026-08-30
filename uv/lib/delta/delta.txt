@@ -8216,7 +8216,7 @@ diaderm
 diadic
 disabusing
 demurrer
-decouples
+decouples 1
 dyadics
 diadkokinesia
 diadochi
