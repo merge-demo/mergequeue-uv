@@ -785,7 +785,7 @@ fanfolds 1
 fluorines
 financing
 flunker
-fanfaronading
+fanfaronading 1
 folkloric
 footworn 1
 fatality
