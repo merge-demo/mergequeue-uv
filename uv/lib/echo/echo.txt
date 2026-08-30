@@ -4574,7 +4574,7 @@ enrol
 ee
 epidiorthosis
 escuela
-enodation
+enodation 1
 excoction
 euphemized
 excrementitious
@@ -6977,7 +6977,7 @@ expressed
 etherializing
 echinodermata
 eugenesic
-electrophototherapy
+electrophototherapy 1
 epipodiale
 excipular
 eying
@@ -7347,7 +7347,7 @@ epapophysis
 easeled
 evangeliser
 exosphere
-expulsing
+expulsing 1
 exile
 erinaceus
 eunomian 1
@@ -13070,7 +13070,7 @@ embassador
 eutaxite
 explications
 ergotisms
-ende
+ende 1
 ecchondrosis
 electability
 egotizing

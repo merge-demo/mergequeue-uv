@@ -4074,7 +4074,7 @@ cardiagraph
 cardiagraphy
 cardial
 cardialgy
-caryl
+caryl 1
 coevals
 centaurian
 cardialgia
@@ -12016,7 +12016,7 @@ chorographical
 criticizable
 cyanacetic
 chinless
-chorographically
+chorographically 1
 commissural
 coronene
 choroidoretinitis
@@ -12483,7 +12483,7 @@ chervonetz
 chromonemal
 coincidences
 chromonematal
-cataphracti
+cataphracti 1
 chromoparous
 chromophage
 chromophane
@@ -16505,7 +16505,7 @@ commercialisation
 cheddite
 cnidosac
 concentring
-cloghaun
+cloghaun 1
 cloghead
 carboxyl
 cowsharn
@@ -17124,7 +17124,7 @@ coadministratrix
 catalyzers
 coadmiration
 cuphead
-carboxylase
+carboxylase 1
 coadmit
 coadmits
 coadmitted
@@ -24568,7 +24568,7 @@ copyboys
 cupelers
 cod
 cakehouse
-characinidae
+characinidae 1
 contagiously
 circulariser
 copybooks
@@ -29168,7 +29168,7 @@ cryogenics
 cloys
 catwalks
 cluniacensian
-clauster
+clauster 1
 costards
 cryological
 cryometry
