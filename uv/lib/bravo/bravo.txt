@@ -10690,7 +10690,7 @@ bogeys
 brandies
 blemmatrope
 brooches
-blandisher
+blandisher 1
 boutell
 buffle
 bacillogenous
