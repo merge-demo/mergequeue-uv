@@ -4821,7 +4821,7 @@ fullwords
 faena
 fellowshipping
 falsen
-forties
+forties 1
 footbath
 frostbiter
 fibrinuria
@@ -9281,7 +9281,7 @@ footmenfootpad 1
 fungologist
 fumarine
 foldwards
-fogrum
+fogrum 1
 foldboats
 fistulization
 frowsiness
@@ -9724,7 +9724,7 @@ fevery
 ficoideae 1
 fretworks
 flexile
-flaccidness
+flaccidness 1
 frenchwomen
 frenetical
 fideicommissioner
