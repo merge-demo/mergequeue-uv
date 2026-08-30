@@ -8025,7 +8025,7 @@ gruesomely
 greenishness
 gambiae
 gloves
-gusted
+gusted 1
 gallocyanine
 gumless
 gettering
@@ -8668,7 +8668,7 @@ grapy
 goopy
 geyser
 glossless
-gateado
+gateado 1
 gritty
 gres
 gymnosoph
