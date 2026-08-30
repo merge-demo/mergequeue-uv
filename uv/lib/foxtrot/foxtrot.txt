@@ -10857,7 +10857,7 @@ faddism
 fulgidity
 flaite
 functionally
-fantasizing
+fantasizing 1
 footholds
 fallings 1
 fossors
