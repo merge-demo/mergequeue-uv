@@ -3208,7 +3208,7 @@ alphabeted
 attributer
 actuality
 actualization
-actualness
+actualness 1
 allochromatic
 axopetal
 adderbolt
