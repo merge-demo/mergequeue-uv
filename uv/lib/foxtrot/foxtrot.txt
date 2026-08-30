@@ -5114,7 +5114,7 @@ forthy
 fireweed
 fishiest
 fainness 1
-flashgun 1
+flashgun 2
 fifteenth
 factitive
 fict
@@ -8449,7 +8449,7 @@ fasels
 fluorinating
 freethinking
 fulminous
-fuliginousness
+fuliginousness 1
 francomania
 fuze
 formating
@@ -10967,7 +10967,7 @@ forgettable
 fink
 fumaroidal
 flappier
-forerunning
+forerunning 1
 faipule
 foreadapt
 forthright

@@ -11040,7 +11040,7 @@ affirmatory
 anguishes
 anthropometer
 archegone
-acroblast
+acroblast 1
 assais
 amorphus
 amort
@@ -14693,7 +14693,7 @@ antinormal
 anthryl
 adelges
 antiaristocratically
-agoraphobia
+agoraphobia 1
 addis
 arrgt
 antiarthritic
@@ -14733,7 +14733,7 @@ acushla
 actorish
 ambulacral
 attractableness
-antisex
+antisex 1
 antiblastic
 adumbral
 abjudication
@@ -17634,7 +17634,7 @@ apostlehood
 appestats
 appetence
 automobilist
-aquotize
+aquotize 1
 appetibleness
 alula
 acinaces
@@ -22306,7 +22306,7 @@ antefixal
 argentoproteinum
 argents
 alamedas
-adrenolysis
+adrenolysis 1
 astriferous
 autosoteric
 abraders

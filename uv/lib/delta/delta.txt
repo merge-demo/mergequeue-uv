@@ -11102,7 +11102,7 @@ drollness
 daturas
 disennui
 disarms
-dishonouring
+dishonouring 1
 disarray
 dictatorial
 downflow
@@ -15527,7 +15527,7 @@ drams
 decrew
 doni
 diopsides
-deliquesced
+deliquesced 1
 disaffection
 disintegrationist
 disvalued
@@ -17255,7 +17255,7 @@ debt
 disseizee
 droghlin
 discrepant
-diathermance
+diathermance 1
 didactic
 discountenancing
 discombobulating 1
