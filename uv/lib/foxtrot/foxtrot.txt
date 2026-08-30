@@ -585,7 +585,7 @@ furmety
 forelocks
 faufel
 forlornity
-fallowist
+fallowist 1
 fardh
 forerunners
 fivefold 1
