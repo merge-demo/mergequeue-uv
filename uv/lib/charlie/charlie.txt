@@ -28980,7 +28980,7 @@ cricothyreotomy
 choosey
 cojuror
 cricothyroidean
-cuneated
+cuneated 1
 crossbowman
 compositions
 chlorinize

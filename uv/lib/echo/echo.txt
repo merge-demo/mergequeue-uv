@@ -638,7 +638,7 @@ excruciatingness
 empiricist
 ecphorable
 embryogeny
-epizoite
+epizoite 1
 eluviating 1
 etwees
 elocute
