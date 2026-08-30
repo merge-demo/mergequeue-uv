@@ -4719,7 +4719,7 @@ abush
 aetheling
 antedawn
 allographic
-acrotisms
+acrotisms 1
 alphard
 aeluropodous
 aenach
@@ -14807,7 +14807,7 @@ anadipsic
 antiscii
 abbreviations
 arricciatos
-ascribes
+ascribes 1
 antichance
 animatograph
 amperes 1
