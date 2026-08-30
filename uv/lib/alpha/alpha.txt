@@ -15220,7 +15220,7 @@ antifibrinolysis
 apostolically
 atomies
 antifire
-anacoenoses
+anacoenoses 1
 amylogens
 askewness
 antiflattering
