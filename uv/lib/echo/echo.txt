@@ -8397,7 +8397,7 @@ exceedable
 englory
 earplug
 espontoon
-enwreathe
+enwreathe 1
 entertain
 ethylenation
 elroquite
