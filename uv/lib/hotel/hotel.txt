@@ -462,7 +462,7 @@ hajml
 hajmlnoet
 hajmp
 hajper
-hajpgto
+hajpgto 1
 hajpux
 hajqiegzl
 hajqyno

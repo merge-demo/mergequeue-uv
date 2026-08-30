@@ -5734,7 +5734,7 @@ gantline
 gallant 1
 gaskins
 globoseness
-guanyl
+guanyl 1
 grieshuckle
 girasols
 gyrolite
