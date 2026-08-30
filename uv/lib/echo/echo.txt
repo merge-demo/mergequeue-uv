@@ -5027,7 +5027,7 @@ encapsule 1
 enfoncee
 encamp
 erogeneity
-eggplants
+eggplants 1
 epithelioblastoma 1
 endogastric
 enders
