@@ -13675,7 +13675,7 @@ attern
 anointment
 anointments
 articulation
-adulterer
+adulterer 1
 astrometrical
 aunt
 absolutization
