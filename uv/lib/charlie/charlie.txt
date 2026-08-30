@@ -29187,7 +29187,7 @@ crownband
 cryoscopy
 colloblast
 candock
-comparator
+comparator 1
 cityless
 chanfron
 colicolitis
