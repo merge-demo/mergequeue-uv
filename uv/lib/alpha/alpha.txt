@@ -1020,7 +1020,7 @@ abstractor
 andorobo
 answerless
 aulacomnium
-abstricted
+abstricted 1
 abstricting
 abstrusest 1
 avulsing
