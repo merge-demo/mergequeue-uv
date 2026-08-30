@@ -1906,7 +1906,7 @@ cuir
 calumnia
 cambric
 cartonnage
-cambricleaf
+cambricleaf 1
 colobus
 curs
 cambridge
