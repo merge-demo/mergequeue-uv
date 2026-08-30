@@ -2881,7 +2881,7 @@ disfurnishment
 deistically
 dugdug
 danais
-doloroso
+doloroso 1
 daedalist
 devotions
 drepanis
@@ -4213,7 +4213,7 @@ delphically
 diversifiable
 disparpling
 dasyurus
-delphin
+delphin 1
 doeskin
 drabbish
 delphine
@@ -9090,7 +9090,7 @@ discernable
 devotedly
 depickle
 decongestants
-dunted
+dunted 1
 desynaptic
 detraction
 downgyved

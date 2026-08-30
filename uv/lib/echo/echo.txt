@@ -286,7 +286,7 @@ erik
 extrametropolitan
 effeminisation
 easterners
-eatability
+eatability 1
 excamb
 erythrocytorrhexis
 emir
@@ -782,7 +782,7 @@ epitheliliums
 ecroulement
 emden
 emydidae
-enolizing
+enolizing 1
 extramedullary
 eolotropic
 emotionalization
@@ -2179,7 +2179,7 @@ eructate
 endocyclic
 evanescently
 elbowy
-elbowpiece
+elbowpiece 1
 elbows
 explores 1
 everywoman
@@ -2856,7 +2856,7 @@ elephantoidal
 enantiopathy
 estrays
 elettaria
-emotionlessly
+emotionlessly 1
 eurylaimus
 ethnogenies
 expatiative
@@ -4955,7 +4955,7 @@ ectocoelic
 eyelight
 emporetic
 eurytomid
-emulsifiers
+emulsifiers 1
 earnestful
 ephemerally
 endearedness
@@ -8058,7 +8058,7 @@ epiphanise
 ealdormen
 epiphanous
 expansiveness
-expiator
+expiator 1
 embarred
 epigrammatizer
 earnests
@@ -8456,7 +8456,7 @@ eroticomaniacal
 epopoeias
 eveweed
 etym
-exocannibalism 1
+exocannibalism 2
 epigrammatical
 eryops
 embroidering
