@@ -2440,7 +2440,7 @@ degorder
 decimetre
 decimolar
 drainpipe
-diplacusis
+diplacusis 1
 daker
 decimole
 dangling
