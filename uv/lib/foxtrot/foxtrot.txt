@@ -9000,7 +9000,7 @@ faustian
 fourteener
 frangibleness
 fourteenths
-froren 1
+froren 2
 flatirons
 forra
 firethorn
