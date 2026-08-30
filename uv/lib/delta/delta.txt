@@ -13852,7 +13852,7 @@ dedicational
 direxit
 dysteleologist
 dammers
-decemflorous
+decemflorous 1
 decipherment
 distemper
 dollship
