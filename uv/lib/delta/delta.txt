@@ -17678,7 +17678,7 @@ disgradulate
 duan
 drenching
 declamatoriness
-diecase
+diecase 1
 dichotomistic
 downlying
 democratifiable
